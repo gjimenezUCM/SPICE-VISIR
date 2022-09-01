@@ -1,0 +1,576 @@
+[
+    {
+        "id": "001",
+        "name": "DMH artefacts collected (agglomerative)",
+        "algorithm": {
+            "name": "agglomerative",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "name": "DMH artefacts collected (kmedoids)",
+        "algorithm": {
+            "name": "kmedoids",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "name": "DMH(agglomerative)",
+        "algorithm": {
+            "name": "agglomerative",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "name": "DMH(kmedoids)",
+        "algorithm": {
+            "name": "kmedoids",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "name": "GAM similar emotions in common artworks (agglomerative)",
+        "algorithm": {
+            "name": "agglomerative",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "name": "GAM similar emotions in common artworks (kmedoids)",
+        "algorithm": {
+            "name": "kmedoids",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "007",
+        "name": "HECHT_beliefJ (agglomerative)",
+        "algorithm": {
+            "name": "agglomerative",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "008",
+        "name": "HECHT_beliefJ (kmedoids)",
+        "algorithm": {
+            "name": "kmedoids",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "009",
+        "name": "HECHT_beliefR (agglomerative)",
+        "algorithm": {
+            "name": "agglomerative",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "010",
+        "name": "HECHT_beliefR (kmedoids)",
+        "algorithm": {
+            "name": "kmedoids",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "011",
+        "name": "IMMA_country_taxonomy (kmedoids)",
+        "algorithm": {
+            "name": "kmedoids",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "012",
+        "name": "IMMA_country_taxonomy",
+        "algorithm": {
+            "name": "not defined",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "013",
+        "name": "IMMA_number_interactions",
+        "algorithm": {
+            "name": "not defined",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    },
+    {
+        "id": "014",
+        "name": "MNCN",
+        "algorithm": {
+            "name": "not defined",
+            "params": {
+                "param0": "dummyValue 0",
+                "param1": "dummyValue 1"
+            }
+        },
+        "similarity_functions": [
+            {
+                "sim_function": {
+                    "name": "sim function name 1",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            },
+            {
+                "sim_function": {
+                    "name": "sim function name 2",
+                    "params": {
+                        "param0": "sim_function dummyValue 0",
+                        "param1": "sim_function dummyValue 1"
+                    },
+                    "on_attribute": {
+                        "att_name": "att name",
+                        "att_type": "att type"
+                    },
+                    "weight": "75"
+                }
+            }
+        ]
+    }
+]

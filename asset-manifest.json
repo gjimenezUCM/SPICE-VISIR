@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPICE-visualization-ReactPort/static/css/main.0c963910.css",
+    "main.js": "/SPICE-visualization-ReactPort/static/js/main.776d8e32.js",
+    "index.html": "/SPICE-visualization-ReactPort/index.html",
+    "main.0c963910.css.map": "/SPICE-visualization-ReactPort/static/css/main.0c963910.css.map",
+    "main.776d8e32.js.map": "/SPICE-visualization-ReactPort/static/js/main.776d8e32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c963910.css",
+    "static/js/main.776d8e32.js"
+  ]
+}
