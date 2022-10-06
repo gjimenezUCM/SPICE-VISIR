@@ -1,0 +1,175 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "communities": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "explanation": {
+                        "type": "string"
+                    },
+                    "users": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "minItems": 1,
+                        "uniqueItems": true
+                    }
+                },
+                "required": [
+                    "id",
+                    "name",
+                    "explanation",
+                    "users"
+                ]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "users": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "label": {
+                        "type": "string"
+                    },
+                    "group": {
+                        "type": "integer"
+                    },
+                    "explicit_community": {
+                        "type": "object",
+                        "items": {
+                            "type": "object",
+                            "patternProperties": {
+                                ".": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "minItems": 1,
+                        "uniqueItems": true
+                    },
+                    "interactions": {
+                        "type": "array",
+                        "items": [
+                            {
+                                "type": "object",
+                                "properties": {
+                                    "artwork_id": {
+                                        "type": "string"
+                                    },
+                                    "feelings": {
+                                        "type": "string"
+                                    },
+                                    "sophia_extracted_emotions": {
+                                        "type": "object",
+                                        "items": {
+                                            "type": "object",
+                                            "patternProperties": {
+                                                ".": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        },
+                                        "minItems": 1,
+                                        "uniqueItems": true
+                                    }
+                                },
+                                "required": [
+                                    "artwork_id",
+                                    "feelings",
+                                    "sophia_extracted_emotions"
+                                ]
+                            }
+                        ],
+                        "minItems": 1,
+                        "uniqueItems": true
+                    }
+                },
+                "required": [
+                    "id",
+                    "label",
+                    "group",
+                    "explicit_community",
+                    "interactions"
+                ]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "similarity": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "u1": {
+                        "type": "string"
+                    },
+                    "u2": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "number"
+                    }
+                },
+                "required": [
+                    "u1",
+                    "u2",
+                    "value"
+                ],
+                "uniqueItems": true
+            }
+        },
+        "artworks": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "tittle": {
+                        "type": "string"
+                    },
+                    "author": {
+                        "type": "string"
+                    },
+                    "year": {
+                        "type": "string"
+                    },
+                    "image": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "tittle",
+                    "author",
+                    "year",
+                    "image"
+                ]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        }
+    },
+    "required": [
+        "communities",
+        "users",
+        "similarity",
+        "artworks"
+    ]
+}

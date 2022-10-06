@@ -162,7 +162,28 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "scettico",
+                    "sophia_extracted_emotions": {
+                        "Serenity": 0.7,
+                        "Trust": 0.3,
+                        "Fear": 0.5
+                    }
+                },
+                {
+                    "artwork_id": "2",
+                    "feelings": "Vociare, odori, curiosità, calore",
+                    "sophia_extracted_emotions": {
+                        "Surprise": 0.622342,
+                        "Anger": 1,
+                        "Disgust": 1,
+                        "Love": 1
+                    }
+                }
+            ]
         },
         {
             "id": "6",
@@ -171,7 +192,32 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "rispecchia bene la sotuazione del momento. Ciascuno di noi e costretto nella propria casa / uffcio a svolgere il proprio lavoro. Le sedie vuote rafforzano la sensazione di solitudine, tuttavia il numero di finestre permette di espandere questo interno al di fuori verso un paesaggio che infonde grande serenita'. Spazi aperti e un cielo (che occupa tutta la visuale, di un azzurro intenso. Quindi un messaggio di positivita' e grande speranza",
+                    "sophia_extracted_emotions": {
+                        "Serenity": 0.53106874,
+                        "Anticipation": 2,
+                        "Trust": 2,
+                        "Joy": 2,
+                        "Fear": 1,
+                        "Anger": 1,
+                        "Surprise": 1
+                    }
+                },
+                {
+                    "artwork_id": "2",
+                    "feelings": "Vociare, odori, curiosità, calore",
+                    "sophia_extracted_emotions": {
+                        "Surprise": 0.622342,
+                        "Anger": 1,
+                        "Disgust": 1,
+                        "Love": 1
+                    }
+                }
+            ]
         },
         {
             "id": "7",
@@ -180,7 +226,22 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "solitudine e tranquillita",
+                    "sophia_extracted_emotions": {
+                        "Serenity": 0.99208987,
+                        "Fear": 1
+                    }
+                },
+                {
+                    "artwork_id": "2",
+                    "feelings": "",
+                    "sophia_extracted_emotions": {}
+                }
+            ]
         },
         {
             "id": "8",
@@ -189,7 +250,16 @@
             "explicit_community": {
                 "ageGroup": "",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "mi fa sentire libera",
+                    "sophia_extracted_emotions": {
+                        "Joy": 1
+                    }
+                }
+            ]
         },
         {
             "id": "9",
@@ -198,7 +268,16 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "libero di esplorare",
+                    "sophia_extracted_emotions": {
+                        "Joy": 1
+                    }
+                }
+            ]
         },
         {
             "id": "11",
@@ -207,7 +286,16 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "il vento aria caldo troppo estate",
+                    "sophia_extracted_emotions": {
+                        "Sadness": 0.5490846
+                    }
+                }
+            ]
         },
         {
             "id": "12",
@@ -216,7 +304,17 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "sereno",
+                    "sophia_extracted_emotions": {
+                        "Joy": 0.981668,
+                        "Serenity": 0.9667546
+                    }
+                }
+            ]
         },
         {
             "id": "13",
@@ -225,7 +323,16 @@
             "explicit_community": {
                 "ageGroup": "adult",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "felice",
+                    "sophia_extracted_emotions": {
+                        "Joy": 0.7947353000000001
+                    }
+                }
+            ]
         },
         {
             "id": "14",
@@ -234,7 +341,14 @@
             "explicit_community": {
                 "ageGroup": "young",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "aria",
+                    "sophia_extracted_emotions": {}
+                }
+            ]
         },
         {
             "id": "15",
@@ -243,7 +357,14 @@
             "explicit_community": {
                 "ageGroup": "young",
                 "language": "EN"
-            }
+            },
+            "interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "",
+                    "sophia_extracted_emotions": {}
+                }
+            ]
         },
         {
             "id": "16",
@@ -24309,6 +24430,22 @@
             "u1": "124",
             "u2": "126",
             "value": 0.5
+        }
+    ],
+    "artworks": [
+        {
+            "id": "1",
+            "tittle": "Le tre finestre, La pianura della torre",
+            "author": "Jessie Boswell Leeds",
+            "year": "1924",
+            "image": "https%3A%2F%2Fwww.gamtorino.it%2Fsites%2Fdefault%2Ffiles%2Fopere%2FMALINCONIA-%2520BOSWELL%2520Le%2520tre%2520finestre.jpg"
+        },
+        {
+            "id": "2",
+            "tittle": "Mercato Vecchio",
+            "author": "Antonio Fontanesi Reggio Emilia",
+            "year": "1867",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/FONTANESI_P_790.jpg"
         }
     ]
 }

@@ -1,0 +1,277 @@
+{
+  "_id": "35330",
+  "@id": "35330",
+  "dateOfModify": "2018-12-13 11:41",
+  "title": "Le tre finestre, La pianura della torre",
+  "inventary": "P/1640",
+  "collection": "Opere non esposte",
+  "Soggetto": "",
+  "author": "Jessie Boswell Leeds - Gran Bretagna, 1881 - Moncrivello VC, 1956",
+  "year": "1924",
+  "Materiale e Tecnica": "olio su tela applicata su cartone",
+  "definition": "99x68.5cm",
+  "dc:source": "Acquisto presso la Societa' Promotrice di Belle Arti, Torino, 1962",
+  "image": "https%3A%2F%2Fwww.gamtorino.it%2Fsites%2Fdefault%2Ffiles%2Fopere%2FMALINCONIA-%2520BOSWELL%2520Le%2520tre%2520finestre.jpg",
+  "dc:description": "The search for the composition of space, the atmosphere of almost metaphysical suspension, the essential colour spread with uniform brushstrokes, highlight the initial influence of Felice Casorati, which Jessie Boswell interprets in a personal and poetic manner. She soon abandoned the influence of the master, approaching the language of the French painters Anna Gelli",
+  "NoteBlind": "Inventario P/1640 opere non esposte",
+  "degari_extracted_emotions": [
+    "Curiosity"
+  ],
+  "degari_extracted_values": [
+    ""
+  ],
+  "urlToQRCode": "http://....",
+  "topEmojs": [
+    {
+      "em1": "val1"
+    },
+    {
+      "em2": "val2"
+    }
+  ],
+  "unito_users": [
+    {
+      "unito_user_id": 10,
+      "annotationID": 1,
+      "think_about": "alla solitudine",
+      "makes_me_feel": "scettico",
+      "reminds_me": "",
+      "generated_content": "",
+      "hashtag": [
+        "#solitudine"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": [],
+      "sophia_extracted_sentiment": {
+        "Neutral": 1
+      }
+    },
+    {
+      "unito_user_id": 14,
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "rispecchia bene la sotuazione del momento. Ciascuno di noi e costretto nella propria casa / uffcio a svolgere il proprio lavoro. Le sedie vuote rafforzano la sensazione di solitudine, tuttavia il numero di finestre permette di espandere questo interno al di fuori verso un paesaggio che infonde grande serenita'. Spazi aperti e un cielo (che occupa tutta la visuale, di un azzurro intenso. Quindi un messaggio di positivita' e grande speranza",
+      "reminds_me": "Solitudine, frescura, irrealta', mistero, curiosita'",
+      "generated_content": "",
+      "hashtag": [
+        "alone"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Serenity": 0.53106874,
+        "Anticipation": 2,
+        "Trust": 2,
+        "Joy": 2,
+        "Fear": 1,
+        "Anger": 1,
+        "Surprise": 1
+      },
+      "sophia_extracted_sentiment": {
+        "Negative": 0.3333333333333333
+      }
+    },
+    {
+      "unito_user_id": 8,
+      "annotationID": 1,
+      "think_about": "a una torre alta in capagna",
+      "makes_me_feel": "solitudine e tranquillita'",
+      "reminds_me": "paura",
+      "generated_content": "",
+      "hashtag": [
+        "PANORAMICA OPENWIEW"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Serenity": 0.99208987,
+        "Fear": 1
+      },
+      "sophia_extracted_sentiment": {
+        "Neutral": 1
+      }
+    },
+    {
+      "unito_user_id": 4,
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "mi fa sentire libera",
+      "reminds_me": "gioia",
+      "generated_content": "",
+      "hashtag": [
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Joy": 1
+      },
+      "sophia_extracted_sentiment": []
+    },
+    {
+      "unito_user_id": 5,
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "libero di esplorare",
+      "reminds_me": " ",
+      "generated_content": "",
+      "hashtag": [
+        "freedom",
+        "liberty",
+        "love"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Joy": 1
+      },
+      "sophia_extracted_sentiment": {
+        "Positive": 0.850423
+      }
+    },
+    {
+      "unito_user_id": "6239d4c9eb2c293de317016d",
+      "annotationID": 1,
+      "think_about": "ad una casa di campagna",
+      "makes_me_feel": "",
+      "reminds_me": "",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": [],
+      "sophia_extracted_sentiment": []
+    },
+    {
+      "unito_user_id": "6228bbcbd61ae0504b793755",
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "il vento aria caldo troppo estate",
+      "reminds_me": "",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Sadness": 0.5490846
+      },
+      "sophia_extracted_sentiment": []
+    },
+    {
+      "unito_user_id": "6228bb8146c6557f4e0daa3e",
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "sereno",
+      "reminds_me": "",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Joy": 1.981668,
+        "Serenity": 1.9667546
+      },
+      "sophia_extracted_sentiment": {
+        "Positive": 1.98643285
+      }
+    },
+    {
+      "unito_user_id": "6228bb298e8ed615407c930b",
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "felice",
+      "reminds_me": "",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": {
+        "Joy": 1.7947353000000001
+      },
+      "sophia_extracted_sentiment": {
+        "Positive": 1
+      }
+    },
+    {
+      "unito_user_id": "6228b16bb9d177398d7e6641",
+      "annotationID": 1,
+      "think_about": "aria",
+      "makes_me_feel": "",
+      "reminds_me": "",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "🤩"
+      ],
+      "sophia_extracted_emotions": [],
+      "sophia_extracted_sentiment": []
+    },
+    {
+      "unito_user_id": "6228ab6b03bd7913da5a48ea",
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "",
+      "reminds_me": "l’estate",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "😢"
+      ],
+      "sophia_extracted_emotions": [],
+      "sophia_extracted_sentiment": []
+    },
+    {
+      "unito_user_id": "6239d73e63c35e2bf924454c",
+      "annotationID": 1,
+      "think_about": "",
+      "makes_me_feel": "",
+      "reminds_me": "l'estate, finestre aperte e l'ammirazione della natura intorno. Mi ricordano le Langhe e i viaggi estivi. Il tempo si ferma, ti affacci alla finestra...e....respiri!",
+      "generated_content": "",
+      "hashtag": [
+        "#"
+      ],
+      "emojs": [
+        "",
+        ""
+      ],
+      "sophia_extracted_emotions": [],
+      "sophia_extracted_sentiment": []
+    }
+  ],
+  "_datasetid": "b711f8df-f778-4357-853f-140357b3d058",
+  "_timestamp": 1662103191,
+  "_timestamp_year": 2022,
+  "_timestamp_month": 9,
+  "_timestamp_day": 2,
+  "_timestamp_hour": 8,
+  "_timestamp_minute": 19,
+  "_timestamp_second": 51,
+  "_updated": true
+}
