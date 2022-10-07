@@ -45,19 +45,22 @@
                     },
                     "label": {
                         "type": "string"
-                    },
+                    },  
                     "group": {
                         "type": "integer"
                     },
-                    "explicit_community": {
+                    "explicit_community":  {
                         "type": "object",
                         "items": {
                             "type": "object",
                             "patternProperties": {
-                                ".": {
-                                    "type": "string"
+                                "^.*$": {
+                                  "anyOf": [
+                                    {"type": "string"}
+                                  ]
                                 }
-                            }
+                              },
+                              "additionalProperties": false
                         },
                         "minItems": 1,
                         "uniqueItems": true
@@ -79,10 +82,13 @@
                                         "items": {
                                             "type": "object",
                                             "patternProperties": {
-                                                ".": {
-                                                    "type": "string"
+                                                "^.*$": {
+                                                  "anyOf": [
+                                                    {"type": "string"}
+                                                  ]
                                                 }
-                                            }
+                                              },
+                                              "additionalProperties": false
                                         },
                                         "minItems": 1,
                                         "uniqueItems": true

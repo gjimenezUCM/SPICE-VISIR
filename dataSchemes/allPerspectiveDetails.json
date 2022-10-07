@@ -1,0 +1,112 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "algorithm": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "params": {
+                        "type": "object",
+                        "items": {
+                            "type": "object",
+                            "patternProperties": {
+                                "^.*$": {
+                                    "anyOf": [
+                                        {
+                                            "type": "string"
+                                        }
+                                    ]
+                                }
+                            },
+                            "additionalProperties": false
+                        },
+                        "uniqueItems": true
+                    }
+                },
+                "required": [
+                    "name",
+                    "params"
+                ]
+            },
+            "similarity_functions": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "sim_function": {
+                            "type": "object",
+                            "properties": {
+                                "name": {
+                                    "type": "string"
+                                },
+                                "params": {
+                                    "type": "object",
+                                    "items": {
+                                        "type": "object",
+                                        "patternProperties": {
+                                            "^.*$": {
+                                                "anyOf": [
+                                                    {
+                                                        "type": "string"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    },
+                                    "minItems": 1,
+                                    "uniqueItems": true
+                                },
+                                "on_attribute":  {
+                                    "type": "object",
+                                    "items": {
+                                        "type": "object",
+                                        "patternProperties": {
+                                            "^.*$": {
+                                              "anyOf": [
+                                                {"type": "string"}
+                                              ]
+                                            }
+                                          },
+                                          "additionalProperties": false
+                                    },
+                                    "minItems": 1,
+                                    "uniqueItems": true
+                                },
+                                "weight": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "name",
+                                "params",
+                                "on_attribute",
+                                "weight"
+                            ]
+                        }
+                    },
+                    "required": [
+                        "sim_function"
+                    ]
+                }
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "algorithm",
+            "similarity_functions"
+        ]
+    }
+}
