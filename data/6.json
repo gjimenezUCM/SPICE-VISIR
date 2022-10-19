@@ -167,7 +167,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "scettico",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Serenity": 0.7,
                         "Trust": 0.3,
                         "Fear": 0.5
@@ -176,7 +176,7 @@
                 {
                     "artwork_id": "2",
                     "feelings": "Vociare, odori, curiosità, calore",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Surprise": 0.622342,
                         "Anger": 1,
                         "Disgust": 1,
@@ -197,7 +197,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "rispecchia bene la sotuazione del momento. Ciascuno di noi e costretto nella propria casa / uffcio a svolgere il proprio lavoro. Le sedie vuote rafforzano la sensazione di solitudine, tuttavia il numero di finestre permette di espandere questo interno al di fuori verso un paesaggio che infonde grande serenita'. Spazi aperti e un cielo (che occupa tutta la visuale, di un azzurro intenso. Quindi un messaggio di positivita' e grande speranza",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Serenity": 0.53106874,
                         "Anticipation": 2,
                         "Trust": 2,
@@ -210,7 +210,7 @@
                 {
                     "artwork_id": "2",
                     "feelings": "Vociare, odori, curiosità, calore",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Surprise": 0.622342,
                         "Anger": 1,
                         "Disgust": 1,
@@ -231,7 +231,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "solitudine e tranquillita",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Serenity": 0.99208987,
                         "Fear": 1
                     }
@@ -239,7 +239,7 @@
                 {
                     "artwork_id": "2",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -255,7 +255,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "mi fa sentire libera",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Joy": 1
                     }
                 }
@@ -273,7 +273,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "libero di esplorare",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Joy": 1
                     }
                 }
@@ -291,7 +291,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "il vento aria caldo troppo estate",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Sadness": 0.5490846
                     }
                 }
@@ -309,7 +309,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "sereno",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotionsextracted_emotions": {
                         "Joy": 0.981668,
                         "Serenity": 0.9667546
                     }
@@ -328,7 +328,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "felice",
-                    "sophia_extracted_emotions": {
+                    "extracted_emotions": {
                         "Joy": 0.7947353000000001
                     }
                 }
@@ -346,7 +346,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "aria",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -362,7 +362,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -378,7 +378,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -394,7 +394,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -410,7 +410,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -426,7 +426,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -442,7 +442,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -458,7 +458,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -474,7 +474,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -490,7 +490,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -506,7 +506,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -522,7 +522,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -538,7 +538,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -554,7 +554,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -570,7 +570,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -586,7 +586,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -602,7 +602,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -618,7 +618,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -634,7 +634,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -650,7 +650,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -666,7 +666,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -682,7 +682,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -698,7 +698,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -714,7 +714,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotionsextracted_emotions": {}
                 }
             ]
         },
@@ -730,7 +730,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -746,7 +746,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -762,7 +762,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -778,7 +778,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -794,7 +794,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -810,7 +810,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -826,7 +826,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -842,7 +842,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -858,7 +858,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -874,7 +874,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -890,7 +890,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -906,7 +906,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -922,7 +922,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -938,7 +938,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -954,7 +954,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -970,7 +970,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -986,7 +986,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1002,7 +1002,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1018,7 +1018,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1034,7 +1034,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1050,7 +1050,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1066,7 +1066,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1082,7 +1082,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1098,7 +1098,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1114,7 +1114,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1130,7 +1130,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotionsextracted_emotions": {}
                 }
             ]
         },
@@ -1146,7 +1146,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1162,7 +1162,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1178,7 +1178,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1194,7 +1194,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1210,7 +1210,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1226,7 +1226,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1242,7 +1242,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1258,7 +1258,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1274,7 +1274,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1290,7 +1290,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotionsextracted_emotions": {}
                 }
             ]
         },
@@ -1306,7 +1306,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1322,7 +1322,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1338,7 +1338,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1354,7 +1354,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1370,7 +1370,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1386,7 +1386,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1402,7 +1402,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1418,7 +1418,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotionsextracted_emotions": {}
                 }
             ]
         },
@@ -1434,7 +1434,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1450,7 +1450,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1466,7 +1466,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1482,7 +1482,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotionsextracted_emotions": {}
                 }
             ]
         },
@@ -1498,7 +1498,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1514,7 +1514,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1530,7 +1530,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1546,7 +1546,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1562,7 +1562,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1578,7 +1578,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1594,7 +1594,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1610,7 +1610,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1626,7 +1626,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1642,7 +1642,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1658,7 +1658,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1674,7 +1674,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotionsextracted_emotions": {}
                 }
             ]
         },
@@ -1690,7 +1690,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1706,7 +1706,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1722,7 +1722,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1738,7 +1738,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         },
@@ -1754,7 +1754,7 @@
                 {
                     "artwork_id": "1",
                     "feelings": "",
-                    "sophia_extracted_emotions": {}
+                    "extracted_emotions": {}
                 }
             ]
         }

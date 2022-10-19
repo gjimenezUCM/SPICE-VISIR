@@ -77,7 +77,7 @@
                                     "feelings": {
                                         "type": "string"
                                     },
-                                    "sophia_extracted_emotions": {
+                                    "extracted_emotions": {
                                         "type": "object",
                                         "items": {
                                             "type": "object",
@@ -97,7 +97,7 @@
                                 "required": [
                                     "artwork_id",
                                     "feelings",
-                                    "sophia_extracted_emotions"
+                                    "extracted_emotions"
                                 ]
                             }
                         ],
