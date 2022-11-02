@@ -13,26 +13,42 @@
                     "name": {
                         "type": "string"
                     },
-                    "explanation": {
-                        "type": "string"
+                    "explanations": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "explanation_type": {
+                                    "type": "string"
+                                },
+                                "explanation_data": {
+                                    "type": "object"
+                                },
+                                "visible": {
+                                    "type": "boolean"
+                                }
+                            },
+                            "required": [
+                                "explanation_type",
+                                "explanation_data"
+                            ]
+                        }
                     },
                     "users": {
                         "type": "array",
                         "items": {
                             "type": "string"
                         },
-                        "minItems": 1,
                         "uniqueItems": true
                     }
                 },
                 "required": [
                     "id",
                     "name",
-                    "explanation",
+                    "explanations",
                     "users"
                 ]
             },
-            "minItems": 1,
             "uniqueItems": true
         },
         "users": {
@@ -45,24 +61,25 @@
                     },
                     "label": {
                         "type": "string"
-                    },  
+                    },
                     "group": {
                         "type": "integer"
                     },
-                    "explicit_community":  {
+                    "explicit_community": {
                         "type": "object",
                         "items": {
                             "type": "object",
                             "patternProperties": {
                                 "^.*$": {
-                                  "anyOf": [
-                                    {"type": "string"}
-                                  ]
+                                    "anyOf": [
+                                        {
+                                            "type": "string"
+                                        }
+                                    ]
                                 }
-                              },
-                              "additionalProperties": false
+                            },
+                            "additionalProperties": false
                         },
-                        "minItems": 1,
                         "uniqueItems": true
                     },
                     "interactions": {
@@ -83,15 +100,15 @@
                                             "type": "object",
                                             "patternProperties": {
                                                 "^.*$": {
-                                                  "anyOf": [
-                                                    {"type": "string"}
-                                                  ]
+                                                    "anyOf": [
+                                                        {
+                                                            "type": "string"
+                                                        }
+                                                    ]
                                                 }
-                                              },
-                                              "additionalProperties": false
-                                        },
-                                        "minItems": 1,
-                                        "uniqueItems": true
+                                            },
+                                            "additionalProperties": false
+                                        }
                                     }
                                 },
                                 "required": [
@@ -101,7 +118,6 @@
                                 ]
                             }
                         ],
-                        "minItems": 1,
                         "uniqueItems": true
                     }
                 },
@@ -113,7 +129,6 @@
                     "interactions"
                 ]
             },
-            "minItems": 1,
             "uniqueItems": true
         },
         "similarity": {
@@ -168,7 +183,6 @@
                     "image"
                 ]
             },
-            "minItems": 1,
             "uniqueItems": true
         }
     },
