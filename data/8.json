@@ -11,7 +11,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": "Sz5Wx2XD"
                     },
@@ -45,7 +45,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": "LW3Klzvx"
                     },
@@ -1601,6 +1601,5 @@
             "_updated": true
         }
     ],
-    "id": "5",
-    "name" : "hola"
+    "name" : "Last GAM"
 }

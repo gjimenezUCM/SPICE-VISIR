@@ -11,7 +11,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 11
                     },
@@ -66,11 +66,11 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 76
                     },
-                    "visible": false
+                    "visible": true
                 }
             ],
             "users": [
@@ -88,7 +88,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 72
                     },
@@ -116,7 +116,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 7
                     },
@@ -181,7 +181,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 95
                     },
@@ -206,7 +206,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 27
                     },
@@ -230,7 +230,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 103
                     },

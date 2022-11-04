@@ -1,84 +1,14 @@
 [
     {
-        "id": "005",
-        "name": "GAM similar emotions in common artworks (agglomerative)",
-        "algorithm": {
-            "name": "agglomerative",
-            "params": {
-                "param0": "dummyValue 0",
-                "param1": "dummyValue 1"
-            }
-        },
-        "similarity_functions": [
-            {
-                "sim_function": {
-                    "name": "sim function name 1",
-                    "params": {
-                        "param0": "sim_function dummyValue 0",
-                        "param1": "sim_function dummyValue 1"
-                    },
-                    "on_attribute": {
-                        "att_name": "att name",
-                        "att_type": "att type"
-                    },
-                    "weight": "75"
-                }
-            },
-            {
-                "sim_function": {
-                    "name": "sim function name 2",
-                    "params": {
-                        "param0": "sim_function dummyValue 0",
-                        "param1": "sim_function dummyValue 1"
-                    },
-                    "on_attribute": {
-                        "att_name": "att name",
-                        "att_type": "att type"
-                    },
-                    "weight": "75"
-                }
-            }
-        ]
+        "id": "5",
+        "name": "GAM 1"
     },
     {
-        "id": "006",
-        "name": "GAM similar emotions in common artworks (kmedoids)",
-        "algorithm": {
-            "name": "kmedoids",
-            "params": {
-                "param0": "dummyValue 0",
-                "param1": "dummyValue 1"
-            }
-        },
-        "similarity_functions": [
-            {
-                "sim_function": {
-                    "name": "sim function name 1",
-                    "params": {
-                        "param0": "sim_function dummyValue 0",
-                        "param1": "sim_function dummyValue 1"
-                    },
-                    "on_attribute": {
-                        "att_name": "att name",
-                        "att_type": "att type"
-                    },
-                    "weight": "75"
-                }
-            },
-            {
-                "sim_function": {
-                    "name": "sim function name 2",
-                    "params": {
-                        "param0": "sim_function dummyValue 0",
-                        "param1": "sim_function dummyValue 1"
-                    },
-                    "on_attribute": {
-                        "att_name": "att name",
-                        "att_type": "att type"
-                    },
-                    "weight": "75"
-                }
-            }
-        ]
+        "id": "6",
+        "name": "GAM 2"
+    },
+    {
+        "id": "8",
+        "name" : "Last GAM"
     }
 ]

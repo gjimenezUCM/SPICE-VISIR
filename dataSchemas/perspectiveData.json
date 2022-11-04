@@ -184,6 +184,9 @@
                 ]
             },
             "uniqueItems": true
+        },
+        "name":{
+            "type": "string"
         }
     },
     "required": [

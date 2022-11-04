@@ -10,7 +10,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 7
                     },
@@ -65,7 +65,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 5
                     },
@@ -131,11 +131,11 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 91
                     },
-                    "visible": false
+                    "visible": true
                 }
             ],
             "users": [
@@ -152,7 +152,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 27
                     },
@@ -175,7 +175,7 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "medioid",
+                    "explanation_type": "medoid",
                     "explanation_data": {
                         "id": 90
                     },
@@ -25100,5 +25100,6 @@
             "year": "1867", 
             "image": "https://www.gamtorino.it/sites/default/files/opere/FONTANESI_P_790.jpg"
         }
-    ]
+    ],
+    "name": "GAM 1"
 }
