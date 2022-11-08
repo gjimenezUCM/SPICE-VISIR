@@ -1,0 +1,1507 @@
+{
+    "name": "GAM similar user sentiments in similar artworks (Artwork_Artistic_Movement)",
+    "perspectiveId": "GAM similar user sentiments in similar artworks (Artwork_Artistic_Movement)",
+    "communities": [
+        {
+            "id": "GAM similar user sentiments in similar artworks (Artwork_Artistic_Movement)-0",
+            "community-type": "implicit",
+            "name": "Community 0",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "Sz5Wx2XD"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "implicit_attributes": "Minimum percentage of users with the representative properties: 90.0 %; Representative Properties: {'community_sentiment': 'positive    100.0'}"
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "Sz5Wx2XD",
+                "WYCImqGm",
+                "q2BDj1os",
+                "yjlouq5U"
+            ]
+        },
+        {
+            "id": "GAM similar user sentiments in similar artworks (Artwork_Artistic_Movement)-1",
+            "community-type": "implicit",
+            "name": "Community 1",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "B3N0HGw4"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "implicit_attributes": "Minimum percentage of users with the representative properties: 90.0 %; Representative Properties: {'community_sentiment': 'neutral    100.0'}"
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "B3N0HGw4",
+                "loEoYm9R",
+                "x2AUnHqw"
+            ]
+        },
+        {
+            "id": "GAM similar user sentiments in similar artworks (Artwork_Artistic_Movement)-2",
+            "community-type": "implicit",
+            "name": "Community 2",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "KQTGApjD"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "implicit_attributes": "Minimum percentage of users with the representative properties: 90.0 %; Representative Properties: {'community_sentiment': 'negative    100.0'}"
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "KQTGApjD",
+                "LW3Klzvx",
+                "Y0WXF1LR",
+                "cBjFhvjx"
+            ]
+        },
+        {
+            "id": "GAM similar user sentiments in similar artworks (Artwork_Artistic_Movement)-3 (Users without community)",
+            "community-type": "inexistent",
+            "name": "Community 3 (Users without community)",
+            "explanations": [],
+            "users": [
+                "LvIeXwcT",
+                "RQ4a2nIG"
+            ]
+        }
+    ],
+    "numberOfCommunities": 3,
+    "users": [
+        {
+            "id": "B3N0HGw4",
+            "label": "B3N0HGw4",
+            "group": 1,
+            "explicit_community": {
+                "relationship_with_arts": "Ho un forte interesse per l'arte",
+                "relationship_with_museums": "Visito di tanto in tanto musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35445",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Neutral": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": "KQTGApjD",
+            "label": "KQTGApjD",
+            "group": 2,
+            "explicit_community": {
+                "relationship_with_arts": "L'arte mi interessa poco",
+                "relationship_with_museums": "Visito raramente musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35433",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 0.9913147
+                    }
+                }
+            ]
+        },
+        {
+            "id": "LW3Klzvx",
+            "label": "LW3Klzvx",
+            "group": 2,
+            "explicit_community": {
+                "relationship_with_arts": "L'arte mi interessa poco",
+                "relationship_with_museums": "Visito raramente musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35364",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 0.9388350999999999
+                    }
+                }
+            ]
+        },
+        {
+            "id": "LvIeXwcT",
+            "label": "LvIeXwcT",
+            "group": 3,
+            "explicit_community": {
+                "relationship_with_arts": "Non provo nessun interesse per l'arte",
+                "relationship_with_museums": "Visito raramente musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35323",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 0.98281974
+                    }
+                },
+                {
+                    "artwork_id": "39182",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 0.76706463
+                    }
+                }
+            ]
+        },
+        {
+            "id": "RQ4a2nIG",
+            "label": "RQ4a2nIG",
+            "group": 3,
+            "explicit_community": {
+                "relationship_with_arts": "Non provo nessun interesse per l'arte",
+                "relationship_with_museums": "Visito raramente musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35227",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 1.88238174
+                    }
+                },
+                {
+                    "artwork_id": "39182",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Neutral": 1
+                    }
+                },
+                {
+                    "artwork_id": "39648",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 0.7526826999999999
+                    }
+                },
+                {
+                    "artwork_id": "39347",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 1.7120972
+                    }
+                },
+                {
+                    "artwork_id": "39347",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 1.7120972
+                    }
+                },
+                {
+                    "artwork_id": "35433",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 1.9813416
+                    }
+                },
+                {
+                    "artwork_id": "35222",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 1
+                    }
+                },
+                {
+                    "artwork_id": "39138",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 1.9396
+                    }
+                },
+                {
+                    "artwork_id": "39175",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 0.9119556
+                    }
+                },
+                {
+                    "artwork_id": "35567",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Sz5Wx2XD",
+            "label": "Sz5Wx2XD",
+            "group": 0,
+            "explicit_community": {
+                "relationship_with_arts": "Ho un forte interesse per l'arte",
+                "relationship_with_museums": "Visito di tanto in tanto musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35245",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 0.96760535
+                    }
+                }
+            ]
+        },
+        {
+            "id": "WYCImqGm",
+            "label": "WYCImqGm",
+            "group": 0,
+            "explicit_community": {
+                "relationship_with_arts": "Ho un forte interesse per l'arte",
+                "relationship_with_museums": "Visito spesso i musei"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35229",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 0.5056431
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Y0WXF1LR",
+            "label": "Y0WXF1LR",
+            "group": 2,
+            "explicit_community": {
+                "relationship_with_arts": "Il mio lavoro riguarda l'arte",
+                "relationship_with_museums": "Visito spesso i musei"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35323",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 1.9748701999999998
+                    }
+                }
+            ]
+        },
+        {
+            "id": "cBjFhvjx",
+            "label": "cBjFhvjx",
+            "group": 2,
+            "explicit_community": {
+                "relationship_with_arts": "Ho un forte interesse per l'arte",
+                "relationship_with_museums": "Visito spesso i musei"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "39175",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 0.6164452
+                    }
+                },
+                {
+                    "artwork_id": "39175",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Negative": 0.6164452
+                    }
+                }
+            ]
+        },
+        {
+            "id": "loEoYm9R",
+            "label": "loEoYm9R",
+            "group": 1,
+            "explicit_community": {
+                "relationship_with_arts": "L'arte mi interessa poco",
+                "relationship_with_museums": "Visito raramente musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35310",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Neutral": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q2BDj1os",
+            "label": "q2BDj1os",
+            "group": 0,
+            "explicit_community": {
+                "relationship_with_arts": "Ho un forte interesse per l'arte",
+                "relationship_with_museums": "Visito spesso i musei"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "39138",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": "x2AUnHqw",
+            "label": "x2AUnHqw",
+            "group": 1,
+            "explicit_community": {
+                "relationship_with_arts": "L'arte mi interessa poco",
+                "relationship_with_museums": "Visito raramente musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35456",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Neutral": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": "yjlouq5U",
+            "label": "yjlouq5U",
+            "group": 0,
+            "explicit_community": {
+                "relationship_with_arts": "Ho un forte interesse per l'arte",
+                "relationship_with_museums": "Visito di tanto in tanto musei e mostre"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35433",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Positive": 0.5029781999999999
+                    }
+                }
+            ]
+        }
+    ],
+    "similarity": [
+        {
+            "u1": "B3N0HGw4",
+            "u2": "KQTGApjD",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "LW3Klzvx",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "LvIeXwcT",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "RQ4a2nIG",
+            "value": 0.55
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "Sz5Wx2XD",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "WYCImqGm",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "Y0WXF1LR",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "loEoYm9R",
+            "value": 1.0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "q2BDj1os",
+            "value": 0.5
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "x2AUnHqw",
+            "value": 1.0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "LW3Klzvx",
+            "value": 1.0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "LvIeXwcT",
+            "value": 0.5
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "RQ4a2nIG",
+            "value": 0.45
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "Sz5Wx2XD",
+            "value": 0.0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "WYCImqGm",
+            "value": 0.0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "Y0WXF1LR",
+            "value": 1.0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "cBjFhvjx",
+            "value": 1.0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "q2BDj1os",
+            "value": 0.0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "yjlouq5U",
+            "value": 0.0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "LvIeXwcT",
+            "value": 0.5
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "RQ4a2nIG",
+            "value": 0.45
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "Sz5Wx2XD",
+            "value": 0.0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "WYCImqGm",
+            "value": 0.0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "Y0WXF1LR",
+            "value": 1.0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "cBjFhvjx",
+            "value": 1.0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "q2BDj1os",
+            "value": 0.0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "yjlouq5U",
+            "value": 0.0
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "RQ4a2nIG",
+            "value": 0.45
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "Sz5Wx2XD",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "WYCImqGm",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "Y0WXF1LR",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "q2BDj1os",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "Sz5Wx2XD",
+            "value": 0.55
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "WYCImqGm",
+            "value": 0.55
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "Y0WXF1LR",
+            "value": 0.45
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "cBjFhvjx",
+            "value": 0.45
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "loEoYm9R",
+            "value": 0.55
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "q2BDj1os",
+            "value": 0.55
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "x2AUnHqw",
+            "value": 0.55
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "yjlouq5U",
+            "value": 0.55
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "WYCImqGm",
+            "value": 1.0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "Y0WXF1LR",
+            "value": 0.0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "cBjFhvjx",
+            "value": 0.0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "q2BDj1os",
+            "value": 1.0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "yjlouq5U",
+            "value": 1.0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "Y0WXF1LR",
+            "value": 0.0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "cBjFhvjx",
+            "value": 0.0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "q2BDj1os",
+            "value": 1.0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "yjlouq5U",
+            "value": 1.0
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "cBjFhvjx",
+            "value": 1.0
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "q2BDj1os",
+            "value": 0.0
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "yjlouq5U",
+            "value": 0.0
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "q2BDj1os",
+            "value": 0.0
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "yjlouq5U",
+            "value": 0.0
+        },
+        {
+            "u1": "loEoYm9R",
+            "u2": "q2BDj1os",
+            "value": 0.5
+        },
+        {
+            "u1": "loEoYm9R",
+            "u2": "x2AUnHqw",
+            "value": 1.0
+        },
+        {
+            "u1": "loEoYm9R",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        },
+        {
+            "u1": "q2BDj1os",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "q2BDj1os",
+            "u2": "yjlouq5U",
+            "value": 1.0
+        },
+        {
+            "u1": "x2AUnHqw",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        }
+    ],
+    "artworks": [
+        {
+            "id": "35456",
+            "@id": 35456,
+            "DateOfLastModify": "2019-01-15 10:59",
+            "tittle": "La pittrice",
+            "Inventary": "P/1955",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Lorenzo Delleani",
+            "year": "1881",
+            "Materiale_e_Tecnica": "Olio su tavola",
+            "Dimension": "37,2x25,5 cm",
+            "Definizione": "",
+            "Acquisizione": "Legato di Ettore De Fornaris, Torino, 1978.",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/DELLEANI%20La%20pittrice%20P%201955.jpg",
+            "dc:description": "Il dipinto, che ritrae una delle allieve dell'artista, costituisce un significativo omaggio alla pittura en plein air, verso la quale Delleani si sente ormai sospinto con sempre maggiore urgenza. In questa tavoletta una delle prime realizzate nel formato 37x25 a cui l'artista rimarr\u00e0 legato per anni, sono gi\u00e0 presenti le predilette gamme cromatiche che vanno dai gialli alle infinite sfumature di verdi che risalgono verso un cielo cenerino, nonch\u00e8 i rapporti armonici tra la composizione \"geometrizzante\" del paesaggio e le linee pi\u00f9 morbide e indefinite delle figure.\n\nAntonella Casassa",
+            "Artwork_start_date": 1881,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1840,
+            "Artist_death_date": 1908,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Plein Air",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on wood",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "25,5",
+            "Size_width": "37,2",
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "25HH113 (high) hill - HH - ideal landscapes; 25H151 deciduous forest; 31D15 adult woman; 48C5112 working situations ~ painter; 48C5 painting, drawing and the graphic arts; 34B11 dog",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127149,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 9,
+            "_updated": true
+        },
+        {
+            "id": "35227",
+            "@id": 35227,
+            "DateOfLastModify": "2020-12-11 17:05",
+            "tittle": "Contadini al sole",
+            "Inventary": "P/965",
+            "Collection": "Opera non esposta",
+            "Sumbject": "",
+            "author": "Felice Carena",
+            "year": "1919",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "cm 182,3 x 152,7",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la Societ\u00e0 Promotrice delle Belle Arti, Torino, 1919",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/_Felice%20Carena%2C%20%20Contadini%20al%20sole%2C%201919.jpg",
+            "dc:description": "La conoscenza della pittura post-impressionista, per visione diretta delle opere e attraverso i racconti dell'amico e critico d'arte Emilio Cecchi, imprime una svolta fondamentale al percorso figurativo di Carena, che progressivamente indaga i diversi sviluppi dell'impressionismo, pur mantenendo caratteristiche formali e cromatiche del tutto originali. Il dipinto segna il ritorno dell'artista alla pittura dopo la tragica interruzione della guerra ed \u00e8 documento della sua infatuazione per Gauguin, il cui mondo esotico viene calato nella realt\u00e0 agreste e primitiva di Anticoli Corrado, piccolo centro del Lazio divenuto, negli anni del conflitto, una vera e propria comunit\u00e0 di artisti.\n\nLaura D'Agostino",
+            "Artwork_start_date": 1919,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1879,
+            "Artist_death_date": 1966,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Realism",
+            "Secondary_Artwork_Artistic_Movement": "Simbolismo",
+            "Technique": "oil painting",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "182,3",
+            "Size_width": "152,7",
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31A2351 sitting on the ground; 31AA2351 sitting on the ground - AA - female human figure; 31D14(+4) adult man (+ three-quarter view); 43B12 picnic, alfresco, 'd\u00e9jeuner sur l'herbe'; 25G3(PINE) trees: pine;",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127148,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 8,
+            "_updated": true
+        },
+        {
+            "id": "35323",
+            "@id": 35323,
+            "DateOfLastModify": "2018-04-17 17:06",
+            "tittle": "Daphne (Daphne a Pavarolo)",
+            "Inventary": "P/1079",
+            "Collection": "Novecento - primo piano",
+            "Sumbject": "",
+            "author": "Felice Casorati",
+            "year": "1934",
+            "Materiale_e_Tecnica": "Olio su compensato",
+            "Dimension": "cm 121x151",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la XIX Esposizione Biennale Internazionale d'Arte, venezia, 1934",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/casorati.%20daphne%20a%20pavarolo.jpg",
+            "dc:description": "La grande composizione presenta un articolato gioco prospettico: lo sfondato del paesaggio oltre le spalle di Daphne, seduta sul davanzale, si moltiplica sui vetri specchianti delle ante di finestra. Daphne si configura qui come l'emblema quasi astratto della calma solitaria. Il dipinto mostra il ritorno di Casorati ad uno stile pi\u00f9 conchiuso e definito nei contorni della figura, e di impianto monumentalizzante, rispetto alle opere intorno al '30.\n\nRiccardo Passoni",
+            "Artwork_start_date": 1934,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1883,
+            "Artist_death_date": 1963,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Magic realism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on plywood",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 121,
+            "Size_width": 151,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31A235 sitting figure; 31AA26113 sitting or lying with both legs straight, side by side - AA - female human figure; 31B6217 eyes closed; 41D211(DAY DRESS) dress, gown: day dress; 41A3311 open window; 25H114 low hill country; 47I421 vineyard; 41A421 curtains; 31A51111 reflection (in a mirror)",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127148,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 8,
+            "_updated": true
+        },
+        {
+            "id": "39182",
+            "@id": 39182,
+            "DateOfLastModify": "2018-12-11 11:01",
+            "tittle": "Aracne",
+            "Inventary": "P/480",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Carlo Stratta Torino",
+            "year": "1893",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "cm 120x 113",
+            "Definizione": "",
+            "Acquisizione": "Acquisto dalla Societ\u00e0 Promotrice delle Belle Arti, 1893,Torino",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/Ottocento_Stratta_Aracne.jpg",
+            "dc:description": "Della pittura di genere moderno, cui Stratta si dedicher\u00e0, in particolare dagli anni Novanta, trattando con estrema perizia la restituzione d\u2019ambiente, \u00e8 esemplare il dipinto Aracne, del 1893, in cui l\u2019interieur \u00e8 ricco di richiami alle \u201cmode\u201d orientaleggianti di fine secolo, dalla nota arabo-ispanica del tavolino moresco che ricorda le creazioni di Carlo Bugatti, al Japonisme del lampione di carta di riso e della tenda-paravento. La caratterizzazione ambientale \u00e8 finalizzata al risalto psicologico del personaggio: \u00a0la giovane donna fissa volitiva e interrogante lo spettatore,\u00a0 quasi in un moto di sfida, al centro\u00a0 di un avviluppante d\u00e9cor domestico ove natura e artificio si mescolano confondendosi, mentre nella luce diffusa prende vita in un groviglio di colli, becchi e ali, il volo di stoffa degli aironi, quasi fossero i pensieri che irradiano dalla bella, enigmatica testa dorata. Il maestro Fontanesi aveva infatti scritto in una lettera all\u2019allievo prediletto di studiare il vero all\u2019aria aperta durante il giorno, dedicando la sera agli studi di figura, invitandolo a raffinare entrambe le polarit\u00e0 espressive della visione: \u201cil paesaggio, cio\u00e8 la luce, lo spazio, l\u2019atmosfera e tutto ci\u00f2 che si contiene nell\u2019immensit\u00e0, cio\u00e8 l\u2019infinito\u201d, e \u201cla figura, cio\u00e8 l\u2019anima umana e tutte le sue passioni, cio\u00e8 rendere visibile l\u2019invisibile\u201d\u00a0\n\n\u00a0\n\nMonica Vinardi",
+            "Artwork_start_date": 1893,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1852,
+            "Artist_death_date": 1936,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Art Nouveau",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "paper on canvas",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 120,
+            "Size_width": 113,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31D15(+8) adult woman (+ sex and age (of human being)); 31A235 sitting figure; 41A2 interior of the house; 41A222 drawing-room, 'salon'; 41A673 potted plants; 41A722 couch, sofa, settee; 41A421 curtains; 41D443 (other forms of) needlework, e.g.: crocheting, knitting, embroidering",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127147,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 7,
+            "_updated": true
+        },
+        {
+            "id": "39648",
+            "@id": 39648,
+            "DateOfLastModify": "2020-11-30 17:07",
+            "tittle": "Anticoli sole a picco (Paesaggio di Anticoli)",
+            "Inventary": "P/1114",
+            "Collection": "Opera non esposta",
+            "Sumbject": "",
+            "author": "Gigi Chessa",
+            "year": "1921",
+            "Materiale_e_Tecnica": "Olio su cartone",
+            "Dimension": "40 x 44 cm",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la Societ\u00e0 Promotrice delle Belle Arti, Torino, 1935",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/P_1114%20Chessa%2BPaesaggio%20di%20Anticoli_0.jpg",
+            "dc:description": "Pur non sottraendosi all'autorit\u00e0 di Casorati, Chessa recepisce la pittura di Carena, con cui soggiorna, fra il 1919 ed il 1921, ad Anticoli Corrado. Il ritiro di Anticoli, ricco di informazioni e rapporti di lavoro, di riflessioni sul post\u00a0- impressionismo e Cezanne in particolare, \u00e8 importante e fondamentale per la formazione del giovane Chessa. Da tali meditazioni nascono opere come questa, dove la solida struttura formale del gruppo di case, e del paesaggio, \u00e8 addolcita dalla incidenza della luce che cade dall'alto.\u00a0\n\n\u00a0\n\n\u00a0\n\nAnna Gelli",
+            "Artwork_start_date": 1921,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1898,
+            "Artist_death_date": "",
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Post-impressionism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on cardboard",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 40,
+            "Size_width": 44,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "25H151 deciduous forest; 25I2 village; 25H114 low hill country",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127146,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 6,
+            "_updated": true
+        },
+        {
+            "id": "35364",
+            "@id": 35364,
+            "DateOfLastModify": "2018-11-20 09:40",
+            "tittle": "Maternit\u00e0",
+            "Inventary": "S/164",
+            "Collection": "Novecento - primo piano",
+            "Sumbject": "",
+            "author": "Arturo Martini",
+            "year": "1929",
+            "Materiale_e_Tecnica": "Legno",
+            "Dimension": "cm 82x227x78",
+            "Definizione": "",
+            "Acquisizione": "Dono del prof. Lionello Venturi, Torino, 1932",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/Martini_S_164.jpg",
+            "dc:description": "In quest'opera presentata alla I Quadriennale romana, Martini aggrega secondo un ritmo ascensionale i volumi dei figli che si aggrappano al corpo della madre. Il tema della maternit\u00e0 \u00e8 reso attraverso l'espressivit\u00e0 dei gesti, nel rinvio all'immagine di un albero che porta su di s\u00e9 i suoi frutti. Intagliata in un tronco che nel basamento rivela la sua consistenza arborea, la forma plastica emerge a sbalzo, ma in alcuni punti - ad esempio nella mano sinistra della donna - \u00e8 suggerita in negativo.\u00a0Nell'articolo che Lionello Venturi dedic\u00f2 a Martini su \"L'Arte\" (VI(1930), p. 577), l'opera, che aveva voluto nella sua collezione, \u00e8 segnalata come un capolavoro, attraverso una lettura condotta all'insegna del gusto del primitivi: \"Date a quel gruppo il titolo di Carit\u00e0: e ne farete una Cariatide tragica per una cattedrale romanica\".\n\nMaria Teresa Roberto",
+            "Artwork_start_date": 1929,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1889,
+            "Artist_death_date": 1947,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Gruppo Novecento",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "wood",
+            "Artwork_type": "sculpture",
+            "Size_unity": "cm",
+            "Size_height": 82,
+            "Size_width": 227,
+            "Size_depth": 78,
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31D15 adult woman; 31AA571 'motherly care', delousing - AA - female human figure; 42B123 mother with son(s) and daughter(s) (mother-love)",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127146,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 6,
+            "_updated": true
+        },
+        {
+            "id": "39347",
+            "@id": 39347,
+            "DateOfLastModify": "2019-01-24 13:28",
+            "tittle": "Dans mon pays",
+            "Inventary": "P/1321",
+            "Collection": "Novecento - primo piano",
+            "Sumbject": "",
+            "author": "Marc Chagall",
+            "year": "1943",
+            "Materiale_e_Tecnica": "Guazzo e tempera su carta applicata su tela",
+            "Dimension": "cm 57,2 x 49,7",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la XXII Esposizione Biennale Internazionale d'Arte,Venezia, 1948",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/E5_CHAGALL%20Dans%20mon%20pays.jpg",
+            "dc:description": "L'opera \u00e8 stata realizzata in Messico durante il soggiorno americano dell'artista (1941 - 1943). L'elemento russo evocato in questo intenso dipinto \u00e8 poeticamente presente nella soluzione fantastica del paesaggio, che \u00e8 quello caro e familiare dell'infanzia a Vitebsk: vecchie dacie di legno,stradine di steccato, insegne nei negozi, giovani amanti, animali domestici, accomunati in un mondo \"supernaturale\" - secondo la definizione di Apollinaire - comunque fantastico e surreale di idilliaca quiete. La sontuosit\u00e0 squillante del colore blu,con la densa luce bianca della luna posta al centro,sulla neve, sotto il ventre del cavallo,raggiunge qui una magica profondit\u00e0 e risonanza,acquistando una forte suggestivit\u00e0 interiore che comunica,nella trasfigurazione del sogno,inquietudine e tristezza,immersa com'\u00e8 nella struggente e malinconica tenerezza del ricordo.\u00a0\n\n\u00a0\n\n\u00a0\n\nGiorgio Auneddu",
+            "Artwork_start_date": 1943,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1887,
+            "Artist_death_date": 1985,
+            "Gender": "male",
+            "Artist_country": "Russian Federation",
+            "Artist_secondary_country": "France",
+            "Artwork_Artistic_Movement": "Surrealism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "gouache",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "57,2",
+            "Size_width": "49,7",
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "25HH16 plain - HH - ideal landscapes; 23R141 night ~ landscape (sometimes titled 'Nox'); 33C231 arm in arm (lovers); 47I214 goat; 46C13141 horse; 24B2 full moon; 41A163 cottage;",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127146,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 6,
+            "_updated": true
+        },
+        {
+            "id": "35433",
+            "@id": 35433,
+            "DateOfLastModify": "2018-11-14 10:27",
+            "tittle": "Ritorno alla stalla (La ritirata)",
+            "Inventary": "P/374",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Carlo Pittara",
+            "year": "1866",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "cm 115x85,5",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la Societ\u00e0 Promotrice di Belle Arti, Torino, 1866",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/PITTARA_P_374.jpg",
+            "dc:description": "Giocato sapientemente sui toni grigio-bruni per rendere l'effetto della pioggia e su tagli prospettici orizzontali, interrotti dalla verticalit\u00e0 dei due pastori dagli ombrelli di tinte vivaci, il dipinto coglie come in un'istantanea il ritorno delle pecore all'ovile. Dice A. Griseri nel 1967: \"Prima delle pecore di Pellizza e di Segantini, questi sono gli animali pi\u00f9 amati che emergano dalla pittura dell'Ottocento, tanto pi\u00f9 commossi rispetto a quelli di Palizzi\". Formatosi come animalista, Pittara fu noto e stimato dai contemporanei proprio per questo aspetto della sua produzione. Ma l'insistenza sull'umile mondo della pastorizia fu inviso da alcuni commentatori. Accettato dall'ufficialit\u00e0 per il rispetto del linguaggio pittorico tradizionale, Pittara sar\u00e0 giudicato dallo Stella (Torino, 1893, p. 276) alieno \"da certe arditezze\" e \"brutalit\u00e0\" alla Courbet.\n\nElisabetta Canestrini",
+            "Artwork_start_date": 1866,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1835,
+            "Artist_death_date": 1891,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Verism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil painting",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "85,5",
+            "Size_width": 115,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "41A161 country-house; 26B rain; 26A32 nimbus, i.e. rain clouds; 47I213 sheep; 47I2211 herd, flock; 47I22111 return to the fold, byre, stable ~ herd, herdsman; 47I221 herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127145,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 5,
+            "_updated": true
+        },
+        {
+            "id": "35445",
+            "@id": 35445,
+            "DateOfLastModify": "2015-12-21 12:14",
+            "tittle": "Sponde del Po",
+            "Inventary": "P/365",
+            "Collection": "Opera non esposta",
+            "Sumbject": "",
+            "author": "Demetrio Cosola",
+            "year": "1881",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "cm 54,5x37,5",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso il Circolo degli Artisti, Torino, 1989.",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/COSOLA_P_365-1.jpg",
+            "dc:description": "Il dipinto esposto al circolo degli artisti nel 1881, \u00e8 stato a volte confuso, per somiglianza tematica e per la presenza sull'opera di un'etichetta con la dicitura \"Rive del Po\", con il quadro di quel titolo presentato sempre in quella sede nel 1888. Dragone, in occasione della retrospettiva dedicata al pittore a Ivrea e a Torino nel 1951, lo data invece al 1892; dati errati anche nel catalogo del Mall\u00e8 che indica al 1882 la data di acquisizione. In questa teletta l'artista traduce la profondit\u00e0 del paesaggio fluviale in una ricerca di luminosit\u00e0 di ampio respiro resa con una felice gradazione di toni caldi e freddi e con immediatezza di tocco e variet\u00e0 di pennellata.\n\nCaterina Thellung de Courtelary",
+            "Artwork_start_date": 1881,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1851,
+            "Artist_death_date": 1895,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Verism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on wood",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "37,5",
+            "Size_width": "54,5",
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "25HH16 plain - HH - ideal landscapes; 25H213 river; 25H217 river bank; 25HH2130(PO) personification of river Po; 'Po' (Ripa) - HH - ideal landscapes; 26A11 cirrus (high clouds); 25G3(BEECH) trees: beech; 31A231 standing figure; 31D14 adult man",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127144,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 4,
+            "_updated": true
+        },
+        {
+            "id": "35310",
+            "@id": 35310,
+            "DateOfLastModify": "2019-01-15 10:44",
+            "tittle": "Il torrente d'inverno",
+            "Inventary": "P/850",
+            "Collection": "Opera non esposta",
+            "Sumbject": "",
+            "author": "Giuseppe Bozzalla",
+            "year": "1910",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "cm 80,2x65,3",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la Societ&#224; Promotrice delle Belle Arti, Torino, 1910",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/Bozzalla%20il%20torrente%20d%27inverno%20P%20850.jpg",
+            "dc:description": "Il profilo sinuoso delle sponde e dei tronchi contribuisce ad accrescere il fascino sottile del paesaggio, che riflette l'adesione dell'artista al gusto secessionista art nouveau. La verit\u00e0 ottica del primo piano, testimoniata dalle iridescenze del manto nevoso e dalle trasparenze livide dell'acqua, crea un singolare contrasto con il paesaggio e il cielo nuvoloso, volutamente indefiniti.\n\nVirginia Bertone",
+            "Artwork_start_date": 1910,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1874,
+            "Artist_death_date": 1958,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Art Nouveau",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil painting",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "65,3",
+            "Size_width": "80,2",
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "25HH211 spring, source of river or stream - HH - ideal landscapes; 26D1 snow; 25H151 deciduous forest; 26A42 cumulonimbus, i.e. thunder clouds",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127143,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 3,
+            "_updated": true
+        },
+        {
+            "id": "35229",
+            "@id": 35229,
+            "DateOfLastModify": "2019-01-15 11:48",
+            "tittle": "(Der) Matrose Fritz M\u00faller aus Pieschen",
+            "Inventary": "P/1730",
+            "Collection": "Novecento - primo piano",
+            "Sumbject": "",
+            "author": "Otto Dix",
+            "year": "1919",
+            "Materiale_e_Tecnica": "Tecnica mista, tempera e velatura ad olio su carta intelata con cornice originale dell'autore",
+            "Dimension": "128x127,8",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la Galleria Klihm, Monaco, 1967",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/DIX%20P1730.jpg",
+            "dc:description": "Questa importante opera appartiene al periodo giovanile di Dix, ed \u00e8 di pochi mesi precedente alla vera svolta del suo stile, gi\u00e0 incline verso il nuovo orientamento realista che si verificher\u00e0 dopo il 1920. Il senso compositivo del dipinto risente della singolare intersezione di dadaismo, cubismo e futurismo. Significative analogie tematiche e formali con quest'opera si hanno in lavori come: Autoritratto a guisa di bersaglio, 1915 (Otto Dix Stiftung, Schaffhausen) e, soprattutto S\u00fadlicher Matrose, 1923 (ibid.) che si differenzia nella figura del marinaio solo per l'aggiunta della pipa in bocca, ed Hafenszene (Scena al porto), 1922 (coll. privata), vicino non solo nella interpretazione iconografica, ma anche per i chiari e brillanti cromatismi dalle tonalit\u00e0 dominanti azzurre e verdi.\n\nGiorgio Auneddu",
+            "Artwork_start_date": 1919,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1891,
+            "Artist_death_date": 1969,
+            "Gender": "male",
+            "Artist_country": "Germany",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Avant garde",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "mixed",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "127,8",
+            "Size_width": 128,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "48B3 portrait, self-portrait of artist; 25HH2322(...) sea (with NAME) - HH - ideal landscapes; 49I1 exploration, expedition, voyage of discovery; 25M1 Egyptian pyramids (Wonder of the World); 46C21 ships (in general); 12R51 priest ~ American Indian religions; 25FF422 dragon (large fabulous serpent, sometimes with wings and legs); 25A1420 'Oriente' (Ripa)",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127142,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 2,
+            "_updated": true
+        },
+        {
+            "id": "35222",
+            "@id": 35222,
+            "DateOfLastModify": "2018-11-19 09:42",
+            "tittle": "Dopo il duello",
+            "Inventary": "P/1118",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Antonio Mancini",
+            "year": "1872",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "162x105",
+            "Definizione": "",
+            "Acquisizione": "Acquisto da Eugenio Ventura, Torino, 1935",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/MANCINI_P_1118.jpg",
+            "dc:description": "Abiti elegantemente borghesi rivestono in questo dipinto il modellino napoletano che compare in veste di scugnizzo e saltimbanco in numerosissimi quadri dell'artista. In questa opera giovanile la situazione \u00e8 fissata in un momento di teatrale drammaticit\u00e0 in cui l'angoscia palesata nel volto dei fanciullo e l'incombente ombra sulla sinistra aumentano il mistero dell'interpretazione dei soggetto, tesa tra realt\u00e0 e finzione. Giocano sull'atmosfera sospesa i colori, dal giallo-arancio della parete di fondo su cui lievitano le ombre prodotte dal nero della veste, al contrasto del bianco abbacinante della camicia in primo piano.\n\n\n\nElisabetta Ballaira",
+            "Artwork_start_date": 1872,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1852,
+            "Artist_death_date": 1930,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Realism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil painting",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 162,
+            "Size_width": 105,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31D11221 boy (child between toddler and youth); 41A2 interior of the house; 47H6 textile fabric, cloth; 31A22611 blood; 45C13(SWORD) hacking and thrusting weapons: sword; 33B2 duelling; 31A461 pain",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127142,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 2,
+            "_updated": true
+        },
+        {
+            "id": "39138",
+            "@id": 39138,
+            "DateOfLastModify": "2018-11-14 13:28",
+            "tittle": "La Sirena (Sirena) (Abisso verde)",
+            "Inventary": "S/403",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Giulio Aristide Sartorio",
+            "year": "1893",
+            "Materiale_e_Tecnica": "Olio su tela applicata su tavola",
+            "Dimension": "71 x 142 cm",
+            "Definizione": "",
+            "Acquisizione": "Acquisto da privato, Roma, 2007",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/Ottocento_Sartorio_La%20sirena.jpg",
+            "dc:description": "La sirena\" fu dipinta da Sartorio in seguito al primo soggiorno londinese e risente fortemente dell'esempio della pittura preraffaellita inglese. Rientrato in Italia, l'opera fu riprodotta anhe sulla \"tribuna Illustrata\", accompagnata dal alcuni versi di Diego Angeli, e raccolse il plauso della critica coeva.\u00a0La composizione dal profondo taglio orizzontale \u00e8 costruita intorno alla figura della sinuosa sirena dai lunghi capelli rossi e dalla pelle diafana che cinge il corpo del giovane pescatore che si protende dalla barca. I teschi, visibili in trasparenza sul fondo marino alle spalle della donna,suggeriscono la fine che attende la\u00a0giovane vittima tra le braccia dell'ammaliatrice. Il tema mitologico della sirena, consueto nella pittura di soggetto mitologico, viene affrontato da Sartorio influenzato dal simbolismo preraffaellita e inglese che aveva potuto studiare durante il suo soggiorno a Londra nel 1893 - 1894. Il dipinto con la sua cornice originale rimane in collezione privata sino al 2007,anno in cui entra nelle collezioni della GAM di Torino.\u00a0\n\n\u00a0\n\nElisabetta Vannozzi",
+            "Artwork_start_date": 1893,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1860,
+            "Artist_death_date": 1932,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Symbolism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on canvas applied on cardboard",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 71,
+            "Size_width": 142,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "25H2322 sea; 33C233 (lovers) embracing each other, 'symplegma'; 31D14 adult man; 31AA4561 merman - AA - mermaid, siren; 46C232 rowing-boat, canoe, etc.",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127140,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 19,
+            "_timestamp_second": 0,
+            "_updated": true
+        },
+        {
+            "id": "39175",
+            "@id": 39175,
+            "DateOfLastModify": "2020-04-24 10:45",
+            "tittle": "Asfissia! (parte sinistra)",
+            "Inventary": "FD/177",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Angelo Morbelli",
+            "year": "1884",
+            "Materiale_e_Tecnica": "Olio su tela",
+            "Dimension": "cm 199,5x159",
+            "Definizione": "",
+            "Acquisizione": "Acquisto della Fondazione Guido ed Ettore de Fornaris da Laura Gambarini, Torino,1986",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/MALINCONIA-%20MORBELLI%20Asfissia_0.jpg",
+            "dc:description": "L'opera si presentava in origine come un ampio rettangolo di circa 160x300cm. Nella parte destra (che, decurtata dallo stesso Morbelli ed esposta come autonomo esemplare a Londra nel 1888, si trova ora in collezione privata) la prospettiva dell'interno si allargava sui corpi esanimi di due amanti\u00a0suicidi. Gli intenti veristici, letterari, di scoperta cronaca sociale, sono ravvisabili anche in questo cospicuo frammento, retto dal muto dialogo do oggetti inanimati restituiti con fedelt\u00e0 ottica: dai fiori, oramai appassiti a terra, al cilindro posato negligentemente sulla poltrona, dalle bottiglie vuotate nel ricco banchetto che ha preceduto l'insano gesto, all'orologio su mensola accanto alla finestra dalle cui persiane traspare la luce del nuovo giorno.\u00a0\n\n\u00a0\n\nPaolo San Martino",
+            "Artwork_start_date": 1884,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1853,
+            "Artist_death_date": 1919,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Realism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil painting",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": "199,5",
+            "Size_width": 159,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "41C5 celebration meal, feast, banquet; 41C382(+53) banquet piece (+ round table); 41C38 laid table as still life; 41C7112 bottle of wine; 41C31 table-ware; 25G411 cut flowers; nosegay, bunch of flowers; 25G41(+1) flowers (+ plants used symbolically)",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127139,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 18,
+            "_timestamp_second": 59,
+            "_updated": true
+        },
+        {
+            "id": "35567",
+            "@id": 35567,
+            "DateOfLastModify": "2018-04-17 17:01",
+            "tittle": "Orange Car Crash (5 Deaths 11 Times in Orange) (Orange Disaster)",
+            "Inventary": "",
+            "Collection": "Novecento - primo piano",
+            "Sumbject": "",
+            "author": "Andy Warhol",
+            "year": "1963",
+            "Materiale_e_Tecnica": "serigrafia su acrilico su tela",
+            "Dimension": "",
+            "Definizione": "",
+            "Acquisizione": "Acquisto dalla Galleria Sperone, Torino, 1967",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/Warhol%2COrange_Car_20130403102126.jpg",
+            "dc:description": "Alla fine degli anni Cinquanta Andy Warhol, da qualche anno dedito alla pittura parallelamente alla sua attivit\u00e0 di disegnatore pubblicitario, rimane folgorato dal New Dada di Jasper Johns, di Robert Rauschenberg e dai primi vagiti Pop. Ad attirarlo \u00e8 il procedimento scelto da questi artisti, consistente nel prelievo brutale della pi\u00f9 banale e ordinaria realt\u00e0, operazione ideologicamente opposta rispetto all\u2019esuberanza gestuale dell\u2019Action Painting. Ne viene fuori una pittura fredda, calibrata sulle immagini trasmesse dalla pubblicit\u00e0, che presuppone necessariamente il ripensamento del ruolo dell\u2019artista, il quale non interpreta pi\u00f9 la realt\u00e0, ma la ripete meccanicamente come in un processo industriale perpetuo, una spersonalizzazione che riflette quella individuale nelle moderne societ\u00e0 di massa. I supermercati, nuovi templi della cultura dei consumi, fanno cos\u00ec il loro ingresso nel museo per il tramite delle fisionomie a tutti familiari delle bottiglie della Coca-Cola, dei barattoli di minestra Campbell\u2019s e delle scatole di spugnette Brillo. Nel 1963 Warhol abbandona definitivamente la tecnica della pittura per quella pi\u00f9 congeniale ai suoi intendimenti della serigrafia - pi\u00f9 facilmente replicabile e impersonale -, scelta che va di pari passo con il varo di una nuova serie di soggetti ispirati alla morte. Il primo di questo ciclo intitolato Death and disaster \u00e8 ancora dipinto a mano, 129 Die in Jet (Colonia, Museum Ludwig), del 1962, riproposizione fedele della prima pagina del \u201cNew York Mirror\u201d del 4 giugno di quell\u2019anno, in cui si documentava il disastro aereo in cui perirono appunto 129 persone. A questo primo lavoro seguiranno le scene di incidenti stradali, suicidi, sale operatorie, sedie elettriche, foto segnaletiche di criminali, armi e teschi. L\u2019idea fondante l\u2019operazione artistica - l\u2019estrapolazione di un frammento di realt\u00e0 percepito all\u2019interno di un perimetro di valori diverso, quello estetico - sostiene Orange Car Crash: riprende una brano di vita - sebbene di secondo passaggio - attraverso l\u2019ennesima fotografia di un incidente stradale del 1959, pubblicata da United Press International Corporation. Replicando pi\u00f9 volte un\u2019immagine sulla tela, dai fondi generalmente vivacissimi come le cromie del linguaggio pubblicitario, Warhol ingenera una sorta di assuefazione visiva e conseguentemente di svuotamento drammatico della sequenza, quasi un antidoto alle emozioni forti dell\u2019esistenza.",
+            "Artwork_start_date": 1963,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1928,
+            "Artist_death_date": 1987,
+            "Gender": "male",
+            "Artist_country": "United States",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Pop Art",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "screen printing on acrylic on canvas",
+            "Artwork_type": "",
+            "Size_unity": "cm",
+            "Size_height": 219,
+            "Size_width": 209,
+            "Size_depth": "",
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31E22 death by accident (non-violent death); 46C(+9) traffic and transport (+ accident, collision, crash ~ traffic and transport); 43A322 collision cars, bumper cars; 31E3 the corpse; 22C4(...)(+0) colours, pigments, and paints (with NAME) (+ variant)",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127139,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 18,
+            "_timestamp_second": 59,
+            "_updated": true
+        },
+        {
+            "id": "35245",
+            "@id": 35245,
+            "DateOfLastModify": "2018-11-20 12:52",
+            "tittle": "Pugilatore",
+            "Inventary": "S/156",
+            "Collection": "Opera non esposta",
+            "Sumbject": "",
+            "author": "Francesco Messina",
+            "year": "1929",
+            "Materiale_e_Tecnica": "Bronzo",
+            "Dimension": "cm 162 x 60,5 x 47",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la XVII Esposizione Internazionale d'Arte, Venezia, 1930",
+            "image": "https://www.gamtorino.it/sites/default/files/opere/Pugilatore.jpg",
+            "dc:description": "Al centro della ricerca, tutta figurativa, di Messina stanno l'uomo e l'incredibile verit\u00e0 del suo corpo: come perfezione ed armonia, esaltazione, problema e limite fisico, comunque veicolo ed emblema d'ogni esperienza. Le sue figure hanno la saldezza e l'equilibrio della statuaria classica, ma l'interpretazione aderisce acutamente al reale e la lettura formale comunica quanto \u00e8 gi\u00e0 avvenuto, o sta per avvenire, in una sorta di indagine psicologica dei muscoli. Nel Pugile, tema di cui esistono alcune varianti, tutto esprime l'attimo che segue il grande sforzo: le gambe ancora contratte, le spalle rilassate in avanti, il volto ansimante. La tecnica, straordinaria, che sottende l'esito formale, rimanda all'impegno di Messina d'essere artefice prima che artista, e di conoscere tutti i materiali ed i metodi di lavorazione.",
+            "Artwork_start_date": 1929,
+            "Artwork_end_date": "",
+            "Artist_birth_data": 1900,
+            "Artist_death_date": 1995,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Realism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "bronze",
+            "Artwork_type": "sculpture",
+            "Size_unity": "cm",
+            "Size_height": 162,
+            "Size_width": 60,
+            "Size_depth": 47,
+            "Materials": "none",
+            "Iconclass_subjects_curators": "31D12 youth, young man, adolescent; 31D12(+51) youth, young man, adolescent (+ standing); 43C391 boxing (sport)",
+            "_datasetid": "0ff7efb1-4ffa-4ed5-abc7-b9ddf895dd57",
+            "_timestamp": 1665127138,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 7,
+            "_timestamp_hour": 8,
+            "_timestamp_minute": 18,
+            "_timestamp_second": 58,
+            "_updated": true
+        }
+    ]
+}
