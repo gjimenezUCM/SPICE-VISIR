@@ -1473,13 +1473,7 @@
                 "ageGroup": "elderly",
                 "language": "IT"
             },
-            "interactions": [
-                {
-                    "artwork_id": "1",
-                    "feelings": "",
-                    "extracted_emotions": {}
-                }
-            ]
+            "interactions": []
         },
         {
             "id": "103",
