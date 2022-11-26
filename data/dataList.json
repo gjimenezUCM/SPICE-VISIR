@@ -1,23 +1,31 @@
 [
     {
-        "id": "S-emotions-E-artworks agg",
-        "name": "S-emotions-E-artworks agg"
+        "id": "Same-Emotions-Similar-Artworks (iconclass)",
+        "name": "Same-Emotions-Similar-Artworks (iconclass)"
     },
     {
-        "id": "S-emotions-S-artworks (country) agg",
-        "name": "S-emotions-S-artworks (country) agg"
+        "id": "Similar-Emotions-Same-Artworks",
+        "name": "Similar-Emotions-Same-Artworks"
     },
     {
-        "id": "S-emotions-S-artworks (iconclass) agg",
-        "name": "S-emotions-S-artworks (iconclass) agg"
+        "id": "Similar-Emotions-Similar-Artworks (artist_country)",
+        "name": "Similar-Emotions-Similar-Artworks (artist_country)"
     },
     {
-        "id": "S-emotions-S-artworks (Materials) agg",
-        "name": "S-emotions-S-artworks (Materials) agg"
+        "id": "Similar-Emotions-Similar-Artworks (Artwork_Artistic_Movement)",
+        "name": "Similar-Emotions-Similar-Artworks (Artwork_Artistic_Movement)"
     },
     {
-        "id": "S-emotions-S-artworks (movement) agg",
-        "name": "S-emotions-S-artworks (movement) agg"
+        "id": "Similar-Emotions-Similar-Artworks (iconclass)",
+        "name": "Similar-Emotions-Similar-Artworks (iconclass)"
+    },    
+	{
+        "id": "Similar-Sentiments-Similar-Artworks (iconclass)",
+        "name": "Similar-Sentiments-Similar-Artworks (iconclass)"
+    },	
+	{
+        "id": "HECHT Perspective (agglomerative)",
+        "name": "HECHT Perspective (agglomerative)"
     },
     {
         "id": "bigTest-1",
