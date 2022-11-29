@@ -286,6 +286,17 @@
                         "Love": 1
                     }
                 }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "scettico",
+                    "extracted_emotions": {
+                        "Serenity": 0.7,
+                        "Trust": 0.3,
+                        "Fear": 0.5
+                    }
+                }
             ]
         },
         {
@@ -330,6 +341,21 @@
                         "Anger": 1,
                         "Disgust": 1,
                         "Love": 1
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "1",
+                    "feelings": "rispecchia bene la sotuazione del momento. Ciascuno di noi e costretto nella propria casa / uffcio a svolgere il proprio lavoro. Le sedie vuote rafforzano la sensazione di solitudine, tuttavia il numero di finestre permette di espandere questo interno al di fuori verso un paesaggio che infonde grande serenita'. Spazi aperti e un cielo (che occupa tutta la visuale, di un azzurro intenso. Quindi un messaggio di positivita' e grande speranza",
+                    "extracted_emotions": {
+                        "Serenity": 0.53106874,
+                        "Anticipation": 2,
+                        "Trust": 2,
+                        "Joy": 2,
+                        "Fear": 1,
+                        "Anger": 1,
+                        "Surprise": 1
                     }
                 }
             ]
