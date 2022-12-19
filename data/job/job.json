@@ -1,0 +1,12 @@
+{
+    "job": {
+        "path": "./job/job.json",
+        "jobId": 4351,
+        "name": "CM Update",
+        "job-state": "STARTED",
+        "job-status": "INPROGRESS",
+        "start-time": "2022-11-29T12:42:58.341Z",
+        "time-to-autoremove-job": "29.999516666666667 minutes",
+        "data": {}
+    }
+}
