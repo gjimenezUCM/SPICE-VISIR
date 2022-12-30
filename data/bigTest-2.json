@@ -311,24 +311,6 @@
             ]
         },
         {
-            "id": "9",
-            "label": "9",
-            "group": 1,
-            "explicit_community": {
-                "ageGroup": "adult",
-                "language": "EN"
-            },
-            "interactions": [
-                {
-                    "artwork_id": "1",
-                    "feelings": "libero di esplorare",
-                    "extracted_emotions": {
-                        "Joy": 1
-                    }
-                }
-            ]
-        },
-        {
             "id": "11",
             "label": "11",
             "group": 4,

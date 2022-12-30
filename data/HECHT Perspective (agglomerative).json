@@ -37223,6 +37223,27 @@
     }
   ],
   "artworks": [],
-  "fileId": ""
+  "fileId": "",
+  "localizator": {
+    "legendAttrb": [
+      {
+        "DemographicsReligous": "Religious demography",
+        "S": "Secular",
+        "R": "Religious",
+        "M": "Moderated"
+      },
+      {
+        "DemographicsPolitics": "Political demography",
+        "VL": "Very left",
+        "L": "Left",
+        "C": "Center",
+        "R": "Right",
+        "VR": "Very right",
+        "DK": "Dont know"
+      }
+    ],
+    "EReligousNeg": "Religious",
+    "DExtremistNeg": "Extremist",
+    "FRealisticNeg": "Realistic"
+  }
 }
-

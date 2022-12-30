@@ -1,0 +1,46 @@
+{
+    "toolbar": {
+        "fileSourceDrop": {
+            "name": "Fuente de archivos",
+            "localFiles": "Archivos locales",
+            "Api_URL": "Api URL"
+        },
+        "optionsDrop": {
+            "name": "Opciones",
+            "hideLabels": "Ocultar etiquetas",
+            "hideEdges": "Ocultar aristas sin seleccionar",
+            "minSimilarity": "Similitud minima",
+            "removeEdges": "Eliminar un % de las aristas"
+        },
+        "selectPerspective": {
+            "defaultName": "Seleccionar perspectiva",
+            "noPerspectiveName": "No hay perspectivas disponibles"
+        },
+        "legend": {
+            "name": "Legenda",
+            "noLegend": "Legenda inactiva"
+        }
+    },
+    "loadingText": {
+        "requestFiles": "Solicitando archivos a",
+        "requestPerspective": "Solicitando perspectiva",
+        "requestingAllPerspectives": "Solicitando el archivo con todas las perspectivas",
+        "requestingConfToolSeed": "Solicitando la configuracion inicial",
+        "CMisBusy": "El objetivo esta ocupado. Intentadolo de nuevo",
+        "simpleRequest": "Solicitando",
+        "simpleLoading": "Cargando"
+    },
+    "dataColumn": {
+        "citizenTittle": "Atributos del ciudadano",
+        "citizenAmount": "Total de ciudadanos",
+        "anonymous": "Anónimos",
+        "medoidTittle": "Atributos del medoide",
+        "mainInteractionsTittle": "Interacciones relacionadas con la comunidad del usuario",
+        "otherInteractionsTittle": "Otras interacciones",
+        "labelText": "Etiqueta"
+    },
+    "legend": {
+        "anonymousRow": "Usuarios anonimos",
+        "anonymousExplanation": "Usuarios sin datos explicitos"
+    }
+}
