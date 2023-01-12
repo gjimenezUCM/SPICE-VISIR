@@ -1,20 +1,20 @@
 {
     "_id": {
-        "$oid": "63bf5c0b21a7c71af2b1ac46"
+        "$oid": "63bf6630d51c306696b1ac56"
     },
-    "name": "P3: SIMILAR-emotions-SAME-artworks",
-    "perspectiveId": "63bf5c0339238feb6df4bd86 (0.3) kmedoids",
+    "name": "P6: SIMILAR-emotions-SIMILAR-artworks (materials, movement)",
+    "perspectiveId": "63bf65b639238feb6df4c2c2 (0.5) kmedoids",
     "communities": [
         {
-            "id": "63bf5c0339238feb6df4bd86-0",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
+            "id": "63bf65b639238feb6df4c2c2-0",
+            "perspectiveId": "63bf65b639238feb6df4c2c2",
             "community-type": "implicit",
             "name": "Community 0",
             "explanations": [
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "HoNIcWZY"
+                        "id": "Q13Gnsty"
                     },
                     "visible": true
                 },
@@ -23,15 +23,90 @@
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
-                            "joy": 33.33333333333333,
-                            "sadness": 11.11111111111111,
-                            "serenity": 7.4074074074074066,
-                            "anticipation": 3.7037037037037033,
-                            "trust": 3.7037037037037033,
-                            "fear": 3.7037037037037033,
-                            "love": 3.7037037037037033,
-                            "surprise": 3.7037037037037033,
-                            "interest": 3.7037037037037033
+                            "sadness": 62.5,
+                            "fear": 12.5,
+                            "serenity": 12.5,
+                            "joy": 12.5
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (Materials):",
+                        "data": {
+                            "organic . Obtained from the artwork's materials: canvas  (Sponde del Po, Ragazza con scodella (Interno)  (Mattino), Dans mon pays, Il torrente d'inverno, L'edera, Angles); plywood  (Daphne (Daphne a Pavarolo)); wood  (Miracolo (Olocausto)); paper  (Angles, Dans mon pays)": 0,
+                            "canvas  (Sponde del Po, Ragazza con scodella (Interno)  (Mattino), Capanni sul mare, Dans mon pays, Il torrente d'inverno, L'edera, Angles)": 0,
+                            "nonmetal . Obtained from the artwork's materials: canvas  (Sponde del Po, Angles, Dans mon pays, Il torrente d'inverno); marble  (Saffo (Erma di Saffo)); plywood  (Daphne (Daphne a Pavarolo)); wood  (Miracolo (Olocausto))": 0,
+                            "paper  (Capanni sul mare, Angles, Dans mon pays)": 0,
+                            "wood  (Miracolo (Olocausto)). Obtained from the artwork's materials: plywood  (Daphne (Daphne a Pavarolo)); wood  (Miracolo (Olocausto))": 0
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (Artwork_Artistic_Movement):",
+                        "data": {
+                            "Modern Art": 62.5,
+                            "Artistic Movements": 37.5
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "BTKF72et",
+                "LvIeXwcT",
+                "Q13Gnsty",
+                "V337a5b8",
+                "WsK2A1ab",
+                "anqHwMQ0",
+                "gD630RD1",
+                "jTb1qXEo"
+            ]
+        },
+        {
+            "id": "63bf65b639238feb6df4c2c2-1",
+            "perspectiveId": "63bf65b639238feb6df4c2c2",
+            "community-type": "implicit",
+            "name": "Community 1",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "FbEHiNmP"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (Materials):",
+                        "data": {
+                            "organic . Obtained from the artwork's materials: canvas  (Sponde del Po, La Sirena (Sirena) (Abisso verde), Aracne, Le tre finestre (La pianura della torre), Mercato Vecchio di Firenze, Via a Parigi, Capanni sul mare, Asfissia! (parte sinistra), Contadini al sole, Dans mon pays, Il torrente d'inverno, La femme de Claude (L'adultera), Le baiser, Estate, Un Natale! Al Pio Albergo Trivulzio, Ritorno alla stalla (La ritirata)); wax  (Il pescatorello); plywood  (Daphne (Daphne a Pavarolo), Autoritratto in forma di gufo); wood  (La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve, La pittrice); resin  (03 - F); paper  (Capanni sul mare, Le tre finestre (La pianura della torre), Dans mon pays, (Der) Matrose Fritz M\u00faller aus Pieschen); plexiglass  (03 - F)": 0,
+                            "canvas  (La Sirena (Sirena) (Abisso verde), Sponde del Po, Le tre finestre (La pianura della torre), Aracne, Mercato Vecchio di Firenze, Via a Parigi, Capanni sul mare, Asfissia! (parte sinistra), Contadini al sole, Dans mon pays, Il torrente d'inverno, Le baiser, La femme de Claude (L'adultera), Estate, Un Natale! Al Pio Albergo Trivulzio, Ritorno alla stalla (La ritirata))": 0,
+                            "nonmetal . Obtained from the artwork's materials: canvas  (La Sirena (Sirena) (Abisso verde), Sponde del Po, Le tre finestre (La pianura della torre), Aracne, Mercato Vecchio di Firenze, Via a Parigi, Capanni sul mare, Asfissia! (parte sinistra), Contadini al sole, Dans mon pays, Il torrente d'inverno, La femme de Claude (L'adultera), Le baiser, Un Natale! Al Pio Albergo Trivulzio, Estate, Ritorno alla stalla (La ritirata)); plaster  (Suonatore di chitarra (Commedia)); ceramics  (La primavera); paper  (Capanni sul mare, Le tre finestre (La pianura della torre), Dans mon pays, (Der) Matrose Fritz M\u00faller aus Pieschen); plywood  (Daphne (Daphne a Pavarolo), Autoritratto in forma di gufo); resin  (03 - F); wax  (Il pescatorello); wood  (La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve, La pittrice); plexiglass  (03 - F)": 0,
+                            "material . Obtained from the artwork's materials: canvas  (Sponde del Po, La Sirena (Sirena) (Abisso verde), Le tre finestre (La pianura della torre), Aracne, Mercato Vecchio di Firenze, Via a Parigi, Capanni sul mare, Asfissia! (parte sinistra), Dans mon pays, Contadini al sole, Il torrente d'inverno, La femme de Claude (L'adultera), Le baiser, Estate, Ritorno alla stalla (La ritirata)); bronze  (Pugilatore); paper  (Capanni sul mare, Le tre finestre (La pianura della torre), Dans mon pays, (Der) Matrose Fritz M\u00faller aus Pieschen); ceramics  (La primavera); wax  (Il pescatorello); plywood  (Daphne (Daphne a Pavarolo)); wood  (La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve, La pittrice); plaster  (Suonatore di chitarra (Commedia)); resin  (03 - F); plexiglass  (03 - F)": 0,
+                            "wood  (La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve, La pittrice). Obtained from the artwork's materials: plywood  (Daphne (Daphne a Pavarolo), Autoritratto in forma di gufo); wood  (La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve, La pittrice)": 0
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (Artwork_Artistic_Movement):",
+                        "data": {
+                            "Modern Art": 64.28571428571429,
+                            "Artistic Movements": 35.714285714285715
                         }
                     },
                     "visible": true
@@ -44,96 +119,45 @@
             ],
             "users": [
                 "2GROTNeg",
+                "2JfmseEG",
+                "2LIm9lcH",
                 "3K9AMmqU",
                 "B3N0HGw4",
                 "BNtsz8zb",
-                "EEm3fSZd",
+                "Bf5Sj3ON",
                 "FQFaM9D4",
                 "FVhf7OMw",
                 "FbEHiNmP",
+                "GV4z5ANK",
+                "GdMZ5rXI",
                 "HoNIcWZY",
                 "JgevtrSb",
                 "KQTGApjD",
                 "LW3Klzvx",
+                "N72IRgFy",
                 "RQ4a2nIG",
                 "Sz5Wx2XD",
-                "V337a5b8",
                 "Wsip5y7A",
-                "anqHwMQ0",
+                "Y0WXF1LR",
                 "e4aM9WL7",
                 "eLXgq0Hx",
-                "gD630RD1",
-                "jTb1qXEo",
                 "lkkZ1lUv",
-                "loEoYm9R",
+                "oTT3YRMN",
                 "q2BDj1os",
-                "sXKZ1IUH",
                 "x2AUnHqw",
                 "yjlouq5U"
             ]
         },
         {
-            "id": "63bf5c0339238feb6df4bd86-1",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
-            "community-type": "implicit",
-            "name": "Community 1",
-            "explanations": [
-                {
-                    "explanation_type": "medoid",
-                    "explanation_data": {
-                        "id": "N72IRgFy"
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "implicit_attributes",
-                    "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
-                        "data": {
-                            "joy": 50,
-                            "sadness": 16.666666666666664,
-                            "serenity": 16.666666666666664,
-                            "fear": 16.666666666666664
-                        }
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "implicit_attributes",
-                    "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (id):",
-                        "data": {
-                            "35362": 66.66666666666666,
-                            "39347": 33.33333333333333
-                        }
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "explicit_attributes",
-                    "explanation_data": {},
-                    "visible": true
-                }
-            ],
-            "users": [
-                "2JfmseEG",
-                "BTKF72et",
-                "Bf5Sj3ON",
-                "LvIeXwcT",
-                "N72IRgFy",
-                "WsK2A1ab"
-            ]
-        },
-        {
-            "id": "63bf5c0339238feb6df4bd86-2",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
+            "id": "63bf65b639238feb6df4c2c2-2",
+            "perspectiveId": "63bf65b639238feb6df4c2c2",
             "community-type": "implicit",
             "name": "Community 2",
             "explanations": [
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "GdMZ5rXI"
+                        "id": "EEm3fSZd"
                     },
                     "visible": true
                 },
@@ -142,10 +166,9 @@
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
-                            "love": 42.857142857142854,
-                            "joy": 28.57142857142857,
-                            "serenity": 14.285714285714285,
-                            "sadness": 14.285714285714285
+                            "fear": 50,
+                            "surprise": 33.33333333333333,
+                            "love": 16.666666666666664
                         }
                     },
                     "visible": true
@@ -153,10 +176,21 @@
                 {
                     "explanation_type": "implicit_attributes",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (id):",
+                        "label": "Community representative properties of the implicit attribute (Materials):",
                         "data": {
-                            "35230": 57.14285714285714,
-                            "35323": 42.857142857142854
+                            "canvas  (Le baiser, Asfissia! (parte sinistra), Dopo il duello, Il torrente d'inverno)": 0,
+                            "organic . Obtained from the artwork's materials: canvas  (Asfissia! (parte sinistra), Dopo il duello, Il torrente d'inverno); plywood  (Autoritratto in forma di gufo)": 0
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (Artwork_Artistic_Movement):",
+                        "data": {
+                            "Realism": 66.66666666666666,
+                            "Artistic Movements": 33.33333333333333
                         }
                     },
                     "visible": true
@@ -168,68 +202,39 @@
                 }
             ],
             "users": [
-                "2LIm9lcH",
-                "GV4z5ANK",
-                "GdMZ5rXI",
+                "EEm3fSZd",
                 "PxrTX0Ln",
-                "Q13Gnsty",
-                "Y0WXF1LR",
-                "oTT3YRMN"
+                "R4frFK0J",
+                "cBjFhvjx",
+                "loEoYm9R",
+                "xi3DCToA"
             ]
         },
         {
-            "id": "63bf5c0339238feb6df4bd86-3",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
-            "community-type": "implicit",
-            "name": "Community 3",
+            "id": "63bf65b639238feb6df4c2c2-3 (Users without community)",
+            "perspectiveId": "63bf65b639238feb6df4c2c2",
+            "community-type": "inexistent",
+            "name": "Community 3 (Users without community)",
             "explanations": [
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "R4frFK0J"
+                        "id": "sXKZ1IUH"
                     },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "implicit_attributes",
-                    "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
-                        "data": {
-                            "surprise": 66.66666666666666,
-                            "fear": 33.33333333333333
-                        }
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "implicit_attributes",
-                    "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (id):",
-                        "data": {
-                            "39175": 100
-                        }
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "explicit_attributes",
-                    "explanation_data": {},
                     "visible": true
                 }
             ],
             "users": [
-                "R4frFK0J",
-                "cBjFhvjx",
-                "xi3DCToA"
+                "sXKZ1IUH"
             ]
         }
     ],
-    "numberOfCommunities": 4,
+    "numberOfCommunities": 3,
     "users": [
         {
             "id": "2GROTNeg",
             "label": "2GROTNeg",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -259,9 +264,7 @@
                         "Joy": 1.959684129999999,
                         "Serenity": 1.938286999999999
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35381",
                     "feelings": "alice nel paese delle meraviglie",
@@ -269,7 +272,8 @@
                         "Interest": 1
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "2JfmseEG",
@@ -307,15 +311,6 @@
             ],
             "community_interactions": [
                 {
-                    "artwork_id": "35362",
-                    "feelings": "mare - vacanze",
-                    "extracted_emotions": {
-                        "Joy": 1
-                    }
-                }
-            ],
-            "no_community_interactions": [
-                {
                     "artwork_id": "35308",
                     "feelings": "scuola - lavoro - studio - classe - punizione - divertimento - apprendimento ",
                     "extracted_emotions": {
@@ -331,13 +326,21 @@
                     "extracted_emotions": {
                         "Joy": 0.55502737
                     }
+                },
+                {
+                    "artwork_id": "35362",
+                    "feelings": "mare - vacanze",
+                    "extracted_emotions": {
+                        "Joy": 1
+                    }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "2LIm9lcH",
             "label": "2LIm9lcH",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not binary",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -360,6 +363,13 @@
             ],
             "community_interactions": [
                 {
+                    "artwork_id": "35374",
+                    "feelings": "creativit\u00e0",
+                    "extracted_emotions": {
+                        "Trust": 0.85408616
+                    }
+                },
+                {
                     "artwork_id": "35230",
                     "feelings": "Amore",
                     "extracted_emotions": {
@@ -367,20 +377,12 @@
                     }
                 }
             ],
-            "no_community_interactions": [
-                {
-                    "artwork_id": "35374",
-                    "feelings": "creativit\u00e0",
-                    "extracted_emotions": {
-                        "Trust": 0.85408616
-                    }
-                }
-            ]
+            "no_community_interactions": []
         },
         {
             "id": "3K9AMmqU",
             "label": "3K9AMmqU",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -408,9 +410,7 @@
                     "extracted_emotions": {
                         "Joy": 0.9954854999999999
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35374",
                     "feelings": "sad",
@@ -418,12 +418,13 @@
                         "Sadness": 0.9673313
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "B3N0HGw4",
             "label": "B3N0HGw4",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -467,7 +468,7 @@
         {
             "id": "BNtsz8zb",
             "label": "BNtsz8zb",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -481,8 +482,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35217",
                     "feelings": "me",
@@ -490,12 +490,13 @@
                         "Joy": 0.8936892999999999
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "BTKF72et",
             "label": "BTKF72et",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -530,15 +531,6 @@
                     "extracted_emotions": {
                         "Sadness": 0.9291060600000001
                     }
-                }
-            ],
-            "no_community_interactions": [
-                {
-                    "artwork_id": "35459",
-                    "feelings": "quiet, a quiet summer afternoon, windless quiet",
-                    "extracted_emotions": {
-                        "Serenity": 0.796984675
-                    }
                 },
                 {
                     "artwork_id": "35224",
@@ -546,8 +538,16 @@
                     "extracted_emotions": {
                         "Sadness": 0.96569455
                     }
+                },
+                {
+                    "artwork_id": "35459",
+                    "feelings": "quiet, a quiet summer afternoon, windless quiet",
+                    "extracted_emotions": {
+                        "Serenity": 0.796984675
+                    }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "Bf5Sj3ON",
@@ -598,7 +598,7 @@
         {
             "id": "EEm3fSZd",
             "label": "EEm3fSZd",
-            "group": 0,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
@@ -612,8 +612,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35222",
                     "feelings": "PAURA",
@@ -621,12 +620,13 @@
                         "Fear": 1
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "FQFaM9D4",
             "label": "FQFaM9D4",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -657,9 +657,7 @@
                         "Joy": 1.7947365,
                         "Trust": 1
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "39175",
                     "feelings": "in attesa delle feste e dei momenti con gli amici, la tavola imbandita del cenone di natale, la mia cucina disordinata",
@@ -668,12 +666,13 @@
                         "Surprise": 1
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "FVhf7OMw",
             "label": "FVhf7OMw",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -701,7 +700,7 @@
         {
             "id": "FbEHiNmP",
             "label": "FbEHiNmP",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -729,7 +728,7 @@
         {
             "id": "GV4z5ANK",
             "label": "GV4z5ANK",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -757,7 +756,7 @@
         {
             "id": "GdMZ5rXI",
             "label": "GdMZ5rXI",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -785,7 +784,7 @@
         {
             "id": "HoNIcWZY",
             "label": "HoNIcWZY",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -813,7 +812,7 @@
         {
             "id": "JgevtrSb",
             "label": "JgevtrSb",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
@@ -858,9 +857,7 @@
                         "Joy": 1,
                         "Interest": 1
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35364",
                     "feelings": "mia zia, che aveva molti figli e si prendeva sempre cura con gentilezza di loro",
@@ -869,12 +866,13 @@
                         "Interest": 1
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "KQTGApjD",
             "label": "KQTGApjD",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
@@ -902,7 +900,7 @@
         {
             "id": "LW3Klzvx",
             "label": "LW3Klzvx",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -926,6 +924,14 @@
             ],
             "community_interactions": [
                 {
+                    "artwork_id": "39427",
+                    "feelings": "festa scout",
+                    "extracted_emotions": {
+                        "Sadness": 0.8110314,
+                        "Surprise": 1
+                    }
+                },
+                {
                     "artwork_id": "35330",
                     "feelings": "due amici che erano a parlare guardando il panorama ma hanno deciso di uscire e correre nel prato ",
                     "extracted_emotions": {
@@ -933,21 +939,12 @@
                     }
                 }
             ],
-            "no_community_interactions": [
-                {
-                    "artwork_id": "39427",
-                    "feelings": "festa scout",
-                    "extracted_emotions": {
-                        "Sadness": 0.8110314,
-                        "Surprise": 1
-                    }
-                }
-            ]
+            "no_community_interactions": []
         },
         {
             "id": "LvIeXwcT",
             "label": "LvIeXwcT",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -987,9 +984,7 @@
                         "Sadness": 1.7683326,
                         "Serenity": 1.98919085
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35445",
                     "feelings": "pensierosa , quando studiavo , un pomeriggio di autunno sul fiume ",
@@ -1007,7 +1002,8 @@
                         "Sadness": 1
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "N72IRgFy",
@@ -1063,6 +1059,13 @@
             ],
             "community_interactions": [
                 {
+                    "artwork_id": "35381",
+                    "feelings": "sorpresa",
+                    "extracted_emotions": {
+                        "Surprise": 1.97407156
+                    }
+                },
+                {
                     "artwork_id": "35230",
                     "feelings": "all\u2019amore ",
                     "extracted_emotions": {
@@ -1070,20 +1073,12 @@
                     }
                 }
             ],
-            "no_community_interactions": [
-                {
-                    "artwork_id": "35381",
-                    "feelings": "sorpresa",
-                    "extracted_emotions": {
-                        "Surprise": 1.97407156
-                    }
-                }
-            ]
+            "no_community_interactions": []
         },
         {
             "id": "Q13Gnsty",
             "label": "Q13Gnsty",
-            "group": 2,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1117,7 +1112,7 @@
         {
             "id": "R4frFK0J",
             "label": "R4frFK0J",
-            "group": 3,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1145,7 +1140,7 @@
         {
             "id": "RQ4a2nIG",
             "label": "RQ4a2nIG",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1175,7 +1170,7 @@
         {
             "id": "Sz5Wx2XD",
             "label": "Sz5Wx2XD",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
@@ -1189,8 +1184,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35245",
                     "feelings": "forza in potenza ",
@@ -1198,7 +1192,8 @@
                         "Serenity": 0.9373043999999999
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "V337a5b8",
@@ -1233,7 +1228,7 @@
         {
             "id": "WsK2A1ab",
             "label": "WsK2A1ab",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1263,9 +1258,7 @@
                         "Fear": 1.95738137,
                         "Anticipation": 1.9017547000000001
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "39352",
                     "feelings": "ordine",
@@ -1273,12 +1266,13 @@
                         "Sadness": 0.63115853
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "Wsip5y7A",
             "label": "Wsip5y7A",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1306,7 +1300,7 @@
         {
             "id": "Y0WXF1LR",
             "label": "Y0WXF1LR",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -1370,8 +1364,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35412",
                     "feelings": "quanto sia dolorosa la morte ",
@@ -1387,12 +1380,13 @@
                         "Serenity": 1.6653829
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "cBjFhvjx",
             "label": "cBjFhvjx",
-            "group": 3,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1420,7 +1414,7 @@
         {
             "id": "e4aM9WL7",
             "label": "e4aM9WL7",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "My work is about art"
@@ -1434,8 +1428,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35229",
                     "feelings": "al mare\n\n",
@@ -1443,12 +1436,13 @@
                         "Joy": 1.6366995
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "eLXgq0Hx",
             "label": "eLXgq0Hx",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1465,8 +1459,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35499",
                     "feelings": "in trepidazione per l'attesa dell'estate, Che oggi fa troppo freddo. Che odio il freddo perch\u00e8 mancano 2 giorni a Natale, Alle vacanze",
@@ -1477,7 +1470,8 @@
                         "Anticipation": 1.8508643500000002
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "gD630RD1",
@@ -1537,8 +1531,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
+            "community_interactions": [
                 {
                     "artwork_id": "35321",
                     "feelings": "sola, una persona con problemi di relazione",
@@ -1555,12 +1548,13 @@
                         "Anticipation": 1
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "lkkZ1lUv",
             "label": "lkkZ1lUv",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "My work is about art"
@@ -1610,7 +1604,7 @@
         {
             "id": "loEoYm9R",
             "label": "loEoYm9R",
-            "group": 0,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1642,7 +1636,7 @@
         {
             "id": "oTT3YRMN",
             "label": "oTT3YRMN",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1672,9 +1666,7 @@
                         "Disapproval": 0.60185623,
                         "Love": 2
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35364",
                     "feelings": "mia mamma perch\u00e9 \u00e8 grazie a lei ed ai suoi insegnamenti che sono cresciuto bene ",
@@ -1682,12 +1674,13 @@
                         "Joy": 0.6227640999999999
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "q2BDj1os",
             "label": "q2BDj1os",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -1715,7 +1708,7 @@
         {
             "id": "sXKZ1IUH",
             "label": "sXKZ1IUH",
-            "group": 0,
+            "group": 3,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1739,7 +1732,8 @@
                     }
                 }
             ],
-            "community_interactions": [
+            "community_interactions": [],
+            "no_community_interactions": [
                 {
                     "artwork_id": "39182",
                     "feelings": "curioso, interessato, la casa dello zio di un amico, una ragazza in attesa di qualcosa o qualcuno. Le \u00e8 venuta una idea",
@@ -1757,13 +1751,12 @@
                         "Serenity": 2
                     }
                 }
-            ],
-            "no_community_interactions": []
+            ]
         },
         {
             "id": "x2AUnHqw",
             "label": "x2AUnHqw",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1808,9 +1801,7 @@
                     "extracted_emotions": {
                         "Joy": 1
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35456",
                     "feelings": "attimi di riflessione in solitudine",
@@ -1819,12 +1810,13 @@
                         "Interest": 0.6185303
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "xi3DCToA",
             "label": "xi3DCToA",
-            "group": 3,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1852,7 +1844,7 @@
         {
             "id": "yjlouq5U",
             "label": "yjlouq5U",
-            "group": 0,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1882,27 +1874,27 @@
         {
             "u1": "2GROTNeg",
             "u2": "2JfmseEG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "2LIm9lcH",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "3K9AMmqU",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "B3N0HGw4",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "BNtsz8zb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
@@ -1912,787 +1904,787 @@
         {
             "u1": "2GROTNeg",
             "u2": "Bf5Sj3ON",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "2GROTNeg",
             "u2": "EEm3fSZd",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "2GROTNeg",
             "u2": "FQFaM9D4",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "FVhf7OMw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "2GROTNeg",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "2GROTNeg",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "2GROTNeg",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "2GROTNeg",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "2LIm9lcH",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "3K9AMmqU",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "B3N0HGw4",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "BNtsz8zb",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "BTKF72et",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "Bf5Sj3ON",
-            "value": 0.33
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "EEm3fSZd",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "FQFaM9D4",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "FVhf7OMw",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "FbEHiNmP",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "GV4z5ANK",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "GdMZ5rXI",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "HoNIcWZY",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "JgevtrSb",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "KQTGApjD",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "LW3Klzvx",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "LvIeXwcT",
-            "value": 0.31
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "N72IRgFy",
-            "value": 0.33
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "2JfmseEG",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "3K9AMmqU",
-            "value": 0.12
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "B3N0HGw4",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "BNtsz8zb",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "BTKF72et",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "Bf5Sj3ON",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "EEm3fSZd",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "FQFaM9D4",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "FVhf7OMw",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "FbEHiNmP",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "GV4z5ANK",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "GdMZ5rXI",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "HoNIcWZY",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "JgevtrSb",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "KQTGApjD",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "LW3Klzvx",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "LvIeXwcT",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "N72IRgFy",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
             "u2": "PxrTX0Ln",
             "value": 0.5
         },
         {
-            "u1": "2LIm9lcH",
+            "u1": "2GROTNeg",
             "u2": "Q13Gnsty",
             "value": 0
         },
         {
-            "u1": "2LIm9lcH",
+            "u1": "2GROTNeg",
             "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "Y0WXF1LR",
-            "value": 0.31
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "oTT3YRMN",
             "value": 0.5
         },
         {
-            "u1": "2LIm9lcH",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "2LIm9lcH",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "B3N0HGw4",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "BNtsz8zb",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "BTKF72et",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "Bf5Sj3ON",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "EEm3fSZd",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "FQFaM9D4",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "FVhf7OMw",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "FbEHiNmP",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "GV4z5ANK",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "GdMZ5rXI",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "HoNIcWZY",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "JgevtrSb",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "KQTGApjD",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "LW3Klzvx",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "LvIeXwcT",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "N72IRgFy",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
+            "u1": "2GROTNeg",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
-            "u1": "3K9AMmqU",
+            "u1": "2GROTNeg",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
-            "u1": "3K9AMmqU",
+            "u1": "2GROTNeg",
             "u2": "V337a5b8",
             "value": 0
         },
         {
-            "u1": "3K9AMmqU",
+            "u1": "2GROTNeg",
             "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "3K9AMmqU",
-            "u2": "loEoYm9R",
             "value": 0.25
         },
         {
+            "u1": "2GROTNeg",
+            "u2": "Wsip5y7A",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "Y0WXF1LR",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "e4aM9WL7",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "eLXgq0Hx",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "jTb1qXEo",
+            "value": 0.5
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "lkkZ1lUv",
+            "value": 0.5
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "oTT3YRMN",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "q2BDj1os",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "x2AUnHqw",
+            "value": 0.75
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "yjlouq5U",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "2LIm9lcH",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "3K9AMmqU",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "B3N0HGw4",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "BNtsz8zb",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "BTKF72et",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "Bf5Sj3ON",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "EEm3fSZd",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "FQFaM9D4",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "FVhf7OMw",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "FbEHiNmP",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "GV4z5ANK",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "GdMZ5rXI",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "HoNIcWZY",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "JgevtrSb",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "KQTGApjD",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "LW3Klzvx",
+            "value": 0.83
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "LvIeXwcT",
+            "value": 0.67
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "N72IRgFy",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "PxrTX0Ln",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "RQ4a2nIG",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "Sz5Wx2XD",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "Wsip5y7A",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "Y0WXF1LR",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "e4aM9WL7",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "eLXgq0Hx",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "jTb1qXEo",
+            "value": 0.33
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "lkkZ1lUv",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "oTT3YRMN",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "q2BDj1os",
+            "value": 1
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "x2AUnHqw",
+            "value": 0.83
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "yjlouq5U",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "3K9AMmqU",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "B3N0HGw4",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "BNtsz8zb",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "BTKF72et",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "Bf5Sj3ON",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "EEm3fSZd",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "FQFaM9D4",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "FVhf7OMw",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "FbEHiNmP",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "GV4z5ANK",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "GdMZ5rXI",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "HoNIcWZY",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "JgevtrSb",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "KQTGApjD",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "LW3Klzvx",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "LvIeXwcT",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "N72IRgFy",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "PxrTX0Ln",
+            "value": 0.75
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "RQ4a2nIG",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "Sz5Wx2XD",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "Wsip5y7A",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "Y0WXF1LR",
+            "value": 0.75
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "anqHwMQ0",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "e4aM9WL7",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "eLXgq0Hx",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "lkkZ1lUv",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "oTT3YRMN",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "q2BDj1os",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "x2AUnHqw",
+            "value": 1
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "yjlouq5U",
+            "value": 1
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "B3N0HGw4",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "BNtsz8zb",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "BTKF72et",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "Bf5Sj3ON",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "EEm3fSZd",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "FQFaM9D4",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "FVhf7OMw",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "FbEHiNmP",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "GV4z5ANK",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "GdMZ5rXI",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "HoNIcWZY",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "JgevtrSb",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "KQTGApjD",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "LW3Klzvx",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "LvIeXwcT",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "N72IRgFy",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "PxrTX0Ln",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "Q13Gnsty",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "RQ4a2nIG",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "Sz5Wx2XD",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "V337a5b8",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "WsK2A1ab",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "Wsip5y7A",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "Y0WXF1LR",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "anqHwMQ0",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "e4aM9WL7",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "eLXgq0Hx",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "gD630RD1",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "jTb1qXEo",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "lkkZ1lUv",
+            "value": 0.5
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
             "u1": "3K9AMmqU",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "3K9AMmqU",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "3K9AMmqU",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "3K9AMmqU",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "3K9AMmqU",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "3K9AMmqU",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "BNtsz8zb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
@@ -2702,72 +2694,72 @@
         {
             "u1": "B3N0HGw4",
             "u2": "Bf5Sj3ON",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "EEm3fSZd",
-            "value": 0
-        },
-        {
-            "u1": "B3N0HGw4",
-            "u2": "FQFaM9D4",
-            "value": 0
-        },
-        {
-            "u1": "B3N0HGw4",
-            "u2": "FVhf7OMw",
-            "value": 0
-        },
-        {
-            "u1": "B3N0HGw4",
-            "u2": "FbEHiNmP",
             "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
+            "u2": "FQFaM9D4",
+            "value": 1
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "FVhf7OMw",
+            "value": 1
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "FbEHiNmP",
+            "value": 1
+        },
+        {
+            "u1": "B3N0HGw4",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "B3N0HGw4",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
@@ -2777,17 +2769,17 @@
         {
             "u1": "B3N0HGw4",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
@@ -2802,12 +2794,12 @@
         {
             "u1": "B3N0HGw4",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
@@ -2817,17 +2809,17 @@
         {
             "u1": "B3N0HGw4",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
@@ -2837,47 +2829,47 @@
         {
             "u1": "B3N0HGw4",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "B3N0HGw4",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "x2AUnHqw",
-            "value": 0.21
+            "value": 0.75
         },
         {
             "u1": "B3N0HGw4",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "B3N0HGw4",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
@@ -2887,57 +2879,57 @@
         {
             "u1": "BNtsz8zb",
             "u2": "Bf5Sj3ON",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "EEm3fSZd",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "FQFaM9D4",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "FVhf7OMw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
@@ -2947,12 +2939,12 @@
         {
             "u1": "BNtsz8zb",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
@@ -2962,17 +2954,17 @@
         {
             "u1": "BNtsz8zb",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
@@ -2987,12 +2979,12 @@
         {
             "u1": "BNtsz8zb",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
@@ -3002,17 +2994,17 @@
         {
             "u1": "BNtsz8zb",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
@@ -3022,7 +3014,7 @@
         {
             "u1": "BNtsz8zb",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
@@ -3032,307 +3024,307 @@
         {
             "u1": "BNtsz8zb",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BNtsz8zb",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BNtsz8zb",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "BTKF72et",
             "u2": "Bf5Sj3ON",
-            "value": 0.17
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "EEm3fSZd",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "FQFaM9D4",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "FVhf7OMw",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "KQTGApjD",
-            "value": 0.31
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "Q13Gnsty",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "BTKF72et",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "V337a5b8",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "BTKF72et",
             "u2": "WsK2A1ab",
-            "value": 0.17
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "anqHwMQ0",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "BTKF72et",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "gD630RD1",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "BTKF72et",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "BTKF72et",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "x2AUnHqw",
-            "value": 0.31
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "BTKF72et",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "EEm3fSZd",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "FQFaM9D4",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "FVhf7OMw",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "LvIeXwcT",
-            "value": 0.46
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "N72IRgFy",
-            "value": 0.5
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "Q13Gnsty",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "V337a5b8",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "Bf5Sj3ON",
@@ -3342,307 +3334,307 @@
         {
             "u1": "Bf5Sj3ON",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "anqHwMQ0",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "gD630RD1",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "Bf5Sj3ON",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "EEm3fSZd",
             "u2": "FQFaM9D4",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "FVhf7OMw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "Q13Gnsty",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "V337a5b8",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "WsK2A1ab",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "anqHwMQ0",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "gD630RD1",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "EEm3fSZd",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "EEm3fSZd",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "FVhf7OMw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "FQFaM9D4",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
@@ -3652,17 +3644,17 @@
         {
             "u1": "FQFaM9D4",
             "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "FQFaM9D4",
-            "u2": "RQ4a2nIG",
             "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
+            "u2": "RQ4a2nIG",
+            "value": 1
+        },
+        {
+            "u1": "FQFaM9D4",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
@@ -3677,12 +3669,12 @@
         {
             "u1": "FQFaM9D4",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
@@ -3692,17 +3684,17 @@
         {
             "u1": "FQFaM9D4",
             "u2": "cBjFhvjx",
-            "value": 0.12
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
@@ -3712,67 +3704,67 @@
         {
             "u1": "FQFaM9D4",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FQFaM9D4",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "FQFaM9D4",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FQFaM9D4",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "FbEHiNmP",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
@@ -3782,12 +3774,12 @@
         {
             "u1": "FVhf7OMw",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
@@ -3797,12 +3789,12 @@
         {
             "u1": "FVhf7OMw",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
@@ -3812,17 +3804,17 @@
         {
             "u1": "FVhf7OMw",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
@@ -3837,12 +3829,12 @@
         {
             "u1": "FVhf7OMw",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
@@ -3852,17 +3844,17 @@
         {
             "u1": "FVhf7OMw",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
@@ -3872,92 +3864,92 @@
         {
             "u1": "FVhf7OMw",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FVhf7OMw",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FVhf7OMw",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "GV4z5ANK",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "GdMZ5rXI",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FbEHiNmP",
@@ -3967,17 +3959,17 @@
         {
             "u1": "FbEHiNmP",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FbEHiNmP",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
@@ -3992,12 +3984,12 @@
         {
             "u1": "FbEHiNmP",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
@@ -4007,17 +3999,17 @@
         {
             "u1": "FbEHiNmP",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FbEHiNmP",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
@@ -4032,67 +4024,67 @@
         {
             "u1": "FbEHiNmP",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FbEHiNmP",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FbEHiNmP",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "FbEHiNmP",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "FbEHiNmP",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "GdMZ5rXI",
-            "value": 0.92
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
@@ -4102,12 +4094,12 @@
         {
             "u1": "GV4z5ANK",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GV4z5ANK",
@@ -4117,17 +4109,17 @@
         {
             "u1": "GV4z5ANK",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GV4z5ANK",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
@@ -4142,12 +4134,12 @@
         {
             "u1": "GV4z5ANK",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "Y0WXF1LR",
-            "value": 0.92
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
@@ -4157,17 +4149,17 @@
         {
             "u1": "GV4z5ANK",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GV4z5ANK",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
@@ -4182,62 +4174,62 @@
         {
             "u1": "GV4z5ANK",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GV4z5ANK",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GV4z5ANK",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GV4z5ANK",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "HoNIcWZY",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
@@ -4247,12 +4239,12 @@
         {
             "u1": "GdMZ5rXI",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GdMZ5rXI",
@@ -4262,17 +4254,17 @@
         {
             "u1": "GdMZ5rXI",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
@@ -4287,7 +4279,7 @@
         {
             "u1": "GdMZ5rXI",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
@@ -4302,17 +4294,17 @@
         {
             "u1": "GdMZ5rXI",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
@@ -4327,57 +4319,57 @@
         {
             "u1": "GdMZ5rXI",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "GdMZ5rXI",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "JgevtrSb",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "LW3Klzvx",
-            "value": 0.5
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
@@ -4387,12 +4379,12 @@
         {
             "u1": "HoNIcWZY",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "HoNIcWZY",
@@ -4402,17 +4394,17 @@
         {
             "u1": "HoNIcWZY",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "HoNIcWZY",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
@@ -4427,12 +4419,12 @@
         {
             "u1": "HoNIcWZY",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
@@ -4442,17 +4434,17 @@
         {
             "u1": "HoNIcWZY",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "HoNIcWZY",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
@@ -4467,67 +4459,67 @@
         {
             "u1": "HoNIcWZY",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "HoNIcWZY",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "HoNIcWZY",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "HoNIcWZY",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "HoNIcWZY",
             "u2": "yjlouq5U",
-            "value": 0.92
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "KQTGApjD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "JgevtrSb",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.33
         },
         {
             "u1": "JgevtrSb",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "JgevtrSb",
@@ -4537,17 +4529,17 @@
         {
             "u1": "JgevtrSb",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "JgevtrSb",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
@@ -4562,12 +4554,12 @@
         {
             "u1": "JgevtrSb",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
@@ -4577,17 +4569,17 @@
         {
             "u1": "JgevtrSb",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "JgevtrSb",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
@@ -4597,67 +4589,67 @@
         {
             "u1": "JgevtrSb",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "JgevtrSb",
             "u2": "lkkZ1lUv",
-            "value": 0.31
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "JgevtrSb",
             "u2": "oTT3YRMN",
-            "value": 0.29
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "JgevtrSb",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "JgevtrSb",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "JgevtrSb",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "JgevtrSb",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "LW3Klzvx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "KQTGApjD",
@@ -4667,17 +4659,17 @@
         {
             "u1": "KQTGApjD",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "KQTGApjD",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
@@ -4692,12 +4684,12 @@
         {
             "u1": "KQTGApjD",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
@@ -4707,17 +4699,17 @@
         {
             "u1": "KQTGApjD",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "KQTGApjD",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
@@ -4732,27 +4724,27 @@
         {
             "u1": "KQTGApjD",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "KQTGApjD",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "KQTGApjD",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "KQTGApjD",
@@ -4762,677 +4754,677 @@
         {
             "u1": "KQTGApjD",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "KQTGApjD",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "LW3Klzvx",
             "u2": "LvIeXwcT",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "LW3Klzvx",
             "u2": "N72IRgFy",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "Q13Gnsty",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "LW3Klzvx",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "RQ4a2nIG",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "V337a5b8",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "LW3Klzvx",
             "u2": "WsK2A1ab",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "LW3Klzvx",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "LW3Klzvx",
             "u2": "anqHwMQ0",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "LW3Klzvx",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "yjlouq5U",
-            "value": 0.21
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "N72IRgFy",
-            "value": 0.31
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "Q13Gnsty",
-            "value": 0.33
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "gD630RD1",
-            "value": 0.33
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "x2AUnHqw",
-            "value": 0.17
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "LvIeXwcT",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "N72IRgFy",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "Y0WXF1LR",
-            "value": 0.31
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "oTT3YRMN",
-            "value": 0.5
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "PxrTX0Ln",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "Q13Gnsty",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "R4frFK0J",
             "u2": "cBjFhvjx",
             "value": 0.75
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "LW3Klzvx",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 0.75
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "LW3Klzvx",
             "u2": "eLXgq0Hx",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "gD630RD1",
+            "value": 0.25
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "jTb1qXEo",
+            "value": 0.25
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "lkkZ1lUv",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "loEoYm9R",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "oTT3YRMN",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "q2BDj1os",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "sXKZ1IUH",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "x2AUnHqw",
+            "value": 1
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "xi3DCToA",
+            "value": 0.75
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "yjlouq5U",
+            "value": 0.75
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "N72IRgFy",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "PxrTX0Ln",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "Q13Gnsty",
+            "value": 0.67
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "RQ4a2nIG",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "Sz5Wx2XD",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "V337a5b8",
+            "value": 0.67
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "WsK2A1ab",
+            "value": 0.67
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "Wsip5y7A",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "Y0WXF1LR",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "anqHwMQ0",
+            "value": 0.67
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "e4aM9WL7",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "eLXgq0Hx",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "gD630RD1",
+            "value": 0.67
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "jTb1qXEo",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "lkkZ1lUv",
+            "value": 0.67
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "oTT3YRMN",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "q2BDj1os",
+            "value": 0.33
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "yjlouq5U",
+            "value": 0.33
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "PxrTX0Ln",
+            "value": 0.5
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "Q13Gnsty",
             "value": 0
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "N72IRgFy",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "RQ4a2nIG",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "Sz5Wx2XD",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "Wsip5y7A",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "Y0WXF1LR",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "e4aM9WL7",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "eLXgq0Hx",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
             "u2": "gD630RD1",
             "value": 0
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "N72IRgFy",
             "u2": "jTb1qXEo",
             "value": 0
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "N72IRgFy",
+            "u2": "lkkZ1lUv",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "oTT3YRMN",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "q2BDj1os",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "x2AUnHqw",
+            "value": 1
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "yjlouq5U",
+            "value": 1
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "Q13Gnsty",
+            "value": 0.25
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "R4frFK0J",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "RQ4a2nIG",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "Sz5Wx2XD",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "V337a5b8",
+            "value": 0.25
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "WsK2A1ab",
+            "value": 0.5
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "Wsip5y7A",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "Y0WXF1LR",
+            "value": 0.5
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "anqHwMQ0",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "cBjFhvjx",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "e4aM9WL7",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "eLXgq0Hx",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "gD630RD1",
+            "value": 0.25
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "jTb1qXEo",
+            "value": 0.25
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "lkkZ1lUv",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "loEoYm9R",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "oTT3YRMN",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "q2BDj1os",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "sXKZ1IUH",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "x2AUnHqw",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "xi3DCToA",
+            "value": 0.75
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "yjlouq5U",
+            "value": 0.75
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "V337a5b8",
+            "value": 1
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "WsK2A1ab",
+            "value": 1
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "anqHwMQ0",
+            "value": 1
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "gD630RD1",
+            "value": 1
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "jTb1qXEo",
+            "value": 1
+        },
+        {
+            "u1": "Q13Gnsty",
             "u2": "lkkZ1lUv",
             "value": 0
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "Q13Gnsty",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "Q13Gnsty",
             "u2": "oTT3YRMN",
             "value": 0
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "Q13Gnsty",
             "u2": "q2BDj1os",
             "value": 0
         },
         {
-            "u1": "R4frFK0J",
+            "u1": "Q13Gnsty",
             "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "yjlouq5U",
             "value": 0
         },
         {
             "u1": "R4frFK0J",
+            "u2": "RQ4a2nIG",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "Sz5Wx2XD",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "V337a5b8",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "WsK2A1ab",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "Wsip5y7A",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "Y0WXF1LR",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "anqHwMQ0",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "cBjFhvjx",
+            "value": 1
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "e4aM9WL7",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "eLXgq0Hx",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "gD630RD1",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "jTb1qXEo",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "lkkZ1lUv",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "loEoYm9R",
+            "value": 1
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "oTT3YRMN",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "q2BDj1os",
+            "value": 0.5
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "sXKZ1IUH",
+            "value": 1
+        },
+        {
+            "u1": "R4frFK0J",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "R4frFK0J",
@@ -5442,12 +5434,12 @@
         {
             "u1": "R4frFK0J",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "Sz5Wx2XD",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
@@ -5462,12 +5454,12 @@
         {
             "u1": "RQ4a2nIG",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
@@ -5477,17 +5469,17 @@
         {
             "u1": "RQ4a2nIG",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
@@ -5502,42 +5494,42 @@
         {
             "u1": "RQ4a2nIG",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "RQ4a2nIG",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
@@ -5552,12 +5544,12 @@
         {
             "u1": "Sz5Wx2XD",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
@@ -5567,17 +5559,17 @@
         {
             "u1": "Sz5Wx2XD",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
@@ -5587,52 +5579,52 @@
         {
             "u1": "Sz5Wx2XD",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "Sz5Wx2XD",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "V337a5b8",
             "u2": "WsK2A1ab",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "V337a5b8",
@@ -5647,12 +5639,12 @@
         {
             "u1": "V337a5b8",
             "u2": "anqHwMQ0",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "V337a5b8",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "V337a5b8",
@@ -5667,12 +5659,12 @@
         {
             "u1": "V337a5b8",
             "u2": "gD630RD1",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "V337a5b8",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "V337a5b8",
@@ -5697,7 +5689,7 @@
         {
             "u1": "V337a5b8",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "V337a5b8",
@@ -5707,7 +5699,7 @@
         {
             "u1": "V337a5b8",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "V337a5b8",
@@ -5717,357 +5709,357 @@
         {
             "u1": "WsK2A1ab",
             "u2": "Wsip5y7A",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "Y0WXF1LR",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "anqHwMQ0",
-            "value": 0.5
+            "value": 0.75
         },
         {
             "u1": "WsK2A1ab",
             "u2": "cBjFhvjx",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "WsK2A1ab",
             "u2": "e4aM9WL7",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "gD630RD1",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "WsK2A1ab",
             "u2": "jTb1qXEo",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "WsK2A1ab",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "WsK2A1ab",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "WsK2A1ab",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "WsK2A1ab",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "WsK2A1ab",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "sXKZ1IUH",
-            "value": 0.18
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "Wsip5y7A",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "oTT3YRMN",
-            "value": 0.5
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "Y0WXF1LR",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "anqHwMQ0",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "cBjFhvjx",
             "u2": "xi3DCToA",
             "value": 0.75
         },
         {
+            "u1": "WsK2A1ab",
+            "u2": "yjlouq5U",
+            "value": 0.25
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "Y0WXF1LR",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "e4aM9WL7",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "eLXgq0Hx",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "lkkZ1lUv",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "oTT3YRMN",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "q2BDj1os",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "x2AUnHqw",
+            "value": 1
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "yjlouq5U",
+            "value": 1
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "anqHwMQ0",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "cBjFhvjx",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "e4aM9WL7",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "eLXgq0Hx",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "gD630RD1",
+            "value": 0.25
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "jTb1qXEo",
+            "value": 0.25
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "lkkZ1lUv",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "loEoYm9R",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "oTT3YRMN",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "q2BDj1os",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "sXKZ1IUH",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "x2AUnHqw",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "xi3DCToA",
+            "value": 0.75
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "yjlouq5U",
+            "value": 0.75
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "cBjFhvjx",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "e4aM9WL7",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "eLXgq0Hx",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "gD630RD1",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "jTb1qXEo",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "lkkZ1lUv",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "loEoYm9R",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "oTT3YRMN",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "q2BDj1os",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "x2AUnHqw",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "xi3DCToA",
+            "value": 0.5
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "e4aM9WL7",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "eLXgq0Hx",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "gD630RD1",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "jTb1qXEo",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "lkkZ1lUv",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "loEoYm9R",
+            "value": 1
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "oTT3YRMN",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "q2BDj1os",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "sXKZ1IUH",
+            "value": 1
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "x2AUnHqw",
+            "value": 1
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "xi3DCToA",
+            "value": 1
+        },
+        {
             "u1": "cBjFhvjx",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "e4aM9WL7",
             "u2": "eLXgq0Hx",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "e4aM9WL7",
@@ -6082,42 +6074,42 @@
         {
             "u1": "e4aM9WL7",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "e4aM9WL7",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "e4aM9WL7",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "e4aM9WL7",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "e4aM9WL7",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "e4aM9WL7",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "e4aM9WL7",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "e4aM9WL7",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "eLXgq0Hx",
@@ -6132,42 +6124,42 @@
         {
             "u1": "eLXgq0Hx",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "eLXgq0Hx",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "gD630RD1",
@@ -6177,12 +6169,12 @@
         {
             "u1": "gD630RD1",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "gD630RD1",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "gD630RD1",
@@ -6197,7 +6189,7 @@
         {
             "u1": "gD630RD1",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "gD630RD1",
@@ -6207,7 +6199,7 @@
         {
             "u1": "gD630RD1",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "gD630RD1",
@@ -6217,132 +6209,132 @@
         {
             "u1": "jTb1qXEo",
             "u2": "lkkZ1lUv",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "jTb1qXEo",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "jTb1qXEo",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "jTb1qXEo",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "jTb1qXEo",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "jTb1qXEo",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "jTb1qXEo",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "jTb1qXEo",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "loEoYm9R",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "lkkZ1lUv",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "loEoYm9R",
             "u2": "oTT3YRMN",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "loEoYm9R",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "loEoYm9R",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "loEoYm9R",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "loEoYm9R",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "loEoYm9R",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "oTT3YRMN",
             "u2": "q2BDj1os",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "oTT3YRMN",
             "u2": "sXKZ1IUH",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "oTT3YRMN",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "oTT3YRMN",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "oTT3YRMN",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "q2BDj1os",
@@ -6352,47 +6344,47 @@
         {
             "u1": "q2BDj1os",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "q2BDj1os",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.5
         },
         {
             "u1": "q2BDj1os",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 1
         },
         {
             "u1": "sXKZ1IUH",
             "u2": "x2AUnHqw",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "sXKZ1IUH",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "sXKZ1IUH",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.75
         },
         {
             "u1": "x2AUnHqw",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.67
         },
         {
             "u1": "x2AUnHqw",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.83
         },
         {
             "u1": "xi3DCToA",
             "u2": "yjlouq5U",
-            "value": 0
+            "value": 0.5
         }
     ],
     "artworks": [

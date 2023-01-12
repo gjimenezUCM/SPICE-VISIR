@@ -1,82 +1,15 @@
 {
     "_id": {
-        "$oid": "63bf5c0b21a7c71af2b1ac46"
+        "$oid": "63bf60676e5218a669b1ac46"
     },
-    "name": "P3: SIMILAR-emotions-SAME-artworks",
-    "perspectiveId": "63bf5c0339238feb6df4bd86 (0.3) kmedoids",
+    "name": "P4: SIMILAR-emotions-SAME-artworks (polarity emotions)",
+    "perspectiveId": "63bf605e39238feb6df4bfc5 (0.3) kmedoids",
     "communities": [
         {
-            "id": "63bf5c0339238feb6df4bd86-0",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
+            "id": "63bf605e39238feb6df4bfc5-0",
+            "perspectiveId": "63bf605e39238feb6df4bfc5",
             "community-type": "implicit",
             "name": "Community 0",
-            "explanations": [
-                {
-                    "explanation_type": "medoid",
-                    "explanation_data": {
-                        "id": "HoNIcWZY"
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "implicit_attributes",
-                    "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
-                        "data": {
-                            "joy": 33.33333333333333,
-                            "sadness": 11.11111111111111,
-                            "serenity": 7.4074074074074066,
-                            "anticipation": 3.7037037037037033,
-                            "trust": 3.7037037037037033,
-                            "fear": 3.7037037037037033,
-                            "love": 3.7037037037037033,
-                            "surprise": 3.7037037037037033,
-                            "interest": 3.7037037037037033
-                        }
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "explicit_attributes",
-                    "explanation_data": {},
-                    "visible": true
-                }
-            ],
-            "users": [
-                "2GROTNeg",
-                "3K9AMmqU",
-                "B3N0HGw4",
-                "BNtsz8zb",
-                "EEm3fSZd",
-                "FQFaM9D4",
-                "FVhf7OMw",
-                "FbEHiNmP",
-                "HoNIcWZY",
-                "JgevtrSb",
-                "KQTGApjD",
-                "LW3Klzvx",
-                "RQ4a2nIG",
-                "Sz5Wx2XD",
-                "V337a5b8",
-                "Wsip5y7A",
-                "anqHwMQ0",
-                "e4aM9WL7",
-                "eLXgq0Hx",
-                "gD630RD1",
-                "jTb1qXEo",
-                "lkkZ1lUv",
-                "loEoYm9R",
-                "q2BDj1os",
-                "sXKZ1IUH",
-                "x2AUnHqw",
-                "yjlouq5U"
-            ]
-        },
-        {
-            "id": "63bf5c0339238feb6df4bd86-1",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
-            "community-type": "implicit",
-            "name": "Community 1",
             "explanations": [
                 {
                     "explanation_type": "medoid",
@@ -90,21 +23,10 @@
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
-                            "joy": 50,
-                            "sadness": 16.666666666666664,
-                            "serenity": 16.666666666666664,
-                            "fear": 16.666666666666664
-                        }
-                    },
-                    "visible": true
-                },
-                {
-                    "explanation_type": "implicit_attributes",
-                    "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (id):",
-                        "data": {
-                            "35362": 66.66666666666666,
-                            "39347": 33.33333333333333
+                            "joy": 37.03703703703704,
+                            "sadness": 14.814814814814813,
+                            "serenity": 11.11111111111111,
+                            "fear": 7.4074074074074066
                         }
                     },
                     "visible": true
@@ -116,24 +38,45 @@
                 }
             ],
             "users": [
+                "2GROTNeg",
                 "2JfmseEG",
+                "3K9AMmqU",
+                "B3N0HGw4",
+                "BNtsz8zb",
                 "BTKF72et",
                 "Bf5Sj3ON",
+                "EEm3fSZd",
+                "FVhf7OMw",
+                "FbEHiNmP",
+                "JgevtrSb",
+                "KQTGApjD",
                 "LvIeXwcT",
                 "N72IRgFy",
-                "WsK2A1ab"
+                "RQ4a2nIG",
+                "Sz5Wx2XD",
+                "V337a5b8",
+                "WsK2A1ab",
+                "Wsip5y7A",
+                "anqHwMQ0",
+                "e4aM9WL7",
+                "eLXgq0Hx",
+                "gD630RD1",
+                "jTb1qXEo",
+                "lkkZ1lUv",
+                "loEoYm9R",
+                "x2AUnHqw"
             ]
         },
         {
-            "id": "63bf5c0339238feb6df4bd86-2",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
+            "id": "63bf605e39238feb6df4bfc5-1",
+            "perspectiveId": "63bf605e39238feb6df4bfc5",
             "community-type": "implicit",
-            "name": "Community 2",
+            "name": "Community 1",
             "explanations": [
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "GdMZ5rXI"
+                        "id": "GV4z5ANK"
                     },
                     "visible": true
                 },
@@ -178,10 +121,10 @@
             ]
         },
         {
-            "id": "63bf5c0339238feb6df4bd86-3",
-            "perspectiveId": "63bf5c0339238feb6df4bd86",
+            "id": "63bf605e39238feb6df4bfc5-2",
+            "perspectiveId": "63bf605e39238feb6df4bfc5",
             "community-type": "implicit",
-            "name": "Community 3",
+            "name": "Community 2",
             "explanations": [
                 {
                     "explanation_type": "medoid",
@@ -195,8 +138,9 @@
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
-                            "surprise": 66.66666666666666,
-                            "fear": 33.33333333333333
+                            "surprise": 50,
+                            "anticipation": 25,
+                            "fear": 25
                         }
                     },
                     "visible": true
@@ -218,13 +162,106 @@
                 }
             ],
             "users": [
+                "FQFaM9D4",
                 "R4frFK0J",
                 "cBjFhvjx",
                 "xi3DCToA"
             ]
+        },
+        {
+            "id": "63bf605e39238feb6df4bfc5-3",
+            "perspectiveId": "63bf605e39238feb6df4bfc5",
+            "community-type": "implicit",
+            "name": "Community 3",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "q2BDj1os"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "data": {
+                            "love": 50,
+                            "serenity": 50
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (id):",
+                        "data": {
+                            "39138": 100
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "q2BDj1os",
+                "sXKZ1IUH"
+            ]
+        },
+        {
+            "id": "63bf605e39238feb6df4bfc5-4",
+            "perspectiveId": "63bf605e39238feb6df4bfc5",
+            "community-type": "implicit",
+            "name": "Community 4",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "HoNIcWZY"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "data": {
+                            "anticipation": 33.33333333333333,
+                            "trust": 33.33333333333333,
+                            "interest": 33.33333333333333
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (id):",
+                        "data": {
+                            "35330": 100
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "HoNIcWZY",
+                "LW3Klzvx",
+                "yjlouq5U"
+            ]
         }
     ],
-    "numberOfCommunities": 4,
+    "numberOfCommunities": 5,
     "users": [
         {
             "id": "2GROTNeg",
@@ -274,7 +311,7 @@
         {
             "id": "2JfmseEG",
             "label": "2JfmseEG",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -337,7 +374,7 @@
         {
             "id": "2LIm9lcH",
             "label": "2LIm9lcH",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not binary",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -495,7 +532,7 @@
         {
             "id": "BTKF72et",
             "label": "BTKF72et",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -530,16 +567,16 @@
                     "extracted_emotions": {
                         "Sadness": 0.9291060600000001
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35459",
                     "feelings": "quiet, a quiet summer afternoon, windless quiet",
                     "extracted_emotions": {
                         "Serenity": 0.796984675
                     }
-                },
+                }
+            ],
+            "no_community_interactions": [
                 {
                     "artwork_id": "35224",
                     "feelings": "empathic, lost memories , someone trying to hold on to something they no longer possess ",
@@ -552,7 +589,7 @@
         {
             "id": "Bf5Sj3ON",
             "label": "Bf5Sj3ON",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -626,7 +663,7 @@
         {
             "id": "FQFaM9D4",
             "label": "FQFaM9D4",
-            "group": 0,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -651,21 +688,21 @@
             ],
             "community_interactions": [
                 {
-                    "artwork_id": "39416",
-                    "feelings": "felice, i giochi di ruolo con i nonni e i cugini, ai giochi in famiglia nelle vacanze di Natale",
-                    "extracted_emotions": {
-                        "Joy": 1.7947365,
-                        "Trust": 1
-                    }
-                }
-            ],
-            "no_community_interactions": [
-                {
                     "artwork_id": "39175",
                     "feelings": "in attesa delle feste e dei momenti con gli amici, la tavola imbandita del cenone di natale, la mia cucina disordinata",
                     "extracted_emotions": {
                         "Anticipation": 1,
                         "Surprise": 1
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "39416",
+                    "feelings": "felice, i giochi di ruolo con i nonni e i cugini, ai giochi in famiglia nelle vacanze di Natale",
+                    "extracted_emotions": {
+                        "Joy": 1.7947365,
+                        "Trust": 1
                     }
                 }
             ]
@@ -729,7 +766,7 @@
         {
             "id": "GV4z5ANK",
             "label": "GV4z5ANK",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -757,7 +794,7 @@
         {
             "id": "GdMZ5rXI",
             "label": "GdMZ5rXI",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -785,7 +822,7 @@
         {
             "id": "HoNIcWZY",
             "label": "HoNIcWZY",
-            "group": 0,
+            "group": 4,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -902,7 +939,7 @@
         {
             "id": "LW3Klzvx",
             "label": "LW3Klzvx",
-            "group": 0,
+            "group": 4,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -947,7 +984,7 @@
         {
             "id": "LvIeXwcT",
             "label": "LvIeXwcT",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -987,9 +1024,7 @@
                         "Sadness": 1.7683326,
                         "Serenity": 1.98919085
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "35445",
                     "feelings": "pensierosa , quando studiavo , un pomeriggio di autunno sul fiume ",
@@ -999,7 +1034,9 @@
                         "Trust": 0.76917523,
                         "Interest": 1
                     }
-                },
+                }
+            ],
+            "no_community_interactions": [
                 {
                     "artwork_id": "35323",
                     "feelings": "assonnata , la primavera , una persona sola",
@@ -1012,7 +1049,7 @@
         {
             "id": "N72IRgFy",
             "label": "N72IRgFy",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1040,7 +1077,7 @@
         {
             "id": "PxrTX0Ln",
             "label": "PxrTX0Ln",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1083,7 +1120,7 @@
         {
             "id": "Q13Gnsty",
             "label": "Q13Gnsty",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1117,7 +1154,7 @@
         {
             "id": "R4frFK0J",
             "label": "R4frFK0J",
-            "group": 3,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1160,7 +1197,8 @@
                     }
                 }
             ],
-            "community_interactions": [
+            "community_interactions": [],
+            "no_community_interactions": [
                 {
                     "artwork_id": "39416",
                     "feelings": "quando giocavo con la nonna e il nonno a scacchi,.\nEd era bellissimo e quando vincevo perch\u00e9 mi faceva sentire un professionista .",
@@ -1169,8 +1207,7 @@
                         "Interest": 1
                     }
                 }
-            ],
-            "no_community_interactions": []
+            ]
         },
         {
             "id": "Sz5Wx2XD",
@@ -1233,7 +1270,7 @@
         {
             "id": "WsK2A1ab",
             "label": "WsK2A1ab",
-            "group": 1,
+            "group": 0,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1263,9 +1300,7 @@
                         "Fear": 1.95738137,
                         "Anticipation": 1.9017547000000001
                     }
-                }
-            ],
-            "no_community_interactions": [
+                },
                 {
                     "artwork_id": "39352",
                     "feelings": "ordine",
@@ -1273,7 +1308,8 @@
                         "Sadness": 0.63115853
                     }
                 }
-            ]
+            ],
+            "no_community_interactions": []
         },
         {
             "id": "Wsip5y7A",
@@ -1292,7 +1328,8 @@
                     }
                 }
             ],
-            "community_interactions": [
+            "community_interactions": [],
+            "no_community_interactions": [
                 {
                     "artwork_id": "39182",
                     "feelings": "moda",
@@ -1300,13 +1337,12 @@
                         "Serenity": 0.52267414
                     }
                 }
-            ],
-            "no_community_interactions": []
+            ]
         },
         {
             "id": "Y0WXF1LR",
             "label": "Y0WXF1LR",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -1370,15 +1406,7 @@
                     }
                 }
             ],
-            "community_interactions": [],
-            "no_community_interactions": [
-                {
-                    "artwork_id": "35412",
-                    "feelings": "quanto sia dolorosa la morte ",
-                    "extracted_emotions": {
-                        "Sadness": 1
-                    }
-                },
+            "community_interactions": [
                 {
                     "artwork_id": "39352",
                     "feelings": "i colori della pace ",
@@ -1387,12 +1415,21 @@
                         "Serenity": 1.6653829
                     }
                 }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "35412",
+                    "feelings": "quanto sia dolorosa la morte ",
+                    "extracted_emotions": {
+                        "Sadness": 1
+                    }
+                }
             ]
         },
         {
             "id": "cBjFhvjx",
             "label": "cBjFhvjx",
-            "group": 3,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1642,7 +1679,7 @@
         {
             "id": "oTT3YRMN",
             "label": "oTT3YRMN",
-            "group": 2,
+            "group": 1,
             "explicit_community": {
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
@@ -1687,7 +1724,7 @@
         {
             "id": "q2BDj1os",
             "label": "q2BDj1os",
-            "group": 0,
+            "group": 3,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
@@ -1715,7 +1752,7 @@
         {
             "id": "sXKZ1IUH",
             "label": "sXKZ1IUH",
-            "group": 0,
+            "group": 3,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1741,15 +1778,6 @@
             ],
             "community_interactions": [
                 {
-                    "artwork_id": "39182",
-                    "feelings": "curioso, interessato, la casa dello zio di un amico, una ragazza in attesa di qualcosa o qualcuno. Le \u00e8 venuta una idea",
-                    "extracted_emotions": {
-                        "Trust": 1.9214504,
-                        "Anticipation": 1,
-                        "Surprise": 1.9455653000000002
-                    }
-                },
-                {
                     "artwork_id": "39138",
                     "feelings": "calmo, rilassato, le piscine delle terme, anche se qui c'\u00e8 una barca, un ragazzo sostiene una ragazza distesa in acqua",
                     "extracted_emotions": {
@@ -1758,7 +1786,17 @@
                     }
                 }
             ],
-            "no_community_interactions": []
+            "no_community_interactions": [
+                {
+                    "artwork_id": "39182",
+                    "feelings": "curioso, interessato, la casa dello zio di un amico, una ragazza in attesa di qualcosa o qualcuno. Le \u00e8 venuta una idea",
+                    "extracted_emotions": {
+                        "Trust": 1.9214504,
+                        "Anticipation": 1,
+                        "Surprise": 1.9455653000000002
+                    }
+                }
+            ]
         },
         {
             "id": "x2AUnHqw",
@@ -1824,7 +1862,7 @@
         {
             "id": "xi3DCToA",
             "label": "xi3DCToA",
-            "group": 3,
+            "group": 2,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1852,7 +1890,7 @@
         {
             "id": "yjlouq5U",
             "label": "yjlouq5U",
-            "group": 0,
+            "group": 4,
             "explicit_community": {
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
@@ -1977,7 +2015,7 @@
         {
             "u1": "2GROTNeg",
             "u2": "PxrTX0Ln",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "2GROTNeg",
@@ -2172,7 +2210,7 @@
         {
             "u1": "2JfmseEG",
             "u2": "LvIeXwcT",
-            "value": 0.31
+            "value": 0.33
         },
         {
             "u1": "2JfmseEG",
@@ -2297,7 +2335,7 @@
         {
             "u1": "2LIm9lcH",
             "u2": "3K9AMmqU",
-            "value": 0.12
+            "value": 0
         },
         {
             "u1": "2LIm9lcH",
@@ -2422,7 +2460,7 @@
         {
             "u1": "2LIm9lcH",
             "u2": "Y0WXF1LR",
-            "value": 0.31
+            "value": 0.25
         },
         {
             "u1": "2LIm9lcH",
@@ -2867,7 +2905,7 @@
         {
             "u1": "B3N0HGw4",
             "u2": "x2AUnHqw",
-            "value": 0.21
+            "value": 0.25
         },
         {
             "u1": "B3N0HGw4",
@@ -3112,7 +3150,7 @@
         {
             "u1": "BTKF72et",
             "u2": "KQTGApjD",
-            "value": 0.31
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
@@ -3232,7 +3270,7 @@
         {
             "u1": "BTKF72et",
             "u2": "x2AUnHqw",
-            "value": 0.31
+            "value": 0.33
         },
         {
             "u1": "BTKF72et",
@@ -3297,7 +3335,7 @@
         {
             "u1": "Bf5Sj3ON",
             "u2": "LvIeXwcT",
-            "value": 0.46
+            "value": 0.5
         },
         {
             "u1": "Bf5Sj3ON",
@@ -3652,7 +3690,7 @@
         {
             "u1": "FQFaM9D4",
             "u2": "R4frFK0J",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "FQFaM9D4",
@@ -3692,7 +3730,7 @@
         {
             "u1": "FQFaM9D4",
             "u2": "cBjFhvjx",
-            "value": 0.12
+            "value": 0.25
         },
         {
             "u1": "FQFaM9D4",
@@ -3747,7 +3785,7 @@
         {
             "u1": "FQFaM9D4",
             "u2": "xi3DCToA",
-            "value": 0
+            "value": 0.25
         },
         {
             "u1": "FQFaM9D4",
@@ -4072,7 +4110,7 @@
         {
             "u1": "GV4z5ANK",
             "u2": "GdMZ5rXI",
-            "value": 0.92
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
@@ -4147,7 +4185,7 @@
         {
             "u1": "GV4z5ANK",
             "u2": "Y0WXF1LR",
-            "value": 0.92
+            "value": 1
         },
         {
             "u1": "GV4z5ANK",
@@ -4377,527 +4415,527 @@
         {
             "u1": "HoNIcWZY",
             "u2": "LW3Klzvx",
+            "value": 1
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "yjlouq5U",
+            "value": 1
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "lkkZ1lUv",
+            "value": 0.33
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "oTT3YRMN",
+            "value": 0.33
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "x2AUnHqw",
+            "value": 1
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "yjlouq5U",
             "value": 0.5
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "LvIeXwcT",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "N72IRgFy",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "HoNIcWZY",
-            "u2": "yjlouq5U",
-            "value": 0.92
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "KQTGApjD",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "LW3Klzvx",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "LvIeXwcT",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "N72IRgFy",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "lkkZ1lUv",
-            "value": 0.31
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "oTT3YRMN",
-            "value": 0.29
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "JgevtrSb",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "LW3Klzvx",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "LvIeXwcT",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "N72IRgFy",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "x2AUnHqw",
-            "value": 1
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "KQTGApjD",
-            "u2": "yjlouq5U",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "LvIeXwcT",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "N72IRgFy",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "PxrTX0Ln",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "Q13Gnsty",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "R4frFK0J",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "RQ4a2nIG",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "Sz5Wx2XD",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "V337a5b8",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "WsK2A1ab",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "Wsip5y7A",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "Y0WXF1LR",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "anqHwMQ0",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "cBjFhvjx",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "e4aM9WL7",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "eLXgq0Hx",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "gD630RD1",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "jTb1qXEo",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "lkkZ1lUv",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "loEoYm9R",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "oTT3YRMN",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "q2BDj1os",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "sXKZ1IUH",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "x2AUnHqw",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "xi3DCToA",
-            "value": 0
-        },
-        {
-            "u1": "LW3Klzvx",
-            "u2": "yjlouq5U",
-            "value": 0.21
         },
         {
             "u1": "LvIeXwcT",
             "u2": "N72IRgFy",
-            "value": 0.31
+            "value": 0.33
         },
         {
             "u1": "LvIeXwcT",
@@ -5167,7 +5205,7 @@
         {
             "u1": "PxrTX0Ln",
             "u2": "Y0WXF1LR",
-            "value": 0.31
+            "value": 0.25
         },
         {
             "u1": "PxrTX0Ln",
@@ -5382,7 +5420,7 @@
         {
             "u1": "R4frFK0J",
             "u2": "cBjFhvjx",
-            "value": 0.75
+            "value": 1
         },
         {
             "u1": "R4frFK0J",
@@ -5852,7 +5890,7 @@
         {
             "u1": "Wsip5y7A",
             "u2": "sXKZ1IUH",
-            "value": 0.18
+            "value": 0.5
         },
         {
             "u1": "Wsip5y7A",
@@ -6057,7 +6095,7 @@
         {
             "u1": "cBjFhvjx",
             "u2": "xi3DCToA",
-            "value": 0.75
+            "value": 1
         },
         {
             "u1": "cBjFhvjx",

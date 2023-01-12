@@ -1,31 +1,27 @@
 [
     {
-        "id": "selectedCommunitiesVisualization",
-        "name": "selectedCommunitiesVisualization"
+        "id": "SIMILAR-emotions-SAME-artworks (polarity emotions)",
+        "name": "SIMILAR-emotions-SAME-artworks (polarity emotions)"
     },
     {
-        "id": "Same-Emotions-Similar-Artworks (iconclass)",
-        "name": "Same-Emotions-Similar-Artworks (iconclass)"
+        "id": "SIMILAR-emotions-SAME-artworks",
+        "name": "SIMILAR-emotions-SAME-artworks"
     },
     {
-        "id": "Similar-Emotions-Same-Artworks",
-        "name": "Similar-Emotions-Same-Artworks"
+        "id": "SIMILAR-emotions-SIMILAR-artworks (iconclass, polarity emotion)",
+        "name": "SIMILAR-emotions-SIMILAR-artworks (iconclass, polarity emotion)"
     },
     {
-        "id": "Similar-Emotions-Similar-Artworks (artist_country)",
-        "name": "Similar-Emotions-Similar-Artworks (artist_country)"
+        "id": "SIMILAR-emotions-SIMILAR-artworks (iconclass)",
+        "name": "SIMILAR-emotions-SIMILAR-artworks (iconclass)"
     },
     {
-        "id": "Similar-Emotions-Similar-Artworks (Artwork_Artistic_Movement)",
-        "name": "Similar-Emotions-Similar-Artworks (Artwork_Artistic_Movement)"
+        "id": "SIMILAR-emotions-SIMILAR-artworks (materials, movement)",
+        "name": "SIMILAR-emotions-SIMILAR-artworks (materials, movement)"
     },
     {
-        "id": "Similar-Emotions-Similar-Artworks (iconclass)",
-        "name": "Similar-Emotions-Similar-Artworks (iconclass)"
-    },
-    {
-        "id": "Similar-Sentiments-Similar-Artworks (iconclass)",
-        "name": "Similar-Sentiments-Similar-Artworks (iconclass)"
+        "id": "SIMILAR-emotions-SIMILAR-artworks (materials)",
+        "name": "SIMILAR-emotions-SIMILAR-artworks (materials)"
     },
     {
         "id": "HECHT Perspective (agglomerative)",
