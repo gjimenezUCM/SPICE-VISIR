@@ -20,7 +20,7 @@
                 {
                     "explanation_type": "implicit_attributes",
                     "explanation_data": {
-                        "accordionMode": "true",
+                        "accordionMode": true,
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
                         "data": {
                             "41A2 interior of the house (Le tre finestre, La pianura della torre), Mercato Vecchio). Obtained from the artwork's iconclass IDs: 41A2 interior of the house (La femme de Claude (L'adultera), Aracne); 41A222 drawing-room, 'salon' (Aracne)": [
