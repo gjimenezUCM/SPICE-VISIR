@@ -1,19 +1,60 @@
 {
-    "algorithm": [
+    "user_attributes": [
         {
-            "name": "agglomerative",
-            "params": [],
-            "default": true
+            "att_name": "demographics.Gender",
+            "att_type": "String"
         },
         {
-            "name": "kmedoids",
-            "params": []
+            "att_name": "demographics.Age",
+            "att_type": "String"
+        },
+        {
+            "att_name": "demographics.RelationshipWithArt",
+            "att_type": "String"
+        },
+        {
+            "att_name": "demographics.RelationshipWithMuseum",
+            "att_type": "String"
+        },
+        {
+            "att_name": "demographics.ContentInLIS",
+            "att_type": "String"
+        }
+    ],
+    "interaction_similarity_functions": [
+        {
+            "sim_function": {
+                "name": "ExtendedPlutchikEmotionSimilarityDAO",
+                "params": [],
+                "on_attribute": {
+                    "att_name": "interest.itMakesMeThinkAbout.emotions",
+                    "att_type": "dict"
+                },
+                "interaction_object": {
+                    "att_name": "id",
+                    "att_type": "String"
+                }
+            }
+        },
+        {
+            "sim_function": {
+                "name": "SentimentSimilarityDAO",
+                "params": [],
+                "on_attribute": {
+                    "att_name": "interest.itMakesMeThinkAbout.sentiment",
+                    "att_type": "dict"
+                },
+                "interaction_object": {
+                    "att_name": "id",
+                    "att_type": "String"
+                }
+            }
         }
     ],
     "artwork_attributes": [
         {
             "on_attribute": {
-                "att_name": "Inventory",
+                "att_name": "Inventary",
                 "att_type": "String"
             },
             "sim_function": [
@@ -21,78 +62,6 @@
                     "name": "EqualSimilarityDAO",
                     "params": [],
                     "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
-                }
-            ]
-        },
-        {
-            "on_attribute": {
-                "att_name": "Inventory2",
-                "att_type": "String"
-            },
-            "sim_function": [
-                {
-                    "name": "EqualSimilarityDAO",
-                    "params": [],
-                    "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
-                }
-            ]
-        },
-        {
-            "on_attribute": {
-                "att_name": "Inventory3",
-                "att_type": "String"
-            },
-            "sim_function": [
-                {
-                    "name": "EqualSimilarityDAO",
-                    "params": [],
-                    "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
-                }
-            ]
-        },
-        {
-            "on_attribute": {
-                "att_name": "Inventory4",
-                "att_type": "String"
-            },
-            "sim_function": [
-                {
-                    "name": "EqualSimilarityDAO",
-                    "params": [],
-                    "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
-                }
-            ]
-        },
-        {
-            "on_attribute": {
-                "att_name": "Inventory5",
-                "att_type": "String"
-            },
-            "sim_function": [
-                {
-                    "name": "EqualSimilarityDAO",
-                    "params": [],
-                    "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
                 }
             ]
         },
@@ -106,16 +75,12 @@
                     "name": "EqualSimilarityDAO",
                     "params": [],
                     "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
                 }
             ]
         },
         {
             "on_attribute": {
-                "att_name": "Author",
+                "att_name": "author",
                 "att_type": "String"
             },
             "sim_function": [
@@ -123,27 +88,24 @@
                     "name": "EqualSimilarityDAO",
                     "params": [],
                     "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
                 }
             ]
         },
         {
             "on_attribute": {
-                "att_name": "Year",
+                "att_name": "year",
                 "att_type": "float"
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -154,13 +116,14 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -171,13 +134,14 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -188,13 +152,14 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -205,13 +170,14 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -225,44 +191,42 @@
                     "name": "EqualSimilarityDAO",
                     "params": [],
                     "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
                 }
             ]
         },
         {
             "on_attribute": {
                 "att_name": "Artist_country",
-                "att_type": "float"
+                "att_type": "String"
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "TaxonomySimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
         {
             "on_attribute": {
                 "att_name": "Artist_secondary_country",
-                "att_type": "float"
+                "att_type": "String"
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "TaxonomySimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -273,30 +237,32 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "TaxonomySimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
         {
             "on_attribute": {
                 "att_name": "Secondary_Artwork_Artistic_Movement",
-                "att_type": "float"
+                "att_type": "String"
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "TaxonomySimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -310,10 +276,6 @@
                     "name": "EqualSimilarityDAO",
                     "params": [],
                     "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
                 }
             ]
         },
@@ -327,10 +289,6 @@
                     "name": "EqualSimilarityDAO",
                     "params": [],
                     "default": true
-                },
-                {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
                 }
             ]
         },
@@ -341,13 +299,14 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -358,30 +317,32 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
         {
             "on_attribute": {
                 "att_name": "Size_depth",
-                "att_type": "float"
+                "att_type": "String"
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "NumberSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
@@ -392,84 +353,86 @@
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "TaxonomySimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         },
         {
             "on_attribute": {
-                "att_name": "Iconclass_subjects_curators",
-                "att_type": "String"
+                "att_name": "iconclassArrayIDs",
+                "att_type": "List"
             },
             "sim_function": [
                 {
-                    "name": "EqualSimilarityDAO",
+                    "name": "IconClassSimilarityDAO",
                     "params": [],
                     "default": true
                 },
                 {
-                    "name": "UnEqualSimilarityDAO",
-                    "params": []
+                    "name": "EqualSimilarityDAO",
+                    "params": [],
+                    "default": false
                 }
             ]
         }
     ],
-    "user_attributes": [
+    "algorithm": [
         {
-            "att_name": "Age",
-            "att_type": "String"
+            "name": "affinityPropagation",
+            "params": [],
+            "default": true
         },
         {
-            "att_name": "Gender",
-            "att_type": "String"
+            "name": "agglomerative",
+            "params": [],
+            "default": false
         },
         {
-            "att_name": "relationship_with_arts",
-            "att_type": "String"
+            "name": "birch",
+            "params": [],
+            "default": false
         },
         {
-            "att_name": "relationship_with_museums",
-            "att_type": "String"
+            "name": "dbscan",
+            "params": [],
+            "default": false
         },
         {
-            "att_name": "content_breaking",
-            "att_type": "String"
-        }
-    ],
-    "interaction_similarity_functions": [
-        {
-            "sim_function": {
-                "name": "ExtendedPlutchikEmotionSimilarityDAO",
-                "params": [],
-                "on_attribute": {
-                    "att_name": "emotions",
-                    "att_type": "String"
-                },
-                "interaction_object": {
-                    "att_name": "artworkId",
-                    "att_type": "String"
-                }
-            }
+            "name": "fuzzyCMeans",
+            "params": [],
+            "default": false
         },
         {
-            "sim_function": {
-                "name": "SentimentSimilarityDAO",
-                "params": [],
-                "on_attribute": {
-                    "att_name": "sentiments",
-                    "att_type": "String"
-                },
-                "interaction_object": {
-                    "att_name": "artworkId",
-                    "att_type": "String"
-                }
-            }
+            "name": "greedy",
+            "params": [],
+            "default": false
+        },
+        {
+            "name": "kmedoids",
+            "params": [],
+            "default": false
+        },
+        {
+            "name": "markov",
+            "params": [],
+            "default": false
+        },
+        {
+            "name": "optics",
+            "params": [],
+            "default": false
+        },
+        {
+            "name": "spectral",
+            "params": [],
+            "default": false
         }
     ]
 }
