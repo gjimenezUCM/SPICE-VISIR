@@ -31,7 +31,7 @@
         "simpleLoading": "Loading"
     },
     "dataColumn": {
-        "citizenTittle": "Citizen Attributes",
+        "citizenTittle": "Citizen Description",
         "citizenAmount": "Total Citizens",
         "anonymous": "Anonymous",
         "medoidTittle": "Representative citizen",
@@ -39,7 +39,7 @@
         "otherInteractionsTittle": "Other user interactions",
         "labelText": "label",
         "unknownUserAttrb": "All users' attributes are unknown",
-        "communityPanelTittle": "Community Attributes",
+        "communityPanelTittle": "Community Description",
         "communityNameLabel": "Name"
     },
     "legend": {
