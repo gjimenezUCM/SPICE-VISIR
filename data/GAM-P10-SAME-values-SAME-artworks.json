@@ -2,7 +2,7 @@
     "_id": {
         "$oid": "63d71727e631fa94f0ae360c"
     },
-    "name": "P10-SAME-values-SAME-artworks",
+    "name": "GAM-P10-SAME-values-SAME-artworks",
     "perspectiveId": "63d716a8fa160be683c4d6e3 (0.7) kmedoids",
     "communities": [
         {
@@ -14,7 +14,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "cBjFhvjx"
+                        "id": "centroid0"
                     },
                     "visible": true
                 },
@@ -87,7 +87,8 @@
                 "cBjFhvjx",
                 "e4aM9WL7",
                 "loEoYm9R",
-                "oTT3YRMN"
+                "oTT3YRMN",
+                "centroid0"
             ]
         },
         {
@@ -99,7 +100,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "Wsip5y7A"
+                        "id": "centroid1"
                     },
                     "visible": true
                 },
@@ -152,7 +153,8 @@
             "users": [
                 "Wsip5y7A",
                 "bSuOYLw2",
-                "sXKZ1IUH"
+                "sXKZ1IUH",
+                "centroid1"
             ]
         },
         {
@@ -164,7 +166,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "GdMZ5rXI"
+                        "id": "centroid2"
                     },
                     "visible": true
                 },
@@ -224,7 +226,8 @@
                 "LvIeXwcT",
                 "PxrTX0Ln",
                 "Y0WXF1LR",
-                "xi3DCToA"
+                "xi3DCToA",
+                "centroid2"
             ]
         },
         {
@@ -236,7 +239,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "8sAIqaGe"
+                        "id": "centroid3"
                     },
                     "visible": true
                 },
@@ -286,7 +289,8 @@
                 "2GROTNeg",
                 "8sAIqaGe",
                 "M38rC6wd",
-                "yjlouq5U"
+                "yjlouq5U",
+                "centroid3"
             ]
         },
         {
@@ -298,7 +302,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "WsK2A1ab"
+                        "id": "centroid4"
                     },
                     "visible": true
                 },
@@ -352,7 +356,8 @@
             "users": [
                 "BTKF72et",
                 "WsK2A1ab",
-                "anqHwMQ0"
+                "anqHwMQ0",
+                "centroid4"
             ]
         },
         {
@@ -364,7 +369,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "Bf5Sj3ON"
+                        "id": "centroid5"
                     },
                     "visible": true
                 },
@@ -413,7 +418,8 @@
             "users": [
                 "2JfmseEG",
                 "Bf5Sj3ON",
-                "N72IRgFy"
+                "N72IRgFy",
+                "centroid5"
             ]
         },
         {
@@ -425,7 +431,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "q2BDj1os"
+                        "id": "centroid6"
                     },
                     "visible": true
                 },
@@ -478,7 +484,8 @@
             "users": [
                 "btoSxy3T",
                 "oITaD0ND",
-                "q2BDj1os"
+                "q2BDj1os",
+                "centroid6"
             ]
         },
         {
@@ -490,7 +497,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "HoNIcWZY"
+                        "id": "centroid7"
                     },
                     "visible": true
                 },
@@ -544,7 +551,8 @@
                 "BNtsz8zb",
                 "HoNIcWZY",
                 "WYCImqGm",
-                "ZWrgWx9o"
+                "ZWrgWx9o",
+                "centroid7"
             ]
         },
         {
@@ -556,7 +564,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "3K9AMmqU"
+                        "id": "centroid8"
                     },
                     "visible": true
                 },
@@ -609,7 +617,8 @@
             "users": [
                 "3K9AMmqU",
                 "EEm3fSZd",
-                "V337a5b8"
+                "V337a5b8",
+                "centroid8"
             ]
         },
         {
@@ -621,7 +630,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "jTb1qXEo"
+                        "id": "centroid9"
                     },
                     "visible": true
                 },
@@ -684,7 +693,8 @@
                 "NROrO0c9",
                 "W7Wnqxw4",
                 "jTb1qXEo",
-                "x2AUnHqw"
+                "x2AUnHqw",
+                "centroid9"
             ]
         },
         {
@@ -696,7 +706,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "KQTGApjD"
+                        "id": "centroid10"
                     },
                     "visible": true
                 },
@@ -744,7 +754,8 @@
             ],
             "users": [
                 "KQTGApjD",
-                "lkkZ1lUv"
+                "lkkZ1lUv",
+                "centroid10"
             ]
         },
         {
@@ -756,7 +767,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "FQFaM9D4"
+                        "id": "centroid11"
                     },
                     "visible": true
                 },
@@ -804,7 +815,8 @@
             ],
             "users": [
                 "FQFaM9D4",
-                "R4frFK0J"
+                "R4frFK0J",
+                "centroid11"
             ]
         },
         {
@@ -816,7 +828,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "B3N0HGw4"
+                        "id": "centroid12"
                     },
                     "visible": true
                 },
@@ -865,7 +877,8 @@
             ],
             "users": [
                 "B3N0HGw4",
-                "FbEHiNmP"
+                "FbEHiNmP",
+                "centroid12"
             ]
         },
         {
@@ -877,7 +890,7 @@
                 {
                     "explanation_type": "medoid",
                     "explanation_data": {
-                        "id": "gD630RD1"
+                        "id": "centroid13 (Users without community)"
                     },
                     "visible": true
                 }
@@ -889,7 +902,8 @@
                 "Q13Gnsty",
                 "ox8G7avH",
                 "fqybaAk8",
-                "RQ4a2nIG"
+                "RQ4a2nIG",
+                "centroid13 (Users without community)"
             ]
         }
     ],
@@ -4264,6 +4278,912 @@
                         "loyalty": 0.012337675346414001,
                         "authority": 0.01452792941422,
                         "purity": 0.015802333579890002
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid0",
+            "label": "centroid0",
+            "group": 0,
+            "explicit_community": {
+                "deaf": "No",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35229",
+                    "feelings": "LSD ",
+                    "extracted_emotions": {
+                        "care": 0.021634581539354002,
+                        "fairness": 0.042861411424316,
+                        "loyalty": 0.016476077668747,
+                        "authority": 0.011858471265706001,
+                        "purity": 0.018466660008646
+                    }
+                },
+                {
+                    "artwork_id": "39648",
+                    "feelings": "Casa",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "39200",
+                    "feelings": "Sesso",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "39175",
+                    "feelings": "Vecchiaia",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "39175",
+                    "feelings": "Vecchiaia",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35229",
+                    "feelings": "LSD ",
+                    "extracted_emotions": {
+                        "care": 0.021634581539354002,
+                        "fairness": 0.042861411424316,
+                        "loyalty": 0.016476077668747,
+                        "authority": 0.011858471265706001,
+                        "purity": 0.018466660008646
+                    }
+                },
+                {
+                    "artwork_id": "39200",
+                    "feelings": "Sesso",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "39648",
+                    "feelings": "Casa",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid1",
+            "label": "centroid1",
+            "group": 1,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "39182",
+                    "feelings": "moda",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "39648",
+                    "feelings": "casa",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "39648",
+                    "feelings": "casa",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "39182",
+                    "feelings": "moda",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid2",
+            "label": "centroid2",
+            "group": 2,
+            "explicit_community": {
+                "deaf": "No",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35381",
+                    "feelings": "al bosco",
+                    "extracted_emotions": {
+                        "care": 0.045971595921014005,
+                        "fairness": 0.051700297071122,
+                        "loyalty": 0.031458355162748,
+                        "authority": 0.036660709859749,
+                        "purity": 0.037714983920527
+                    }
+                },
+                {
+                    "artwork_id": "35323",
+                    "feelings": "alla spensieratezza ",
+                    "extracted_emotions": {
+                        "care": 0.025810955618165002,
+                        "fairness": 0.036903660285877,
+                        "loyalty": 0.015876259415864,
+                        "authority": 0.018394358883618,
+                        "purity": 0.018252435819987003
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35381",
+                    "feelings": "al bosco",
+                    "extracted_emotions": {
+                        "care": 0.045971595921014005,
+                        "fairness": 0.051700297071122,
+                        "loyalty": 0.031458355162748,
+                        "authority": 0.036660709859749,
+                        "purity": 0.037714983920527
+                    }
+                },
+                {
+                    "artwork_id": "35323",
+                    "feelings": "alla spensieratezza ",
+                    "extracted_emotions": {
+                        "care": 0.025810955618165002,
+                        "fairness": 0.036903660285877,
+                        "loyalty": 0.015876259415864,
+                        "authority": 0.018394358883618,
+                        "purity": 0.018252435819987003
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid3",
+            "label": "centroid3",
+            "group": 3,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35433",
+                    "feelings": "a casa",
+                    "extracted_emotions": {
+                        "care": 0.045686700042478004,
+                        "fairness": 0.055815326091966,
+                        "loyalty": 0.026483364481706004,
+                        "authority": 0.022548272341727002,
+                        "purity": 0.028379779354457003
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35433",
+                    "feelings": "a casa",
+                    "extracted_emotions": {
+                        "care": 0.045686700042478004,
+                        "fairness": 0.055815326091966,
+                        "loyalty": 0.026483364481706004,
+                        "authority": 0.022548272341727002,
+                        "purity": 0.028379779354457003
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid4",
+            "label": "centroid4",
+            "group": 4,
+            "explicit_community": {
+                "deaf": "No",
+                "RelationshipWithArt": "Art interests me little"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "39352",
+                    "feelings": "ordine",
+                    "extracted_emotions": {
+                        "care": 0.9948920123574121,
+                        "fairness": 0.253195294556996,
+                        "loyalty": 0.984797636821759,
+                        "authority": 0.8669699036851901,
+                        "purity": 0.9549894017710041
+                    }
+                },
+                {
+                    "artwork_id": "39347",
+                    "feelings": "ansia",
+                    "extracted_emotions": {
+                        "care": 0.9629585228590801,
+                        "fairness": 0.16294734246296702,
+                        "loyalty": 0.9063762195785011,
+                        "authority": 0.6273271889716301,
+                        "purity": 0.8111972801830181
+                    }
+                },
+                {
+                    "artwork_id": "35412",
+                    "feelings": "guerra",
+                    "extracted_emotions": {
+                        "care": 0.28634309517797,
+                        "fairness": 0.230061626273099,
+                        "loyalty": 0.052077314524890006,
+                        "authority": 0.035169904682638004,
+                        "purity": 0.09397433926569901
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "39347",
+                    "feelings": "ansia",
+                    "extracted_emotions": {
+                        "care": 0.9629585228590801,
+                        "fairness": 0.16294734246296702,
+                        "loyalty": 0.9063762195785011,
+                        "authority": 0.6273271889716301,
+                        "purity": 0.8111972801830181
+                    }
+                },
+                {
+                    "artwork_id": "39352",
+                    "feelings": "ordine",
+                    "extracted_emotions": {
+                        "care": 0.9948920123574121,
+                        "fairness": 0.253195294556996,
+                        "loyalty": 0.984797636821759,
+                        "authority": 0.8669699036851901,
+                        "purity": 0.9549894017710041
+                    }
+                },
+                {
+                    "artwork_id": "35412",
+                    "feelings": "guerra",
+                    "extracted_emotions": {
+                        "care": 0.28634309517797,
+                        "fairness": 0.230061626273099,
+                        "loyalty": 0.052077314524890006,
+                        "authority": 0.035169904682638004,
+                        "purity": 0.09397433926569901
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid5",
+            "label": "centroid5",
+            "group": 5,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35362",
+                    "feelings": "quello che \u00e8 successo la scorsa estate, quando ero quasi affogata nel mare ",
+                    "extracted_emotions": {
+                        "care": 0.281837148040738,
+                        "fairness": 0.36532163177292604,
+                        "loyalty": 0.222138493026509,
+                        "authority": 0.167383785287567,
+                        "purity": 0.337885664368865
+                    }
+                },
+                {
+                    "artwork_id": "39347",
+                    "feelings": "quando faccio incubi  ",
+                    "extracted_emotions": {
+                        "care": 0.089620201899597,
+                        "fairness": 0.06004647680457,
+                        "loyalty": 0.051606670582894004,
+                        "authority": 0.030734136945827002,
+                        "purity": 0.015611567726858
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35362",
+                    "feelings": "quello che \u00e8 successo la scorsa estate, quando ero quasi affogata nel mare ",
+                    "extracted_emotions": {
+                        "care": 0.281837148040738,
+                        "fairness": 0.36532163177292604,
+                        "loyalty": 0.222138493026509,
+                        "authority": 0.167383785287567,
+                        "purity": 0.337885664368865
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "39347",
+                    "feelings": "quando faccio incubi  ",
+                    "extracted_emotions": {
+                        "care": 0.089620201899597,
+                        "fairness": 0.06004647680457,
+                        "loyalty": 0.051606670582894004,
+                        "authority": 0.030734136945827002,
+                        "purity": 0.015611567726858
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid6",
+            "label": "centroid6",
+            "group": 6,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "Art interests me little"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "39384",
+                    "feelings": "un aquilone in spiaggia ",
+                    "extracted_emotions": {
+                        "care": 0.10446247329869901,
+                        "fairness": 0.06591884433572101,
+                        "loyalty": 0.07301872448815501,
+                        "authority": 0.068693616187034,
+                        "purity": 0.09418545070376501
+                    }
+                },
+                {
+                    "artwork_id": "39138",
+                    "feelings": "due persone che fanno l\u2019amore",
+                    "extracted_emotions": {
+                        "care": 0.13210694200949502,
+                        "fairness": 0.075409753161053,
+                        "loyalty": 0.069175268222973,
+                        "authority": 0.030042210013863,
+                        "purity": 0.06881720351975501
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "39138",
+                    "feelings": "due persone che fanno l\u2019amore",
+                    "extracted_emotions": {
+                        "care": 0.13210694200949502,
+                        "fairness": 0.075409753161053,
+                        "loyalty": 0.069175268222973,
+                        "authority": 0.030042210013863,
+                        "purity": 0.06881720351975501
+                    }
+                },
+                {
+                    "artwork_id": "39384",
+                    "feelings": "un aquilone in spiaggia ",
+                    "extracted_emotions": {
+                        "care": 0.10446247329869901,
+                        "fairness": 0.06591884433572101,
+                        "loyalty": 0.07301872448815501,
+                        "authority": 0.068693616187034,
+                        "purity": 0.09418545070376501
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid7",
+            "label": "centroid7",
+            "group": 7,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35330",
+                    "feelings": "Prospettive",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35229",
+                    "feelings": "Mondi diversi",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35330",
+                    "feelings": "Prospettive",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35229",
+                    "feelings": "Mondi diversi",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid8",
+            "label": "centroid8",
+            "group": 8,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35310",
+                    "feelings": "happy ",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35374",
+                    "feelings": "sad",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35222",
+                    "feelings": "fear ",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35310",
+                    "feelings": "happy ",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35222",
+                    "feelings": "fear ",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "35374",
+                    "feelings": "sad",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid9",
+            "label": "centroid9",
+            "group": 9,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35321",
+                    "feelings": "sola, una persona con problemi di relazione",
+                    "extracted_emotions": {
+                        "care": 0.106668250303837,
+                        "fairness": 0.030256372118344,
+                        "loyalty": 0.088031575130308,
+                        "authority": 0.055759300278674005,
+                        "purity": 0.10767131359282
+                    }
+                },
+                {
+                    "artwork_id": "35208",
+                    "feelings": "gli studi del liceo, una creatura perfetta",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35456",
+                    "feelings": "assorta, un fresco pomeriggio di aprile",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35321",
+                    "feelings": "sola, una persona con problemi di relazione",
+                    "extracted_emotions": {
+                        "care": 0.106668250303837,
+                        "fairness": 0.030256372118344,
+                        "loyalty": 0.088031575130308,
+                        "authority": 0.055759300278674005,
+                        "purity": 0.10767131359282
+                    }
+                },
+                {
+                    "artwork_id": "35456",
+                    "feelings": "assorta, un fresco pomeriggio di aprile",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35208",
+                    "feelings": "gli studi del liceo, una creatura perfetta",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid10",
+            "label": "centroid10",
+            "group": 10,
+            "explicit_community": {
+                "deaf": "No",
+                "RelationshipWithArt": "Art interests me little"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35459",
+                    "feelings": "allegro, nonni, estate",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35433",
+                    "feelings": "freddo, pirati dei caraibi, vita rurale",
+                    "extracted_emotions": {
+                        "care": 0.06708495077986401,
+                        "fairness": 0.137820902916577,
+                        "loyalty": 0.056337038746453,
+                        "authority": 0.07712878347148801,
+                        "purity": 0.16353061075351802
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35433",
+                    "feelings": "freddo, pirati dei caraibi, vita rurale",
+                    "extracted_emotions": {
+                        "care": 0.06708495077986401,
+                        "fairness": 0.137820902916577,
+                        "loyalty": 0.056337038746453,
+                        "authority": 0.07712878347148801,
+                        "purity": 0.16353061075351802
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "35459",
+                    "feelings": "allegro, nonni, estate",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid11",
+            "label": "centroid11",
+            "group": 11,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "39416",
+                    "feelings": "felice, i giochi di ruolo con i nonni e i cugini, ai giochi in famiglia nelle vacanze di Natale",
+                    "extracted_emotions": {
+                        "care": 0.24714416525847502,
+                        "fairness": 0.07564556256093401,
+                        "loyalty": 0.215037237651616,
+                        "authority": 0.120709095477284,
+                        "purity": 0.26621125674763
+                    }
+                },
+                {
+                    "artwork_id": "39175",
+                    "feelings": "in attesa delle feste e dei momenti con gli amici, la tavola imbandita del cenone di natale, la mia cucina disordinata",
+                    "extracted_emotions": {
+                        "care": 0.07739683036436201,
+                        "fairness": 0.061935704199864,
+                        "loyalty": 0.05742135602388201,
+                        "authority": 0.062246771247009,
+                        "purity": 0.071959687446132
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "39175",
+                    "feelings": "in attesa delle feste e dei momenti con gli amici, la tavola imbandita del cenone di natale, la mia cucina disordinata",
+                    "extracted_emotions": {
+                        "care": 0.07739683036436201,
+                        "fairness": 0.061935704199864,
+                        "loyalty": 0.05742135602388201,
+                        "authority": 0.062246771247009,
+                        "purity": 0.071959687446132
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "39416",
+                    "feelings": "felice, i giochi di ruolo con i nonni e i cugini, ai giochi in famiglia nelle vacanze di Natale",
+                    "extracted_emotions": {
+                        "care": 0.24714416525847502,
+                        "fairness": 0.07564556256093401,
+                        "loyalty": 0.215037237651616,
+                        "authority": 0.120709095477284,
+                        "purity": 0.26621125674763
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid12",
+            "label": "centroid12",
+            "group": 12,
+            "explicit_community": {
+                "deaf": "Yes",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35288",
+                    "feelings": "un caldo pomeriggio",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35360",
+                    "feelings": "serena",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35445",
+                    "feelings": "rilassata",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "community_interactions": [
+                {
+                    "artwork_id": "35360",
+                    "feelings": "serena",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "35288",
+                    "feelings": "un caldo pomeriggio",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                },
+                {
+                    "artwork_id": "35445",
+                    "feelings": "rilassata",
+                    "extracted_emotions": {
+                        "care": 0.022084955808553002,
+                        "fairness": 0.027164068483193003,
+                        "loyalty": 0.012337675346414001,
+                        "authority": 0.01452792941422,
+                        "purity": 0.015802333579890002
+                    }
+                }
+            ]
+        },
+        {
+            "id": "centroid13 (Users without community)",
+            "label": "centroid13 (Users without community)",
+            "group": 13,
+            "explicit_community": {
+                "deaf": "No",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "interactions": [
+                {
+                    "artwork_id": "35445",
+                    "feelings": "un senso di nostalgia per un periodo che non ho mai vissuto. Chi sono quei due ragazzini? Cosa stanno facendo? Erano felici? Quello che resta oggi \u00e8 solo un quadro (e supposizioni correlate)",
+                    "extracted_emotions": {
+                        "care": 0.9998603644536421,
+                        "fairness": 0.9999986619141981,
+                        "loyalty": 0.9999990021757581,
+                        "authority": 0.9999991488821591,
+                        "purity": 0.9999956452316701
+                    }
+                }
+            ],
+            "community_interactions": [],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "35445",
+                    "feelings": "un senso di nostalgia per un periodo che non ho mai vissuto. Chi sono quei due ragazzini? Cosa stanno facendo? Erano felici? Quello che resta oggi \u00e8 solo un quadro (e supposizioni correlate)",
+                    "extracted_emotions": {
+                        "care": 0.9998603644536421,
+                        "fairness": 0.9999986619141981,
+                        "loyalty": 0.9999990021757581,
+                        "authority": 0.9999991488821591,
+                        "purity": 0.9999956452316701
                     }
                 }
             ]
@@ -11694,6 +12614,4311 @@
             "u1": "xi3DCToA",
             "u2": "yjlouq5U",
             "value": 0
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "M38rC6wd",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "NROrO0c9",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "V337a5b8",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "W7Wnqxw4",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "WsK2A1ab",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "ZWrgWx9o",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "bSuOYLw2",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "btoSxy3T",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "e4aM9WL7",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid0",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "cBjFhvjx",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "M38rC6wd",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "NROrO0c9",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "V337a5b8",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "W7Wnqxw4",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "WsK2A1ab",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "bSuOYLw2",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid1",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "cBjFhvjx",
+            "value": 0.25
+        },
+        {
+            "u1": "centroid1",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "sXKZ1IUH",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid1",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "centroid1",
+            "u2": "Wsip5y7A",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid2",
+            "value": 0.67
+        },
+        {
+            "u1": "centroid2",
+            "u2": "HoNIcWZY",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "LvIeXwcT",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid2",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "PxrTX0Ln",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid2",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "Y0WXF1LR",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid2",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "xi3DCToA",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid2",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "GdMZ5rXI",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid3",
+            "value": 0.25
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid3",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid3",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid3",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid3",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "B3N0HGw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "BNtsz8zb",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "BTKF72et",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "Bf5Sj3ON",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "EEm3fSZd",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "FQFaM9D4",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "FVhf7OMw",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "FbEHiNmP",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "GV4z5ANK",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "GdMZ5rXI",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "HoNIcWZY",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "M38rC6wd",
+            "value": 1
+        },
+        {
+            "u1": "centroid3",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "8sAIqaGe",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid4",
+            "value": 0.33
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid4",
+            "value": 0.33
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "M38rC6wd",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "NROrO0c9",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "V337a5b8",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "W7Wnqxw4",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "anqHwMQ0",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid4",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "WsK2A1ab",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid5",
+            "value": 0.33
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid5",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid5",
+            "u2": "EEm3fSZd",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "FQFaM9D4",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "FVhf7OMw",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "FbEHiNmP",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "GV4z5ANK",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "GdMZ5rXI",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "HoNIcWZY",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "LvIeXwcT",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid5",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "N72IRgFy",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid5",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "WsK2A1ab",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid5",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid4",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid5",
+            "u2": "Bf5Sj3ON",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "M38rC6wd",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "NROrO0c9",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "V337a5b8",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "W7Wnqxw4",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "WsK2A1ab",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "ZWrgWx9o",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "bSuOYLw2",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "btoSxy3T",
+            "u2": "centroid6",
+            "value": 0.5
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "e4aM9WL7",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "eLXgq0Hx",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "fqybaAk8",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "gD630RD1",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "jTb1qXEo",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "lkkZ1lUv",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "loEoYm9R",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "oITaD0ND",
+            "u2": "centroid6",
+            "value": 0.5
+        },
+        {
+            "u1": "oTT3YRMN",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "ox8G7avH",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid6",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid6",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid6",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid6",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid6",
+            "u2": "q2BDj1os",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid7",
+            "value": 0.5
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid7",
+            "value": 0.5
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "WYCImqGm",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid7",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "ZWrgWx9o",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid7",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "cBjFhvjx",
+            "value": 0.25
+        },
+        {
+            "u1": "centroid7",
+            "u2": "e4aM9WL7",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid7",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "yjlouq5U",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid0",
+            "value": 0.25
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "HoNIcWZY",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid8",
+            "value": 0.25
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid8",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid8",
+            "value": 0.25
+        },
+        {
+            "u1": "centroid8",
+            "u2": "6rK3p7za",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "8sAIqaGe",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "B3N0HGw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "BNtsz8zb",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "BTKF72et",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "Bf5Sj3ON",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "EEm3fSZd",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid8",
+            "u2": "FQFaM9D4",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "FVhf7OMw",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "FbEHiNmP",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "GV4z5ANK",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "GdMZ5rXI",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "HoNIcWZY",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "V337a5b8",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid8",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid3",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "3K9AMmqU",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid9",
+            "value": 0.33
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "M38rC6wd",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "NROrO0c9",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "V337a5b8",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "W7Wnqxw4",
+            "u2": "centroid9",
+            "value": 0.33
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "WsK2A1ab",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "ZWrgWx9o",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "bSuOYLw2",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "btoSxy3T",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "e4aM9WL7",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "eLXgq0Hx",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "fqybaAk8",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "gD630RD1",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "x2AUnHqw",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid9",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid9",
+            "u2": "jTb1qXEo",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid10",
+            "value": 0.33
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "lkkZ1lUv",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid10",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "x2AUnHqw",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid10",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "KQTGApjD",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "FVhf7OMw",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "FbEHiNmP",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "GV4z5ANK",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "GdMZ5rXI",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "HoNIcWZY",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "LvIeXwcT",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "R4frFK0J",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid11",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "Y0WXF1LR",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "xi3DCToA",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid11",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "FQFaM9D4",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid12",
+            "value": 0.33
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "BNtsz8zb",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "BTKF72et",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "Bf5Sj3ON",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "EEm3fSZd",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "FQFaM9D4",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "FVhf7OMw",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "FbEHiNmP",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid12",
+            "u2": "GV4z5ANK",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "GdMZ5rXI",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "HoNIcWZY",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "JgevtrSb",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "KQTGApjD",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "LW3Klzvx",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "LvIeXwcT",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid12",
+            "u2": "M38rC6wd",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "N72IRgFy",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "NROrO0c9",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "PxrTX0Ln",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "Q13Gnsty",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "R4frFK0J",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "RQ4a2nIG",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "Sz5Wx2XD",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "V337a5b8",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "W7Wnqxw4",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "WYCImqGm",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "WsK2A1ab",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "Wsip5y7A",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "Y0WXF1LR",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid12",
+            "u2": "ZWrgWx9o",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "anqHwMQ0",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "bSuOYLw2",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "btoSxy3T",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "cBjFhvjx",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "e4aM9WL7",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "eLXgq0Hx",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "fqybaAk8",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "gD630RD1",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "xi3DCToA",
+            "value": 0.33
+        },
+        {
+            "u1": "centroid12",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid4",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid5",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid7",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid12",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid10",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid11",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "B3N0HGw4",
+            "value": 1
+        },
+        {
+            "u1": "2GROTNeg",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "2JfmseEG",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "2LIm9lcH",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "3K9AMmqU",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "6rK3p7za",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "8sAIqaGe",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "B3N0HGw4",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "BNtsz8zb",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "Bf5Sj3ON",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "EEm3fSZd",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "FQFaM9D4",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "FVhf7OMw",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "FbEHiNmP",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "GV4z5ANK",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "GdMZ5rXI",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "HoNIcWZY",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "JgevtrSb",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "LW3Klzvx",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "LvIeXwcT",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "M38rC6wd",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "N72IRgFy",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "NROrO0c9",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "PxrTX0Ln",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "Q13Gnsty",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "R4frFK0J",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "RQ4a2nIG",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "Sz5Wx2XD",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "V337a5b8",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "W7Wnqxw4",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "WYCImqGm",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "WsK2A1ab",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "Wsip5y7A",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "Y0WXF1LR",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "ZWrgWx9o",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "anqHwMQ0",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "bSuOYLw2",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "btoSxy3T",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "cBjFhvjx",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "e4aM9WL7",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "eLXgq0Hx",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "fqybaAk8",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "jTb1qXEo",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "lkkZ1lUv",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "loEoYm9R",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "oITaD0ND",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "oTT3YRMN",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "ox8G7avH",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "q2BDj1os",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "sXKZ1IUH",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "x2AUnHqw",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "xi3DCToA",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "yjlouq5U",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid3",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid4",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid5",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "centroid6",
+            "value": 0
+        },
+        {
+            "u1": "centroid7",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid8",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "centroid9",
+            "value": 0
+        },
+        {
+            "u1": "centroid10",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid11",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid12",
+            "u2": "centroid13 (Users without community)",
+            "value": 0
+        },
+        {
+            "u1": "centroid13 (Users without community)",
+            "u2": "gD630RD1",
+            "value": 1
         }
     ],
     "artworks": [

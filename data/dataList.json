@@ -1,42 +1,58 @@
-[ {
-        "id": "GAM-P1-SIMILAR-emotions-SIMILAR-artworks (iconclass)",
-        "name": "GAM-P1-SIMILAR-emotions-SIMILAR-artworks (iconclass)"
-    },
-    {
-        "id": "GAM-P2-SIMILAR-emotions-SIMILAR-artworks (iconclass, polarity emotion)",
-        "name": "GAM-P2-SIMILAR-emotions-SIMILAR-artworks (iconclass, polarity emotion)"
-    },
-    {
-        "id": "GAM-P3-SIMILAR-emotions-SAME-artworks",
-        "name": "GAM-P3-SIMILAR-emotions-SAME-artworks"
-    },
-    {
-        "id": "GAM-P4-SIMILAR-emotions-SAME-artworks (polarity emotions)",
-        "name": "GAM-P4-SIMILAR-emotions-SAME-artworks (polarity emotions)"
-    },
-    {
-        "id": "GAM-P5-SIMILAR-emotions-SIMILAR-artworks (materials)",
-        "name": "GAM-P5-SIMILAR-emotions-SIMILAR-artworks (materials)"
-    },
-    {
-        "id": "GAM-P6-SIMILAR-emotions-SIMILAR-artworks (materials, movement)",
-        "name": "GAM-P6-SIMILAR-emotions-SIMILAR-artworks (materials, movement)"
-    },
-    {"id" : "GAM-P7-SIMILAR-values-SIMILAR-artworks (iconclass)", 
-"name" : "GAM-P7-SIMILAR-values-SIMILAR-artworks (iconclass)"},
-{"id" : "GAM-P8-SIMILAR-values-SAME-artworks", 
-"name" : "GAM-P8-SIMILAR-values-SAME-artworks"},
-{"id" : "GAM-P9-SAME-values-SIMILAR-artworks (iconclass)", 
-"name" : "GAM-P9-SAME-values-SIMILAR-artworks (iconclass)"},
-{"id" : "GAM-P10-SAME-values-SAME-artworks", 
-"name" : "GAM-P10-SAME-values-SAME-artworks"},
-{"id" : "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks (iconclass)", 
-"name" : "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks (iconclass)"},
-{"id" : "GAM-P12-DISSIMILAR-emotions-SAME-artworks", 
-"name" : "GAM-P12-DISSIMILAR-emotions-SAME-artworks"},
-{"id" : "GAM-P13-DISSIMILAR-values-SIMILAR-artworks (iconclass)", 
-"name" : "GAM-P13-DISSIMILAR-values-SIMILAR-artworks (iconclass)"},
-{"id" : "GAM-P14-DISSIMILAR-values-SAME-artworks", 
-"name" : "GAM-P14-DISSIMILAR-values-SAME-artworks"}
-
+[
+  {
+    "id": "GAM-P1-SIMILAR-emotions-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P1-SIMILAR-emotions-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P2-SIMILAR-emotions-SIMILAR-artworks-(iconclass, polarity emotion)",
+    "name": "GAM-P2-SIMILAR-emotions-SIMILAR-artworks-(iconclass, polarity emotion)"
+  },
+  {
+    "id": "GAM-P3-SIMILAR-emotions-SAME-artworks",
+    "name": "GAM-P3-SIMILAR-emotions-SAME-artworks"
+  },
+  {
+    "id": "GAM-P4-SIMILAR-emotions-SAME-artworks-(polarity emotion)",
+    "name": "GAM-P4-SIMILAR-emotions-SAME-artworks-(polarity emotion)"
+  },
+  {
+    "id": "GAM-P5-SIMILAR-emotions-SIMILAR-artworks-(materials)",
+    "name": "GAM-P5-SIMILAR-emotions-SIMILAR-artworks-(materials)"
+  },
+  {
+    "id": "GAM-P6-SIMILAR-emotions-SIMILAR-artworks-(materials, movement, polarity emotion)",
+    "name": "GAM-P6-SIMILAR-emotions-SIMILAR-artworks-(materials, movement, polarity emotion)"
+  },
+  {
+    "id": "GAM-P7-SIMILAR-values-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P7-SIMILAR-values-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P8-SIMILAR-values-SAME-artworks",
+    "name": "GAM-P8-SIMILAR-values-SAME-artworks"
+  },
+  {
+    "id": "GAM-P9-SAME-values-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P9-SAME-values-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P10-SAME-values-SAME-artworks",
+    "name": "GAM-P10-SAME-values-SAME-artworks"
+  },
+  {
+    "id": "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P12-DISSIMILAR-emotions-SAME-artworks",
+    "name": "GAM-P12-DISSIMILAR-emotions-SAME-artworks"
+  },
+  {
+    "id": "GAM-P13-DISSIMILAR-values-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P13-DISSIMILAR-values-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P14-DISSIMILAR-values-SAME-artworks",
+    "name": "GAM-P14-DISSIMILAR-values-SAME-artworks"
+  }
 ]
