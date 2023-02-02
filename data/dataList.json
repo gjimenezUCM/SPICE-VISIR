@@ -22,49 +22,21 @@
         "id": "GAM-P6-SIMILAR-emotions-SIMILAR-artworks (materials, movement)",
         "name": "GAM-P6-SIMILAR-emotions-SIMILAR-artworks (materials, movement)"
     },
-    {
-        "id": "DMH-P2-SIMILAR-emotions-SIMILAR-artworks (color)",
-        "name": "DMH-P2-SIMILAR-emotions-SIMILAR-artworks (color)"
-    },
-    {
-        "id": "DMH-P3-SIMILAR-values-SIMILAR-artworks (materials)",
-        "name": "DMH-P3-SIMILAR-values-SIMILAR-artworks (materials)"
-    },
-    {
-        "id": "DMH-P4-SIMILAR-values-SIMILAR-artworks (color)",
-        "name": "DMH-P4-SIMILAR-values-SIMILAR-artworks (color)"
-    },
-    {
-        "id": "DMH-P5-SIMILAR-values-SIMILAR-artworks (materials, color)",
-        "name": "DMH-P5-SIMILAR-values-SIMILAR-artworks (materials, color)"
-    },
-    {
-        "id": "DMH-P6-SIMILAR-emotions-SAME-artworks",
-        "name": "DMH-P6-SIMILAR-emotions-SAME-artworks"
-    },
-    {
-        "id": "DMH-P7-SIMILAR-values-SAME-artworks",
-        "name": "DMH-P7-SIMILAR-values-SAME-artworks"
-    },
-    {
-        "id": "HECHT Perspective (agglomerative)",
-        "name": "HECHT Perspective (agglomerative)"
-    },
-    {
-        "id": "HECHT Perspective (agglomerative)2",
-        "name": "HECHT Perspective (agglomerative)2"
-    },
-    {
-        "id": "bigTest-1",
-        "name": "bigTest-1"
-    },
-    {
-        "id": "bigTest-2",
-        "name": "bigTest-2"
-    },
-    {
-        "id": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)",
-        "name": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)"
-    }
+    {"id" : "GAM-P7-SIMILAR-values-SIMILAR-artworks (iconclass)", 
+"name" : "GAM-P7-SIMILAR-values-SIMILAR-artworks (iconclass)"},
+{"id" : "GAM-P8-SIMILAR-values-SAME-artworks", 
+"name" : "GAM-P8-SIMILAR-values-SAME-artworks"},
+{"id" : "GAM-P9-SAME-values-SIMILAR-artworks (iconclass)", 
+"name" : "GAM-P9-SAME-values-SIMILAR-artworks (iconclass)"},
+{"id" : "GAM-P10-SAME-values-SAME-artworks", 
+"name" : "GAM-P10-SAME-values-SAME-artworks"},
+{"id" : "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks (iconclass)", 
+"name" : "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks (iconclass)"},
+{"id" : "GAM-P12-DISSIMILAR-emotions-SAME-artworks", 
+"name" : "GAM-P12-DISSIMILAR-emotions-SAME-artworks"},
+{"id" : "GAM-P13-DISSIMILAR-values-SIMILAR-artworks (iconclass)", 
+"name" : "GAM-P13-DISSIMILAR-values-SIMILAR-artworks (iconclass)"},
+{"id" : "GAM-P14-DISSIMILAR-values-SAME-artworks", 
+"name" : "GAM-P14-DISSIMILAR-values-SAME-artworks"}
 
 ]
