@@ -271,7 +271,7 @@
             "group": 2,
             "explicit_community": {
                 "Gender": "Female",
-                "RelationshipWithArt": "I have a strong interest in art"
+                "RelationshipWithArt": "This is an attribute for union testing"
             },
             "interactions": [
                 {
@@ -379,7 +379,7 @@
             "group": 2,
             "explicit_community": {
                 "Gender": "Not binary",
-                "RelationshipWithArt": "I have a strong interest in art"
+                "RelationshipWithArt": "This is an attribute for union testing"
             },
             "interactions": [
                 {
@@ -421,7 +421,7 @@
             "label": "3K9AMmqU",
             "group": 0,
             "explicit_community": {
-                "Gender": "Male",
+                "Gender": "This is anotherGender attribute for testing",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
             "interactions": [
@@ -478,7 +478,7 @@
             "label": "6rK3p7za",
             "group": 0,
             "explicit_community": {
-                "Gender": "Female",
+                "Gender": "This is anotherGender attribute for testing",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
             "interactions": [

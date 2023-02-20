@@ -201,6 +201,7 @@
                 "anqHwMQ0",
                 "eLXgq0Hx",
                 "ox8G7avH",
+                "MyDummyUser",
                 "centroid2"
             ]
         },
@@ -323,23 +324,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35381",
-                    "feelings": "alice nel paese delle meraviglie",
-                    "extracted_emotions": {
-                        "interest": 1
-                    }
-                },
-                {
-                    "artwork_id": "35433",
-                    "feelings": "serena",
-                    "extracted_emotions": {
-                        "joy": 1.959684129999999,
-                        "serenity": 1.938286999999999
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35381",
@@ -361,6 +345,17 @@
             ]
         },
         {
+            "id": "MyDummyUser",
+            "label": "MyDummyUser",
+            "group": 3,
+            "explicit_community": {
+                "Gender": "Female",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
             "id": "2JfmseEG",
             "label": "2JfmseEG",
             "group": 1,
@@ -368,32 +363,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35308",
-                    "feelings": "scuola - lavoro - studio - classe - punizione - divertimento - apprendimento ",
-                    "extracted_emotions": {
-                        "joy": 2,
-                        "anticipation": 2,
-                        "surprise": 1,
-                        "trust": 1
-                    }
-                },
-                {
-                    "artwork_id": "35288",
-                    "feelings": "passeggiata - shopping - anni 1850",
-                    "extracted_emotions": {
-                        "joy": 0.55502737
-                    }
-                },
-                {
-                    "artwork_id": "35362",
-                    "feelings": "mare - vacanze",
-                    "extracted_emotions": {
-                        "joy": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35362",
@@ -431,22 +400,6 @@
                 "Gender": "Not binary",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35230",
-                    "feelings": "Amore",
-                    "extracted_emotions": {
-                        "love": 1.96113384
-                    }
-                },
-                {
-                    "artwork_id": "35374",
-                    "feelings": "creativit\u00e0",
-                    "extracted_emotions": {
-                        "trust": 0.85408616
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35374",
@@ -473,29 +426,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35310",
-                    "feelings": "happy ",
-                    "extracted_emotions": {
-                        "joy": 1.8254855
-                    }
-                },
-                {
-                    "artwork_id": "35374",
-                    "feelings": "sad",
-                    "extracted_emotions": {
-                        "sadness": 1.9673313000000001
-                    }
-                },
-                {
-                    "artwork_id": "35222",
-                    "feelings": "fear ",
-                    "extracted_emotions": {
-                        "fear": 0.92
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35222",
@@ -529,22 +459,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35208",
-                    "feelings": "nothing in particula, the Napoleonic era, Saffo...",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "39416",
-                    "feelings": "neat, a greek temple or a board game, simmetry",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39416",
@@ -571,15 +485,6 @@
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39200",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "anger": 0.8
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39200",
@@ -599,23 +504,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35360",
-                    "feelings": "serena",
-                    "extracted_emotions": {
-                        "joy": 1.959684129999999,
-                        "serenity": 1.938286999999999
-                    }
-                },
-                {
-                    "artwork_id": "35445",
-                    "feelings": "rilassata",
-                    "extracted_emotions": {
-                        "serenity": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35445",
@@ -643,23 +531,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35229",
-                    "feelings": "different views of life",
-                    "extracted_emotions": {
-                        "anger": 0.8
-                    }
-                },
-                {
-                    "artwork_id": "35217",
-                    "feelings": "me",
-                    "extracted_emotions": {
-                        "anger": 0.8,
-                        "joy": 0.8936892999999999
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35217",
@@ -687,31 +558,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39347",
-                    "feelings": "nostalgic  , mirrored images in water viewed from a bridge , a soffused dream ",
-                    "extracted_emotions": {
-                        "sadness": 0.9291060600000001,
-                        "joy": 0.81
-                    }
-                },
-                {
-                    "artwork_id": "35459",
-                    "feelings": "quiet, a quiet summer afternoon, windless quiet",
-                    "extracted_emotions": {
-                        "joy": 0.81,
-                        "serenity": 0.796984675
-                    }
-                },
-                {
-                    "artwork_id": "35224",
-                    "feelings": "empathic, lost memories , someone trying to hold on to something they no longer possess ",
-                    "extracted_emotions": {
-                        "sadness": 1.96569455
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35224",
@@ -747,25 +593,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35362",
-                    "feelings": "quello che \u00e8 successo la scorsa estate, quando ero quasi affogata nel mare ",
-                    "extracted_emotions": {
-                        "joy": 1.7643106,
-                        "interest": 1,
-                        "fear": 0.92
-                    }
-                },
-                {
-                    "artwork_id": "39347",
-                    "feelings": "quando faccio incubi  ",
-                    "extracted_emotions": {
-                        "disgust": 1,
-                        "fear": 1.9152404
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35362",
@@ -795,23 +622,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35230",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "35222",
-                    "feelings": "PAURA",
-                    "extracted_emotions": {
-                        "sadness": 1,
-                        "fear": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35222",
@@ -839,24 +649,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39416",
-                    "feelings": "felice, i giochi di ruolo con i nonni e i cugini, ai giochi in famiglia nelle vacanze di Natale",
-                    "extracted_emotions": {
-                        "joy": 1.7947365,
-                        "trust": 1
-                    }
-                },
-                {
-                    "artwork_id": "39175",
-                    "feelings": "in attesa delle feste e dei momenti con gli amici, la tavola imbandita del cenone di natale, la mia cucina disordinata",
-                    "extracted_emotions": {
-                        "anticipation": 1,
-                        "surprise": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39416",
@@ -886,22 +678,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39200",
-                    "feelings": "a Marechiaro",
-                    "extracted_emotions": {
-                        "joy": 0.79744923
-                    }
-                },
-                {
-                    "artwork_id": "35225",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.81
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35225",
@@ -929,15 +705,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35360",
-                    "feelings": "porta palazzo",
-                    "extracted_emotions": {
-                        "joy": 0.8428114
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35360",
@@ -957,31 +724,6 @@
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35381",
-                    "feelings": "chills",
-                    "extracted_emotions": {
-                        "joy": 0.81
-                    }
-                },
-                {
-                    "artwork_id": "35323",
-                    "feelings": "relax ",
-                    "extracted_emotions": {
-                        "sadness": 1,
-                        "joy": 0.81,
-                        "serenity": 1
-                    }
-                },
-                {
-                    "artwork_id": "39347",
-                    "feelings": "fear ",
-                    "extracted_emotions": {
-                        "fear": 0.92
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35323",
@@ -1018,15 +760,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35323",
-                    "feelings": "alla spensieratezza ",
-                    "extracted_emotions": {
-                        "joy": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35323",
@@ -1046,15 +779,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35330",
-                    "feelings": "Prospettive",
-                    "extracted_emotions": {
-                        "anticipation": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35330",
@@ -1074,31 +798,6 @@
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39200",
-                    "feelings": "un pescatore che nuota nel mare",
-                    "extracted_emotions": {
-                        "joy": 1.83
-                    }
-                },
-                {
-                    "artwork_id": "35227",
-                    "feelings": "i miei nonni che fanno un bel picnic in riva al mare",
-                    "extracted_emotions": {
-                        "joy": 1,
-                        "interest": 1
-                    }
-                },
-                {
-                    "artwork_id": "35364",
-                    "feelings": "mia zia, che aveva molti figli e si prendeva sempre cura con gentilezza di loro",
-                    "extracted_emotions": {
-                        "joy": 0.82976425,
-                        "interest": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35227",
@@ -1134,15 +833,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35459",
-                    "feelings": "allegro, nonni, estate",
-                    "extracted_emotions": {
-                        "joy": 1.9905802000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35459",
@@ -1162,30 +852,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35330",
-                    "feelings": "due amici che erano a parlare guardando il panorama ma hanno deciso di uscire e correre nel prato ",
-                    "extracted_emotions": {
-                        "trust": 1
-                    }
-                },
-                {
-                    "artwork_id": "39427",
-                    "feelings": "festa scout",
-                    "extracted_emotions": {
-                        "sadness": 0.8110314,
-                        "surprise": 1
-                    }
-                },
-                {
-                    "artwork_id": "35229",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35229",
@@ -1220,36 +886,6 @@
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35362",
-                    "feelings": "malinconica Emma tranquilla , la mia infanzia , una giornata tranquilla ",
-                    "extracted_emotions": {
-                        "sadness": 1.7683326,
-                        "joy": 0.8300000000000001,
-                        "serenity": 1.98919085
-                    }
-                },
-                {
-                    "artwork_id": "35445",
-                    "feelings": "pensierosa , quando studiavo , un pomeriggio di autunno sul fiume ",
-                    "extracted_emotions": {
-                        "interest": 1,
-                        "disgust": 0.14,
-                        "trust": 0.76917523,
-                        "sadness": 1,
-                        "joy": 1.3729748000000002
-                    }
-                },
-                {
-                    "artwork_id": "35323",
-                    "feelings": "assonnata , la primavera , una persona sola",
-                    "extracted_emotions": {
-                        "sadness": 1,
-                        "disgust": 0.14
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35362",
@@ -1290,15 +926,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35362",
-                    "feelings": "una localit\u00e0 di mare ",
-                    "extracted_emotions": {
-                        "joy": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35362",
@@ -1318,16 +945,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35364",
-                    "feelings": "\n",
-                    "extracted_emotions": {
-                        "sadness": 1,
-                        "joy": 0.81
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35364",
@@ -1348,24 +965,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35381",
-                    "feelings": "sorpresa",
-                    "extracted_emotions": {
-                        "anger": 0.8,
-                        "joy": 0.8300000000000001,
-                        "surprise": 1.97407156
-                    }
-                },
-                {
-                    "artwork_id": "35230",
-                    "feelings": "all\u2019amore ",
-                    "extracted_emotions": {
-                        "love": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35381",
@@ -1394,18 +993,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35323",
-                    "feelings": "pensierosa , quando ero piccola ed ero dai nonni, una casa in collina",
-                    "extracted_emotions": {
-                        "sadness": 1,
-                        "interest": 1,
-                        "joy": 0.73672265,
-                        "trust": 0.76917523
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35323",
@@ -1428,15 +1015,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39175",
-                    "feelings": "lle feste",
-                    "extracted_emotions": {
-                        "surprise": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39175",
@@ -1456,16 +1034,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39416",
-                    "feelings": "quando giocavo con la nonna e il nonno a scacchi,.\nEd era bellissimo e quando vincevo perch\u00e9 mi faceva sentire un professionista .",
-                    "extracted_emotions": {
-                        "joy": 2,
-                        "interest": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39416",
@@ -1486,23 +1054,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39426",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "39347",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "anger": 0.8,
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39426",
@@ -1530,15 +1081,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35245",
-                    "feelings": "forza in potenza ",
-                    "extracted_emotions": {
-                        "serenity": 0.9373043999999999
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35245",
@@ -1558,17 +1100,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35310",
-                    "feelings": "depressed, coming winter",
-                    "extracted_emotions": {
-                        "sadness": 0.89056844,
-                        "disapproval": 0.60135823,
-                        "disgust": 0.14
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35310",
@@ -1590,22 +1121,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35321",
-                    "feelings": "a poor woman: what she is going to make for breakfast, how to feed her children.",
-                    "extracted_emotions": {
-                        "sadness": 1
-                    }
-                },
-                {
-                    "artwork_id": "39347",
-                    "feelings": "a nice time in winter when you can dream a lot sitting around the fire place, waiting for Christmas.",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35321",
@@ -1632,22 +1147,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35230",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "35229",
-                    "feelings": "il Mondo che mi circonda fatto di alti e bassi ",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35229",
@@ -1674,23 +1173,6 @@
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39352",
-                    "feelings": "ordine",
-                    "extracted_emotions": {
-                        "sadness": 0.63115853
-                    }
-                },
-                {
-                    "artwork_id": "39347",
-                    "feelings": "ansia",
-                    "extracted_emotions": {
-                        "anticipation": 1.9017547000000001,
-                        "fear": 1.95738137
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39352",
@@ -1718,29 +1200,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39182",
-                    "feelings": "moda",
-                    "extracted_emotions": {
-                        "serenity": 0.52267414
-                    }
-                },
-                {
-                    "artwork_id": "39648",
-                    "feelings": "casa",
-                    "extracted_emotions": {
-                        "joy": 0.81
-                    }
-                },
-                {
-                    "artwork_id": "35499",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "fear": 0.92
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39182",
@@ -1774,22 +1233,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35230",
-                    "feelings": "  tango",
-                    "extracted_emotions": {
-                        "joy": 0.67041326
-                    }
-                },
-                {
-                    "artwork_id": "35323",
-                    "feelings": "solitudine",
-                    "extracted_emotions": {
-                        "fear": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35323",
@@ -1816,23 +1259,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35412",
-                    "feelings": "quanto sia dolorosa la morte ",
-                    "extracted_emotions": {
-                        "sadness": 1
-                    }
-                },
-                {
-                    "artwork_id": "39352",
-                    "feelings": "i colori della pace ",
-                    "extracted_emotions": {
-                        "joy": 1,
-                        "serenity": 1.6653829
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39352",
@@ -1861,30 +1287,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35229",
-                    "feelings": "LSD ",
-                    "extracted_emotions": {
-                        "anger": 0.8
-                    }
-                },
-                {
-                    "artwork_id": "39648",
-                    "feelings": "Casa",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "39175",
-                    "feelings": "Vecchiaia",
-                    "extracted_emotions": {
-                        "disgust": 0.14,
-                        "fear": 0.9177645999999999
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35229",
@@ -1920,36 +1322,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39138",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "disgust": 0.14
-                    }
-                },
-                {
-                    "artwork_id": "35360",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "35381",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "35459",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35360",
@@ -1991,22 +1363,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "My work is about art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35229",
-                    "feelings": "al mare\n\n",
-                    "extracted_emotions": {
-                        "joy": 2.4666995
-                    }
-                },
-                {
-                    "artwork_id": "39175",
-                    "feelings": "malattia\n",
-                    "extracted_emotions": {
-                        "fear": 0.92
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35229",
@@ -2033,18 +1389,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35499",
-                    "feelings": "in trepidazione per l'attesa dell'estate, Che oggi fa troppo freddo. Che odio il freddo perch\u00e8 mancano 2 giorni a Natale, Alle vacanze",
-                    "extracted_emotions": {
-                        "sadness": 1,
-                        "anticipation": 1.8508643500000002,
-                        "disapproval": 1,
-                        "anger": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35499",
@@ -2067,17 +1411,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35445",
-                    "feelings": "un senso di nostalgia per un periodo che non ho mai vissuto. Chi sono quei due ragazzini? Cosa stanno facendo? Erano felici? Quello che resta oggi \u00e8 solo un quadro (e supposizioni correlate)",
-                    "extracted_emotions": {
-                        "joy": 1,
-                        "anticipation": 1,
-                        "sadness": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35445",
@@ -2099,31 +1432,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35321",
-                    "feelings": "sola, una persona con problemi di relazione",
-                    "extracted_emotions": {
-                        "sadness": 2
-                    }
-                },
-                {
-                    "artwork_id": "35208",
-                    "feelings": "gli studi del liceo, una creatura perfetta",
-                    "extracted_emotions": {
-                        "joy": 1.83,
-                        "anticipation": 1,
-                        "trust": 1
-                    }
-                },
-                {
-                    "artwork_id": "35456",
-                    "feelings": "assorta, un fresco pomeriggio di aprile",
-                    "extracted_emotions": {
-                        "joy": 0.81
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35321",
@@ -2160,26 +1468,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "My work is about art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35227",
-                    "feelings": "la tranquillit\u00e0 di una pausa pranzo durante un giorno di lavoro",
-                    "extracted_emotions": {
-                        "anticipation": 1,
-                        "surprise": 1,
-                        "trust": 1,
-                        "joy": 1,
-                        "serenity": 1.9848156000000001
-                    }
-                },
-                {
-                    "artwork_id": "35433",
-                    "feelings": "la stanchezza alla fine della giornata e il ritorno a casa",
-                    "extracted_emotions": {
-                        "sadness": 1.7936641
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35227",
@@ -2210,31 +1498,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39138",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "35308",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "anger": 0.8
-                    }
-                },
-                {
-                    "artwork_id": "35310",
-                    "feelings": "sensazione di pace ed inquietudine insieme",
-                    "extracted_emotions": {
-                        "joy": 1,
-                        "fear": 1.9968952,
-                        "serenity": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35308",
@@ -2270,24 +1533,6 @@
                 "Gender": "Not specified",
                 "RelationshipWithArt": "I have no interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35364",
-                    "feelings": "mia mamma perch\u00e9 \u00e8 grazie a lei ed ai suoi insegnamenti che sono cresciuto bene ",
-                    "extracted_emotions": {
-                        "joy": 1.4327641
-                    }
-                },
-                {
-                    "artwork_id": "35230",
-                    "feelings": "l\u2019amore perch\u00e9 dalla mia ragazza mi sento veramente amato come ho sempre desiderato ",
-                    "extracted_emotions": {
-                        "disapproval": 0.60185623,
-                        "love": 2,
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35230",
@@ -2317,29 +1562,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35362",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "39416",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "disgust": 0.85
-                    }
-                },
-                {
-                    "artwork_id": "35229",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "fear": 0.92
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35362",
@@ -2373,15 +1595,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35249",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "anger": 0.8
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35249",
@@ -2401,15 +1614,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39138",
-                    "feelings": "due persone che fanno l\u2019amore",
-                    "extracted_emotions": {
-                        "love": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39138",
@@ -2429,27 +1633,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39182",
-                    "feelings": "curioso, interessato, la casa dello zio di un amico, una ragazza in attesa di qualcosa o qualcuno. Le \u00e8 venuta una idea",
-                    "extracted_emotions": {
-                        "anticipation": 1,
-                        "joy": 0.81,
-                        "surprise": 1.9455653000000002,
-                        "trust": 1.9214504
-                    }
-                },
-                {
-                    "artwork_id": "39138",
-                    "feelings": "calmo, rilassato, le piscine delle terme, anche se qui c'\u00e8 una barca, un ragazzo sostiene una ragazza distesa in acqua",
-                    "extracted_emotions": {
-                        "sadness": 0.7172852,
-                        "joy": 0.8300000000000001,
-                        "serenity": 2
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39182",
@@ -2481,31 +1664,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35459",
-                    "feelings": "serenit\u00e0 ",
-                    "extracted_emotions": {
-                        "joy": 1.8313890000000002,
-                        "serenity": 1.9839064
-                    }
-                },
-                {
-                    "artwork_id": "35445",
-                    "feelings": "momenti di spensieratezza",
-                    "extracted_emotions": {
-                        "joy": 1
-                    }
-                },
-                {
-                    "artwork_id": "35456",
-                    "feelings": "attimi di riflessione in solitudine",
-                    "extracted_emotions": {
-                        "interest": 0.6185303,
-                        "fear": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35445",
@@ -2541,15 +1699,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39175",
-                    "feelings": "la festa di Natale",
-                    "extracted_emotions": {
-                        "surprise": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39175",
@@ -2569,23 +1718,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35330",
-                    "feelings": "una cosa rilassante",
-                    "extracted_emotions": {
-                        "joy": 0.81,
-                        "interest": 1
-                    }
-                },
-                {
-                    "artwork_id": "35433",
-                    "feelings": "  ritorno a casa",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35330",
@@ -2614,29 +1746,6 @@
                 "Gender": "Male",
                 "RelationshipWithArt": "Art interests me little"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39347",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.81
-                    }
-                },
-                {
-                    "artwork_id": "35445",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "disgust": 0.14
-                    }
-                },
-                {
-                    "artwork_id": "35433",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35445",
@@ -2670,17 +1779,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35445",
-                    "feelings": "un senso di nostalgia per un periodo che non ho mai vissuto. Chi sono quei due ragazzini? Cosa stanno facendo? Erano felici? Quello che resta oggi \u00e8 solo un quadro (e supposizioni correlate)",
-                    "extracted_emotions": {
-                        "joy": 1,
-                        "anticipation": 1,
-                        "sadness": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35445",
@@ -2702,29 +1800,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39182",
-                    "feelings": "moda",
-                    "extracted_emotions": {
-                        "serenity": 0.52267414
-                    }
-                },
-                {
-                    "artwork_id": "39648",
-                    "feelings": "casa",
-                    "extracted_emotions": {
-                        "joy": 0.81
-                    }
-                },
-                {
-                    "artwork_id": "35499",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "fear": 0.92
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39182",
@@ -2758,16 +1833,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39416",
-                    "feelings": "quando giocavo con la nonna e il nonno a scacchi,.\nEd era bellissimo e quando vincevo perch\u00e9 mi faceva sentire un professionista .",
-                    "extracted_emotions": {
-                        "joy": 2,
-                        "interest": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39416",
@@ -2788,22 +1853,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "35230",
-                    "feelings": "",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                },
-                {
-                    "artwork_id": "35229",
-                    "feelings": "il Mondo che mi circonda fatto di alti e bassi ",
-                    "extracted_emotions": {
-                        "joy": 0.8300000000000001
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "35229",
@@ -2830,15 +1879,6 @@
                 "Gender": "Female",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
-            "interactions": [
-                {
-                    "artwork_id": "39175",
-                    "feelings": "lle feste",
-                    "extracted_emotions": {
-                        "surprise": 1
-                    }
-                }
-            ],
             "community_interactions": [
                 {
                     "artwork_id": "39175",

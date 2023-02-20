@@ -55,7 +55,7 @@
     "id": "GAM-P14-DISSIMILAR-values-SAME-artworks",
     "name": "GAM-P14-DISSIMILAR-values-SAME-artworks"
   },
-  {
+{
     "id": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)",
     "name": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)"
   },
@@ -82,5 +82,8 @@
   {
     "id": "DMH-P7-SIMILAR-values-SAME-artworks",
     "name": "DMH-P7-SIMILAR-values-SAME-artworks"
-  }
+  },  {
+    "id": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks",
+    "name": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks"
+    }
 ]

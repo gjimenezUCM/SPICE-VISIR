@@ -7,7 +7,7 @@
         },
         "optionsDrop": {
             "name": "Options",
-            "hideLabels": "Hide node labels",
+            "hideLabels": "Show node labels",
             "hideEdges": "Hide unselected Edges",
             "minSimilarity": "Minimum similarity",
             "removeEdges": "Remove % of edges"
@@ -35,8 +35,8 @@
         "citizenAmount": "Total Citizens",
         "anonymous": "Anonymous",
         "medoidTittle": "Representative citizen",
-        "mainInteractionsTittle": "interactions related to this community",
-        "otherInteractionsTittle": "Other user interactions",
+        "mainInteractionsTittle": "Contributions related to this community",
+        "otherInteractionsTittle": "Other user Contributions",
         "labelText": "label",
         "unknownUserAttrb": "All users' attributes are unknown",
         "communityPanelTittle": "Community Description",
