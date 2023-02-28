@@ -344,6 +344,34 @@
                 }
             ]
         },
+		{
+            "id": "asdasdasdasdas",
+            "label": "asdasdasdasd",
+            "group": 3,
+            "explicit_community": {
+                "Gender": "Unknown",
+                "RelationshipWithArt": "I have a strong interest in art"
+            },
+            "community_interactions": [
+                {
+                    "artwork_id": "35381",
+                    "feelings": "alice nel paese delle meraviglie",
+                    "extracted_emotions": {
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": [
+                {
+                    "artwork_id": "35433",
+                    "feelings": "serena",
+                    "extracted_emotions": {
+                        "joy": 1.959684129999999,
+                        "serenity": 1.938286999999999
+                    }
+                }
+            ]
+        },
         {
             "id": "MyDummyUser",
             "label": "MyDummyUser",
