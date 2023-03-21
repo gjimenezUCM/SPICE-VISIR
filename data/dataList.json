@@ -82,8 +82,21 @@
   {
     "id": "DMH-P7-SIMILAR-values-SAME-artworks",
     "name": "DMH-P7-SIMILAR-values-SAME-artworks"
-  },  {
+  },  
+  {
     "id": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks",
     "name": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks"
-    }
+  },
+  {
+    "id": "GAM-SIMILAR-emotions-Dans_mon_pays",
+    "name": "GAM-SIMILAR-emotions-Dans_mon_pays"
+  },
+  {
+    "id": "GAM-SIMILAR-sentiments-Dans_mon_pays",
+    "name": "GAM-SIMILAR-sentiments-Dans_mon_pays"
+  },
+  {
+    "id": "GAM-SIMILAR-values-Dans_mon_pays",
+    "name": "GAM-SIMILAR-values-Dans_mon_pays"
+  }
 ]
