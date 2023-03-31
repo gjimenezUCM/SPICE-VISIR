@@ -19,9 +19,10 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "label": "Percentage distribution of the implicit attribute",
                         "data": {
                             "joy": 56.52173913043478,
                             "fear": 13.043478260869565,
@@ -35,16 +36,32 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
-                        "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            "organic . Obtained from the artwork's materials: paper  (Dans mon pays, Capanni sul mare, (Der) Matrose Fritz M\u00faller aus Pieschen); canvas  (Un Natale! Al Pio Albergo Trivulzio, Ragazza con scodella (Interno)  (Mattino), Contadini al sole, La Sirena (Sirena) (Abisso verde), La ragazza rossa (Testa di donna dai capelli rossi), Dans mon pays, Le baiser, Sponde del Po, Ritorno alla stalla (La ritirata), Piccola composizione (Fantome incantato), Asfissia! (parte sinistra), Dopo il duello, Via a Parigi, Capanni sul mare); resin  (03 - F); wax  (Il pescatorello); plywood  (Daphne (Daphne a Pavarolo)); wood  (La pittrice, La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve); plexiglass  (03 - F)": 0,
-                            "canvas  (Ragazza con scodella (Interno)  (Mattino), Contadini al sole, La Sirena (Sirena) (Abisso verde), La ragazza rossa (Testa di donna dai capelli rossi), Dans mon pays, Le baiser, Sponde del Po, Ritorno alla stalla (La ritirata), Piccola composizione (Fantome incantato), Asfissia! (parte sinistra), Dopo il duello, Via a Parigi, Capanni sul mare)": 0,
-                            "nonmetal . Obtained from the artwork's materials: canvas  (Contadini al sole, La Sirena (Sirena) (Abisso verde), La ragazza rossa (Testa di donna dai capelli rossi), Dans mon pays, Le baiser, Sponde del Po, Ritorno alla stalla (La ritirata), Piccola composizione (Fantome incantato), Asfissia! (parte sinistra), Dopo il duello, Via a Parigi, Capanni sul mare); marble  (Saffo (Erma di Saffo)); paper  (Dans mon pays, Capanni sul mare, (Der) Matrose Fritz M\u00faller aus Pieschen); ceramics  (La primavera); resin  (03 - F); wax  (Il pescatorello); plywood  (Daphne (Daphne a Pavarolo)); wood  (La pittrice, Maternit\u00e0, Le allieve)": 0,
-                            "wood  (La pittrice, La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve). Obtained from the artwork's materials: plywood  (Daphne (Daphne a Pavarolo)); wood  (La pittrice, La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve)": 0,
-                            "paper  (Dans mon pays, Capanni sul mare, (Der) Matrose Fritz M\u00faller aus Pieschen)": 0
-                        }
+                        "label": "Community representative properties of the implicit attribute:",
+                        "data": [
+                            {
+                                "key": "organic",
+                                "label": "Obtained from the artwork's materials: paper  (Dans mon pays, Capanni sul mare, (Der) Matrose Fritz M\u00faller aus Pieschen); canvas  (Un Natale! Al Pio Albergo Trivulzio, Ragazza con scodella (Interno)  (Mattino), Contadini al sole, La Sirena (Sirena) (Abisso verde), La ragazza rossa (Testa di donna dai capelli rossi), Dans mon pays, Le baiser, Sponde del Po, Ritorno alla stalla (La ritirata), Piccola composizione (Fantome incantato), Asfissia! (parte sinistra), Dopo il duello, Via a Parigi, Capanni sul mare); resin  (03 - F); wax  (Il pescatorello); plywood  (Daphne (Daphne a Pavarolo)); wood  (La pittrice, La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve); plexiglass  (03 - F)"
+                            },
+                            {
+                                "key": "canvas",
+                                "label": "(Ragazza con scodella (Interno)  (Mattino), Contadini al sole, La Sirena (Sirena) (Abisso verde), La ragazza rossa (Testa di donna dai capelli rossi), Dans mon pays, Le baiser, Sponde del Po, Ritorno alla stalla (La ritirata), Piccola composizione (Fantome incantato), Asfissia! (parte sinistra), Dopo il duello, Via a Parigi, Capanni sul mare)"
+                            },
+                            {
+                                "key": "nonmetal",
+                                "label": "Obtained from the artwork's materials: canvas  (Contadini al sole, La Sirena (Sirena) (Abisso verde), La ragazza rossa (Testa di donna dai capelli rossi), Dans mon pays, Le baiser, Sponde del Po, Ritorno alla stalla (La ritirata), Piccola composizione (Fantome incantato), Asfissia! (parte sinistra), Dopo il duello, Via a Parigi, Capanni sul mare); marble  (Saffo (Erma di Saffo)); paper  (Dans mon pays, Capanni sul mare, (Der) Matrose Fritz M\u00faller aus Pieschen); ceramics  (La primavera); resin  (03 - F); wax  (Il pescatorello); plywood  (Daphne (Daphne a Pavarolo)); wood  (La pittrice, Maternit\u00e0, Le allieve)"
+                            },
+                            {
+                                "key": "wood",
+                                "label": "(La pittrice, La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve). Obtained from the artwork's materials: plywood  (Daphne (Daphne a Pavarolo)); wood  (La pittrice, La Sirena (Sirena) (Abisso verde), Maternit\u00e0, Le allieve)"
+                            },
+                            {
+                                "key": "paper",
+                                "label": "(Dans mon pays, Capanni sul mare, (Der) Matrose Fritz M\u00faller aus Pieschen)"
+                            }
+                        ]
                     },
                     "visible": true
                 },

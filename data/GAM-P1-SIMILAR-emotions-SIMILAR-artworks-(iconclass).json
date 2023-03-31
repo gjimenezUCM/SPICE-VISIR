@@ -19,9 +19,10 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "label": "Percentage distribution of the implicit attribute",
                         "data": {
                             "joy": 37.5,
                             "sadness": 20.833333333333336,
@@ -36,16 +37,32 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
-                        "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "31D14 adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po)": 0,
-                            "31D1 the ages of man. Obtained from the artwork's iconclass IDs: 31D13 adolescent, young woman, maiden (La primavera, Le allieve); 31D14 adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po); 31D15 adult woman (L'edera, Maternit\u00e0); 31D12 youth, young man, adolescent (Pugilatore)": 0,
-                            "25HH16 plain - HH - ideal landscapes (Dans mon pays, Sponde del Po)": 0,
-                            "33C233 (lovers) embracing each other (L'edera, La Sirena (Sirena) (Abisso verde))": 0,
-                            "31AA4561 merman - AA - mermaid, siren (La Sirena (Sirena) (Abisso verde))": 0
-                        }
+                        "label": "Community representative properties of the implicit attribute",
+                        "data": [
+                            {
+                                "key": "31D14",
+                                "label": "adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po)"
+                            },
+                            {
+                                "key": "31D1",
+                                "label": "the ages of man. Obtained from the artwork's iconclass IDs: 31D13 adolescent, young woman, maiden (La primavera, Le allieve); 31D14 adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po); 31D15 adult woman (L'edera, Maternit\u00e0); 31D12 youth, young man, adolescent (Pugilatore)"
+                            },
+                            {
+                                "key": "25HH16",
+                                "label": "plain - HH - ideal landscapes (Dans mon pays, Sponde del Po)"
+                            },
+                            {
+                                "key": "33C233",
+                                "label": "(lovers) embracing each other (L'edera, La Sirena (Sirena) (Abisso verde))"
+                            },
+                            {
+                                "key": "31AA4561",
+                                "label": "merman - AA - mermaid, siren (La Sirena (Sirena) (Abisso verde))"
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -97,12 +114,13 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "label": "Percentage distribution of the implicit attribute",
                         "data": {
-                            "joy": 50,
-                            "sadness": 14.285714285714285,
+                            "sadness": 50,
+                            "joy": 14.285714285714285,
                             "anticipation": 7.142857142857142,
                             "serenity": 7.142857142857142,
                             "fear": 7.142857142857142,
@@ -113,16 +131,32 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
-                        "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "41A421 curtains (Le tre finestre (La pianura della torre), Aracne, Daphne (Daphne a Pavarolo))": 0,
-                            "41A3311 open window (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))": 0,
-                            "25H114 low hill country (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))": 0,
-                            "47I421 vineyard (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))": 0,
-                            "31A51111 reflection (in a mirror) (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))": 0
-                        }
+                        "label": "Community representative properties of the implicit attribute",
+                        "data": [
+                            {
+                                "key": "31D14",
+                                "label": "adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po)"
+                            },
+                            {
+                                "key": "41A3311",
+                                "label": "open window (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
+                            },
+                            {
+                                "key": "25H114",
+                                "label": "low hill country (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
+                            },
+                            {
+                                "key": "47I421",
+                                "label": "vineyard (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
+                            },
+                            {
+                                "key": "31A51111",
+                                "label": "reflection (in a mirror) (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -164,9 +198,10 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "label": "Percentage distribution of the implicit attribute",
                         "data": {
                             "joy": 40,
                             "serenity": 20,
@@ -177,15 +212,28 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
-                        "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "49D3 planimetry, geometry (03 - F). Obtained from the artwork's iconclass IDs: 49D3 planimetry, geometry (03 - F); 49D322 curved line (Composition T. 50 - 5); 49D342 regular quadrilateral (Angles, 03 - F); 49D321 straight line (Composition T. 50 - 5)": 0,
-                            "49D342 regular quadrilateral (Angles, 03 - F)": 0,
-                            "22C4 colours, pigments, and paints (Angles, 03 - F)": 0,
-                            "22C4(BLUE) colours, pigments, and paints: blue (Angles, Estate, Composition T. 50 - 5)": 0
-                        }
+                        "label": "Community representative properties of the implicit attribute",
+                        "data": [
+                            {
+                                "key": "49D3",
+                                "label": "planimetry, geometry (03 - F). Obtained from the artwork's iconclass IDs: 49D3 planimetry, geometry (03 - F); 49D322 curved line (Composition T. 50 - 5); 49D342 regular quadrilateral (Angles, 03 - F); 49D321 straight line (Composition T. 50 - 5)"
+                            },
+                            {
+                                "key": "49D342",
+                                "label": "regular quadrilateral (Angles, 03 - F)"
+                            },
+                            {
+                                "key": "22C4(BLUE)",
+                                "label": "colours, pigments, and paints: blue (Angles, Estate, Composition T. 50 - 5)"
+                            },
+                            {
+                                "key": "22C4",
+                                "label": "colours, pigments, and paints (Angles, 03 - F)"
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -201,7 +249,6 @@
                 "anqHwMQ0",
                 "eLXgq0Hx",
                 "ox8G7avH",
-                "MyDummyUser",
                 "centroid2"
             ]
         },
@@ -219,9 +266,10 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "label": "Percentage distribution of the implicit attribute",
                         "data": {
                             "joy": 50,
                             "interest": 16.666666666666664,
@@ -232,16 +280,32 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
-                        "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "48B3 portrait, self-portrait of artist (Autoritratto in forma di gufo, (Der) Matrose Fritz M\u00faller aus Pieschen)": 0,
-                            "25F34 owls (Autoritratto in forma di gufo)": 0,
-                            "41D2121 coat (Autoritratto in forma di gufo)": 0,
-                            "13D21 metamorphosed human beings (Autoritratto in forma di gufo)": 0,
-                            "41D21 clothes covering the entire body. Obtained from the artwork's iconclass IDs: 41D2121 coat (Autoritratto in forma di gufo); 41D213 ensemble of pieces of clothing (Le baiser)": 0
-                        }
+                        "label": "Community representative properties of the implicit attribute",
+                        "data": [
+                            {
+                                "key": "48B3",
+                                "label": "portrait, self-portrait of artist (Autoritratto in forma di gufo, (Der) Matrose Fritz M\u00faller aus Pieschen)"
+                            },
+                            {
+                                "key": "31D14",
+                                "label": "adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po)"
+                            },
+                            {
+                                "key": "41D2121",
+                                "label": "coat (Autoritratto in forma di gufo)"
+                            },
+                            {
+                                "key": "13D21",
+                                "label": "metamorphosed human beings (Autoritratto in forma di gufo)"
+                            },
+                            {
+                                "key": "41D21",
+                                "label": "clothes covering the entire body. Obtained from the artwork's iconclass IDs: 41D2121 coat (Autoritratto in forma di gufo); 41D213 ensemble of pieces of clothing (Le baiser)"
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -275,27 +339,44 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
-                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "label": "Percentage distribution of the implicit attribute",
                         "data": {
-                            "surprise": 50,
+                            "sadness": 50,
                             "fear": 50
                         }
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
-                        "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "41C38 laid table as still life (Asfissia! (parte sinistra))": 0,
-                            "41C7112 bottle of wine (Asfissia! (parte sinistra))": 0,
-                            "41C31 table-ware (Asfissia! (parte sinistra))": 0,
-                            "25G411 cut flowers; nosegay, bunch of flowers (Asfissia! (parte sinistra))": 0,
-                            "25G41(+1) flowers (+ plants used symbolically) (Asfissia! (parte sinistra))": 0
-                        }
+                        "label": "Community representative properties of the implicit attribute ():",
+                        "data": [
+                            {
+                                "key": "41C38",
+                                "label": "laid table as still life (Asfissia! (parte sinistra))"
+                            },
+                            {
+                                "key": "41C7112",
+                                "label": "bottle of wine (Asfissia! (parte sinistra))"
+                            },
+                            {
+                                "key": "41C31",
+                                "label": "table-ware (Asfissia! (parte sinistra))"
+                            },
+                            {
+                                "key": "25G411",
+                                "label": "cut flowers; nosegay, bunch of flowers (Asfissia! (parte sinistra))"
+                            },
+                            {
+                                "key": "25G41(+1)",
+                                "label": "flowers (+ plants used symbolically) (Asfissia! (parte sinistra))"
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -321,7 +402,7 @@
             "label": "2GROTNeg",
             "group": 3,
             "explicit_community": {
-                "Gender": "Female",
+                "Gender": "Special gender to make it easier to find this specific user",
                 "RelationshipWithArt": "I have a strong interest in art"
             },
             "community_interactions": [
@@ -342,46 +423,22 @@
                         "serenity": 1.938286999999999
                     }
                 }
-            ]
-        },
-		{
-            "id": "asdasdasdasdas",
-            "label": "asdasdasdasd",
-            "group": 3,
-            "explicit_community": {
-                "Gender": "Unknown",
-                "RelationshipWithArt": "I have a strong interest in art"
-            },
-            "community_interactions": [
-                {
-                    "artwork_id": "35381",
-                    "feelings": "alice nel paese delle meraviglie",
-                    "extracted_emotions": {
-                        "interest": 1
-                    }
-                }
             ],
-            "no_community_interactions": [
-                {
-                    "artwork_id": "35433",
-                    "feelings": "serena",
-                    "extracted_emotions": {
-                        "joy": 1.959684129999999,
-                        "serenity": 1.938286999999999
-                    }
+            "implicit_community": {
+                "beliefR": "Supports Roman Rebellion because of realistic reasons",
+                "beliefJ": "Traitor",
+                "beliefE": "No opinion",
+                "sentiment.Galilee_Rebellion": {
+                    "Positive": 100
+                },
+                "emotion.Galilee_Rebellion": {
+                    "Joy": 80,
+                    "Love": 20
+                },
+                "values.Galilee_Rebellion": {
+                    "Harm": 100
                 }
-            ]
-        },
-        {
-            "id": "MyDummyUser",
-            "label": "MyDummyUser",
-            "group": 3,
-            "explicit_community": {
-                "Gender": "Female",
-                "RelationshipWithArt": "I have a strong interest in art"
-            },
-            "community_interactions": [],
-            "no_community_interactions": []
+            }
         },
         {
             "id": "2JfmseEG",

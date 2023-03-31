@@ -1,0 +1,96 @@
+{
+    "toolbar": {
+        "Options": {
+            "hoverText": "Options",
+            "useLocalFiles": "Use local files",
+            "useURL": "CM URL:",
+            "user": "User:",
+            "pass": "Pass:",
+            "connectBtnHover": "Connect to CM",
+            "showLabel": "Show labels",
+            "hideEdges": "Hide unselected Edges",
+            "minSimilarity": "Minimum similarity",
+            "relevantArtworks": "Number of relevant artworks"
+        },
+        "savePerspective": {
+            "hoverText": "Save Perspectives"
+        },
+        "perspectiveBuilder": {
+            "hoverText": "Perspective Builder"
+        },
+        "selectPerspective": {
+            "hoverText": "Select perspective",
+            "unselectedName": "Select perspective",
+            "noAvailableName": "No available perspectives"
+        },
+        "updateBtn": {
+            "hoverText": "Re-load Perspectives"
+        },
+        "collapseBtns": {
+            "leftHoverText": "Collapse perspectives to the left",
+            "rightHoverText": "Collapse perspectives to the right"
+        },
+        "legend": {
+            "hoverText": "Legend",
+            "unselectedName": "Legend",
+            "noAvailableName": "Unactive Legend",
+            "anonymousRow": "Anonymous Users",
+            "anonymousExplanation": "Users without any explicit data"
+        }
+    },
+    "savePerspectives": {
+        "tittle": "Save Perspectives",
+        "toggleLabel": "Toggle All",
+        "downloadBtn": "Download perspectives"
+    },
+    "perspectiveBuider": {
+        "devModeBtn": "Dev mode",
+        "similarityValues": {
+            "similar": "Similar",
+            "same": "Same",
+            "dissimilar": "Diferent"
+        },
+        "middleSentence": {
+            "base": "in",
+            "hetch": "for users with"
+        },
+        "lastSentence": {
+            "base": "artworks",
+            "hetch": "Beliefs"
+        },
+        "leftBoxTittle": "Legend Attributes",
+        "rightBoxTittle": {
+            "base": "Artworks Attributes",
+            "hetch": "Beliefs"
+        },
+        "perspectiveNameLabel": "Perspective Name",
+        "sendBtn": "Send Perspective",
+        "algorithmSlider": "Explainability weight",
+        "algorithmSliderExplanation": "The percentage of weight minimum of users that must be represented by the same value of contributions attributes (emotions, values, sentiments) to make such attribute explanable.A big value increase the number of communities and maybe, increase the number of users without community.",
+        "similaritySlider": "Similar Threshold",
+        "similaritySliderExplanation": "Minimum similarity between artworks from two interactions to calculate the similarity between them.(otherwise its assume as similar)"
+    },
+    "dataColumn": {
+        "citizenTittle": "Citizen Description",
+        "userLabelLabel": "Label",
+        "relatedContributions": "Contributions related to its community",
+        "otherContributions": "Other contributions",
+        "communityTittle": "Community Description",
+        "communityNameLabel": "Name",
+        "totalCitizensLabel": "Total Citizens",
+        "anonymousLabel": "Anonymous",
+        "interactionsName": "Interactions",
+        "noUserAttrb": "All users' attributes are unknown",
+        "relevantArtworks": "Relevant artworks to this community",
+        "medoidTittle": "Representative citizen"
+    },
+    "loadingText": {
+        "requestPerspective": "Requesting perspective",
+        "requestingAllPerspectives": "Requesting All perspectives",
+        "requestingConfToolSeed": "Requesting configuration tool seed",
+        "simpleRequest": "Request to",
+        "CMisBusy": "Community Model is busy. Trying again",
+        "sendingPerspectiveConfig": "Sending perspective configuration",
+        "requestPerspectiveConfig": "Requesting perspective's configuration file"
+    }
+}

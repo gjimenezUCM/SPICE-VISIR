@@ -1,0 +1,96 @@
+{
+    "toolbar": {
+        "Options": {
+            "hoverText": "Opciones",
+            "useLocalFiles": "Archivos locales",
+            "useURL": "CM URL:",
+            "user": "Usuario:",
+            "pass": "Contraseña:",
+            "connectBtnHover": "Conectarse al CM",
+            "showLabel": "Mostrar etiquetas",
+            "hideEdges": "Ocultar aristas no seleccionadas",
+            "minSimilarity": "Similitud minima",
+            "relevantArtworks": "Cantidad de obras relevantes"
+        },
+        "savePerspective": {
+            "hoverText": "Guardar perspectivas"
+        },
+        "perspectiveBuilder": {
+            "hoverText": "Constructor de perspectivas"
+        },
+        "selectPerspective": {
+            "hoverText": "Seleccionar perspectivas",
+            "unselectedName": "Selecciona perspectiva",
+            "noAvailableName": "No hay perspectivas disponibles"
+        },
+        "updateBtn": {
+            "hoverText": "Re-cargar perspectivas"
+        },
+        "collapseBtns": {
+            "leftHoverText": "Reducir perspectiva de la izquierda",
+            "rightHoverText": "Reducir perspectiva de la derecha"
+        },
+        "legend": {
+            "hoverText": "Leyenda",
+            "unselectedName": "Leyenda",
+            "noAvailableName": "No hay Leyenda",
+            "anonymousRow": "Usuarios anonimos",
+            "anonymousExplanation": "Usuarios sin comunidades explicitas"
+        }
+    },
+    "savePerspectives": {
+        "tittle": "Guardar perspectivas",
+        "toggleLabel": "Mostrar/Ocultar todas",
+        "downloadBtn": "Descargar perspectivas"
+    },
+    "perspectiveBuider": {
+        "devModeBtn": "Modo desarrollador",
+        "similarityValues": {
+            "similar": "Similar",
+            "same": "Igual",
+            "dissimilar": "Diferente"
+        },
+        "middleSentence": {
+            "base": "en",
+            "hetch": "para usuarios con"
+        },
+        "lastSentence": {
+            "base": "Obras.",
+            "hetch": "Creencias."
+        },
+        "leftBoxTittle": "Atributos de la Leyenda",
+        "rightBoxTittle": {
+            "base": "Atributos de las Obras",
+            "hetch": "Creencias."
+        },
+        "perspectiveNameLabel": "Nombre de la perspectiva",
+        "sendBtn": "Enviar Perspectiva",
+        "algorithmSlider": "Peso de explicabilidad",
+        "algorithmSliderExplanation": "El procentaje de peso minimo que los usuarios deben tener para considerar que tienen los mismos valores en sus contribuciones (emociones, valores, sentimientos) para hacer esos atributos explicables. Un alto valor aumenta el numero de comunidades y quizas aumente tambien el numero de usuarios sin una comunidades.",
+        "similaritySlider": "Limite de similitud",
+        "similaritySliderExplanation": "Similitud minima entre obras de dos interacciones para calcular la similitud entre ellas. (Si no, se asume que son iguales)"
+    },
+    "dataColumn": {
+        "citizenTittle": "Descripcion del ciudadano",
+        "userLabelLabel": "Etiqueta",
+        "relatedContributions": "Contribuciones relacionadas con su comunidad",
+        "otherContributions": "Otras contribuciones",
+        "communityTittle": "Descripcion de la comunidad",
+        "communityNameLabel": "Nombre",
+        "totalCitizensLabel": "Total de ciudadanos",
+        "anonymousLabel": "Anonimos",
+        "interactionsName": "Interacciones",
+        "noUserAttrb": "Todos los atributos del ciudadano son desconocidos",
+        "relevantArtworks": "Obras relacionadas con la comunidad",
+        "medoidTittle": "Ciudadano representativo"
+    },
+    "loadingText": {
+        "requestPerspective": "Cargando la perspectiva ",
+        "requestingAllPerspectives": "Cargando todas las perspectivas",
+        "requestingConfToolSeed": "Cargando la configuracion inicial",
+        "simpleRequest": "Cargando",
+        "CMisBusy": "El CM esta ocupado, Intentadolo de nuevo",
+        "sendingPerspectiveConfig": "Enviando la configuracion de una perspectiva",
+        "requestPerspectiveConfig": "Cargando la configuracion de una perspectiva"
+    }
+}

@@ -21,36 +21,7 @@
             "att_type": "String"
         }
     ],
-    "interaction_similarity_functions": [
-        {
-            "sim_function": {
-                "name": "ExtendedPlutchikEmotionSimilarityDAO",
-                "params": [],
-                "on_attribute": {
-                    "att_name": "interest.itMakesMeThinkAbout.emotions",
-                    "att_type": "dict"
-                },
-                "interaction_object": {
-                    "att_name": "id",
-                    "att_type": "String"
-                }
-            }
-        },
-        {
-            "sim_function": {
-                "name": "SentimentSimilarityDAO",
-                "params": [],
-                "on_attribute": {
-                    "att_name": "interest.itMakesMeThinkAbout.sentiment",
-                    "att_type": "dict"
-                },
-                "interaction_object": {
-                    "att_name": "id",
-                    "att_type": "String"
-                }
-            }
-        }
-    ],
+    "interaction_similarity_functions": [],
     "artwork_attributes": [
         {
             "on_attribute": {
@@ -453,5 +424,5 @@
             "id": "34432432"
         }
     ],
-    "HetchStructure": false
+    "BeliefStructure": false
 }
