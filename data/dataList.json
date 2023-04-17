@@ -1,7 +1,127 @@
 [
   {
+    "id": "D3.7-DMH-S-interest.emotions-E-artworks Pastille",
+    "name": "D3.7-DMH-S-interest.emotions-E-artworks Pastille"
+  },
+  {
+    "id": "D3.7-DMH-S-interest.emotions-S-artworks  (Materials)",
+    "name": "D3.7-DMH-S-interest.emotions-S-artworks  (Materials)"
+  },
+  {
+    "id": "D3.7-DMH-S-interest.emotions-S-artworks  (Object group)",
+    "name": "D3.7-DMH-S-interest.emotions-S-artworks  (Object group)"
+  },
+  {
+    "id": "D3.7-DMH-S-interest.sentiment-E-artworks Fiskars scissors",
+    "name": "D3.7-DMH-S-interest.sentiment-E-artworks Fiskars scissors"
+  },
+  {
+    "id": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)",
+    "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
+  },
+  {
+    "id": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)",
+    "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)"
+  },
+  {
+    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)"
+  },
+  {
+    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Daphne (Daphne a Pavarolo)",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Daphne (Daphne a Pavarolo)"
+  },
+  {
+    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks La pittrice",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks La pittrice"
+  },
+  {
+    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve"
+  },
+  {
+    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
+  },
+  {
+    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)"
+  },
+  {
+    "id": "D3.7-HECHT-S-emotion.Galillee_Rebellion-S-artworks  (Beliefs.beliefR)",
+    "name": "D3.7-HECHT-S-emotion.Galillee_Rebellion-S-artworks  (Beliefs.beliefR)"
+  },
+  {
+    "id": "D3.7-HECHT-S-sentiment.Joseph_Flavius-S-artworks  (Beliefs.beliefJ)",
+    "name": "D3.7-HECHT-S-sentiment.Joseph_Flavius-S-artworks  (Beliefs.beliefJ)"
+  },
+  {
+    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.consumption)",
+    "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.consumption)"
+  },
+  {
+    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.food)",
+    "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.food)"
+  },
+  {
+    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)",
+    "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)"
+  },
+  {
+    "id": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)",
+    "name": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)"
+  },
+  {
+    "id": "DMH-P2-SIMILAR-emotions-SIMILAR-artworks (color)",
+    "name": "DMH-P2-SIMILAR-emotions-SIMILAR-artworks (color)"
+  },
+  {
+    "id": "DMH-P3-SIMILAR-values-SIMILAR-artworks (materials)",
+    "name": "DMH-P3-SIMILAR-values-SIMILAR-artworks (materials)"
+  },
+  {
+    "id": "DMH-P4-SIMILAR-values-SIMILAR-artworks (color)",
+    "name": "DMH-P4-SIMILAR-values-SIMILAR-artworks (color)"
+  },
+  {
+    "id": "DMH-P5-SIMILAR-values-SIMILAR-artworks (materials, color)",
+    "name": "DMH-P5-SIMILAR-values-SIMILAR-artworks (materials, color)"
+  },
+  {
+    "id": "DMH-P6-SIMILAR-emotions-SAME-artworks",
+    "name": "DMH-P6-SIMILAR-emotions-SAME-artworks"
+  },
+  {
+    "id": "DMH-P7-SIMILAR-values-SAME-artworks",
+    "name": "DMH-P7-SIMILAR-values-SAME-artworks"
+  },
+  {
+    "id": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks",
+    "name": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks"
+  },
+  {
     "id": "GAM-P1-SIMILAR-emotions-SIMILAR-artworks-(iconclass)",
     "name": "GAM-P1-SIMILAR-emotions-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P10-SAME-values-SAME-artworks",
+    "name": "GAM-P10-SAME-values-SAME-artworks"
+  },
+  {
+    "id": "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P12-DISSIMILAR-emotions-SAME-artworks",
+    "name": "GAM-P12-DISSIMILAR-emotions-SAME-artworks"
+  },
+  {
+    "id": "GAM-P13-DISSIMILAR-values-SIMILAR-artworks-(iconclass)",
+    "name": "GAM-P13-DISSIMILAR-values-SIMILAR-artworks-(iconclass)"
+  },
+  {
+    "id": "GAM-P14-DISSIMILAR-values-SAME-artworks",
+    "name": "GAM-P14-DISSIMILAR-values-SAME-artworks"
   },
   {
     "id": "GAM-P2-SIMILAR-emotions-SIMILAR-artworks-(iconclass, polarity emotion)",
@@ -34,58 +154,6 @@
   {
     "id": "GAM-P9-SAME-values-SIMILAR-artworks-(iconclass)",
     "name": "GAM-P9-SAME-values-SIMILAR-artworks-(iconclass)"
-  },
-  {
-    "id": "GAM-P10-SAME-values-SAME-artworks",
-    "name": "GAM-P10-SAME-values-SAME-artworks"
-  },
-  {
-    "id": "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks-(iconclass)",
-    "name": "GAM-P11-DISSIMILAR-emotions-SIMILAR-artworks-(iconclass)"
-  },
-  {
-    "id": "GAM-P12-DISSIMILAR-emotions-SAME-artworks",
-    "name": "GAM-P12-DISSIMILAR-emotions-SAME-artworks"
-  },
-  {
-    "id": "GAM-P13-DISSIMILAR-values-SIMILAR-artworks-(iconclass)",
-    "name": "GAM-P13-DISSIMILAR-values-SIMILAR-artworks-(iconclass)"
-  },
-  {
-    "id": "GAM-P14-DISSIMILAR-values-SAME-artworks",
-    "name": "GAM-P14-DISSIMILAR-values-SAME-artworks"
-  },
-{
-    "id": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)",
-    "name": "DMH-P1-SIMILAR-emotions-SIMILAR-artworks (materials)"
-  },
-  {
-    "id": "DMH-P2-SIMILAR-emotions-SIMILAR-artworks (color)",
-    "name": "DMH-P2-SIMILAR-emotions-SIMILAR-artworks (color)"
-  },
-  {
-    "id": "DMH-P3-SIMILAR-values-SIMILAR-artworks (materials)",
-    "name": "DMH-P3-SIMILAR-values-SIMILAR-artworks (materials)"
-  },
-  {
-    "id": "DMH-P4-SIMILAR-values-SIMILAR-artworks (color)",
-    "name": "DMH-P4-SIMILAR-values-SIMILAR-artworks (color)"
-  },
-  {
-    "id": "DMH-P5-SIMILAR-values-SIMILAR-artworks (materials, color)",
-    "name": "DMH-P5-SIMILAR-values-SIMILAR-artworks (materials, color)"
-  },
-  {
-    "id": "DMH-P6-SIMILAR-emotions-SAME-artworks",
-    "name": "DMH-P6-SIMILAR-emotions-SAME-artworks"
-  },
-  {
-    "id": "DMH-P7-SIMILAR-values-SAME-artworks",
-    "name": "DMH-P7-SIMILAR-values-SAME-artworks"
-  },  
-  {
-    "id": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks",
-    "name": "DMH-P9-SIMILAR-sentiments-SIMILAR-artworks"
   },
   {
     "id": "GAM-SIMILAR-emotions-Dans_mon_pays",

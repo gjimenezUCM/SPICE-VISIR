@@ -1,0 +1,1561 @@
+{
+    "_id": {
+        "$oid": "6424d82837344e040f7b4fda"
+    },
+    "name": "D3.7-DMH-S-interest.emotions-E-artworks Pastille",
+    "perspectiveId": "6424d80c50c3dc7060f3e807",
+    "communities": [
+        {
+            "id": "6424d80c50c3dc7060f3e807-0",
+            "perspectiveId": "6424d80c50c3dc7060f3e807",
+            "community-type": "implicit",
+            "name": "Community 0",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid0"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (id):",
+                        "data": {
+                            " [44165]": []
+                        },
+                        "accordionMode": true
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (interest.emotions):",
+                        "data": {
+                            "interest": 64.28571428571429,
+                            "trust": 14.285714285714285,
+                            "joy": 14.285714285714285,
+                            "love": 7.142857142857142
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "137027",
+                "227606",
+                "234555",
+                "315375",
+                "337348",
+                "344521",
+                "446753",
+                "646909",
+                "751188",
+                "760671",
+                "788016",
+                "845666",
+                "921848",
+                "958841",
+                "centroid0"
+            ],
+            "medoid": "137027",
+            "centroid": {
+                "id": "centroid0",
+                "label": "centroid0",
+                "group": 0,
+                "explicit_community": {
+                    "Explicit community": "Senior citizens"
+                },
+                "implicit_community": {},
+                "community_interactions": [
+                    {
+                        "artwork_id": "44165",
+                        "sourceid": [
+                            "#44165C9"
+                        ],
+                        "feelings": "I didn't know that it\u2019s a chair. Truly beautiful shapes, could be a stress toy. I thought it could be a dish.",
+                        "extracted_emotions": {
+                            "interest": 1
+                        }
+                    }
+                ],
+                "no_community_interactions": []
+            }
+        },
+        {
+            "id": "6424d80c50c3dc7060f3e807-1",
+            "perspectiveId": "6424d80c50c3dc7060f3e807",
+            "community-type": "implicit",
+            "name": "Community 1",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid1"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (id):",
+                        "data": {
+                            " [44165]": []
+                        },
+                        "accordionMode": true
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (interest.emotions):",
+                        "data": {
+                            "fear": 66.66666666666666,
+                            "surprise": 33.33333333333333
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "266015",
+                "742369",
+                "789838",
+                "centroid1"
+            ],
+            "medoid": "266015",
+            "centroid": {
+                "id": "centroid1",
+                "label": "centroid1",
+                "group": 1,
+                "explicit_community": {
+                    "Explicit community": "Senior citizens"
+                },
+                "implicit_community": {},
+                "community_interactions": [
+                    {
+                        "artwork_id": "44165",
+                        "sourceid": [
+                            "#44165C5"
+                        ],
+                        "feelings": "The Pastille was a favorite piece of furniture for our 4- and 6-year-old boys. They rocked in it, and if you turned it upside down, it became a nest in which you can hide.",
+                        "extracted_emotions": {
+                            "fear": 1,
+                            "sadness": 1,
+                            "interest": 1
+                        }
+                    }
+                ],
+                "no_community_interactions": []
+            }
+        }
+    ],
+    "numberOfCommunities": 2,
+    "users": [
+        {
+            "id": "137027",
+            "label": "137027",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C9"
+                    ],
+                    "feelings": "I didn't know that it\u2019s a chair. Truly beautiful shapes, could be a stress toy. I thought it could be a dish.",
+                    "extracted_emotions": {
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "227606",
+            "label": "227606",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C11"
+                    ],
+                    "feelings": "Doesn\u2019t look like a chair, rather a decorative object or some storage item.",
+                    "extracted_emotions": {
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "234555",
+            "label": "234555",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S3"
+                    ],
+                    "feelings": "So well, somehow, it is, it is a great shape, but I don\u2019t, I don\u2019t unfortunately remember whether I have sat on one like that or not, but well, I think it brings an interest, that wouldn\u2019t it be nice to sit on that one. ",
+                    "extracted_emotions": {
+                        "anger": 0,
+                        "anticipation": 0,
+                        "disgust": 0,
+                        "fear": 0,
+                        "joy": 0,
+                        "sadness": 1,
+                        "surprise": 0,
+                        "trust": 0.33333333333333304,
+                        "interest": 4
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "266015",
+            "label": "266015",
+            "group": 1,
+            "explicit_community": {
+                "Explicit community": "General audience"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C5"
+                    ],
+                    "feelings": "The Pastille was a favorite piece of furniture for our 4- and 6-year-old boys. They rocked in it, and if you turned it upside down, it became a nest in which you can hide.",
+                    "extracted_emotions": {
+                        "fear": 1,
+                        "sadness": 1,
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "315375",
+            "label": "315375",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S2"
+                    ],
+                    "feelings": "Well, here we continue about this Pastille. This colour is absolutely magnificent to me, I can't tell whether this picture reproduces its colour correctly, but hopefully it does, the correct colour of the chair, and it, and I like that colour and then I like the asymmetry in it, that\u2019s probably partly because of the angle of view. This is somehow, doesn\u2019t this, doesn\u2019t this rock somehow, nicely, so that it\u2019s like rockable. With this chair, rocking is allowed.",
+                    "extracted_emotions": {
+                        "anger": 0,
+                        "anticipation": 0.096153846153846,
+                        "disgust": 0,
+                        "fear": 0,
+                        "joy": 0.096153846153846,
+                        "sadness": 0,
+                        "surprise": 0.096153846153846,
+                        "trust": 1.096153846153846,
+                        "interest": 4
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "337348",
+            "label": "337348",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C8"
+                    ],
+                    "feelings": "Beautiful object, on display on its own.",
+                    "extracted_emotions": {
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "344521",
+            "label": "344521",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S10",
+                        "#44165S11",
+                        "#44165S8",
+                        "#44165S9"
+                    ],
+                    "feelings": "I myself personally admired it at the home of my aunt, who was working on design herself, it was very early on, and, and to me, it represented a set of values that I already appreciated, already in my early teens. \nI believe that with today's technologies, it is possible to develop these products to products that are suitable to the time and durable, and I hope they will be seen in the future as well. The new generation will then gain from them the foundation, which is so splendidly available from them.\nEero Aarnio's chair Pastille represents to me one of the top products in Finnish design and these successful objects of the 1960s. Looking from today, from this angle, it is a bit of a controversial era and product, when plastic made its breakthrough in various products and designs. There was not so much concern for responsibility, and there was no talk of ecological material or such, but one went firmly forward and plastic represented modernism and, and a material which was very suitable for production in many ways. And even before, before the energy crises and so on.\nAnd Pastille is also one of the most internationally successful products, our design products, and it\u2019s always a pleasure to see it in different contexts and now even re-introduced in different places.",
+                    "extracted_emotions": {
+                        "fear": 0,
+                        "joy": 1.8784207404897062,
+                        "sadness": 0,
+                        "surprise": 0.344827586206896,
+                        "anticipation": 2.141743624502245,
+                        "trust": 2.4716562173458723,
+                        "interest": 2.08372581,
+                        "anger": 0,
+                        "disgust": 0
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "446753",
+            "label": "446753",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C4"
+                    ],
+                    "feelings": "Like a sculpture by Moore\u2026",
+                    "extracted_emotions": {
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "646909",
+            "label": "646909",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C12"
+                    ],
+                    "feelings": "I have a memory from my family. My eldest sister Marja married an architect. They moved to New York, took a red Pastille chair with them. The husband David died later. The Pastille chair always reminds me of David, who always sat in it and pondered his work and other things. He was very fond of Finland. He always offered a Finnish sauna to the apartments. As an American, he fell in love with the Pastille chair and loved it. My emotions surface immediately whenever I see this chair.",
+                    "extracted_emotions": {
+                        "interest": 1,
+                        "love": 2,
+                        "sadness": 1,
+                        "anger": 2,
+                        "trust": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "742369",
+            "label": "742369",
+            "group": 1,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C10"
+                    ],
+                    "feelings": "Looks dangerous.",
+                    "extracted_emotions": {
+                        "fear": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "751188",
+            "label": "751188",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S4"
+                    ],
+                    "feelings": "You will not take one? Well, for me, the Pastille chair. It\u2019s Eero's chair, from the 1960s. And at some point I had a dream and a wish that I could get this, but when I tried it in some expositions and exhibitions, it was very difficult to sit in it. And then that plastic surface was like, it like gave me a sweaty feeling. So no, not nice, not good. And, but it's beautiful, and it's interesting, and the kids surely love it, and on some terrace of a summer cottage it's a most splendid object.",
+                    "extracted_emotions": {
+                        "anger": 0,
+                        "anticipation": 1.081967213114754,
+                        "disgust": 0,
+                        "fear": 0.08196721311475401,
+                        "joy": 0.245901639344262,
+                        "sadness": 1,
+                        "surprise": 1.163934426229508,
+                        "trust": 0.08196721311475401,
+                        "interest": 6
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "760671",
+            "label": "760671",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C2"
+                    ],
+                    "feelings": "One can play with this chair! When I was little, it felt much bigger.",
+                    "extracted_emotions": {
+                        "joy": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "788016",
+            "label": "788016",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S12"
+                    ],
+                    "feelings": "And this chair by Eero Aarnio. It is charming. It has lovely shapes. And there comes the lights and the colours, and so on. And someone says this is a useless object. I think this is\u2026 As I told before here, sailing on the waves of the lake with this one was a lot of fun, also for an adult.",
+                    "extracted_emotions": {
+                        "anger": 0,
+                        "anticipation": 1.144927536231884,
+                        "disgust": 0,
+                        "fear": 0,
+                        "joy": 1.289855072463768,
+                        "sadness": 0,
+                        "surprise": 1,
+                        "trust": 1,
+                        "love": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "789838",
+            "label": "789838",
+            "group": 1,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C1"
+                    ],
+                    "feelings": "I wonder if this chair would float?",
+                    "extracted_emotions": {
+                        "surprise": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "845666",
+            "label": "845666",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "General audience"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S6",
+                        "#44165S5",
+                        "#44165S7"
+                    ],
+                    "feelings": "And these were the favourite pieces of furniture for our 4-6 year old boys, because one can swing with them, they can be rotated like a carousel. The other one pushed for more speed. And then one can turn them upside down and go hide in there, there in the hole.\nOur family received two Pastille chairs in the 1960s, late 1960s. One of them was red, and the other was white. My husband's sister was working at Asko, in Lahti, and one of her jobs was to travel around the world to arrange expositions, furniture expositions. And these chairs came to us because they had toured expositions around the world, and after that Inkeri wanted to give these chairs to us, as a gift. She hadn\u2019t got them for free, but she didn\u2019t want any money for them from us.\nThey really were with us for a long time, but now they have passed on to the next generation. Both boys got one of these Pastille chairs to their own home, and at one boy\u2019s home it was said to be the most expensive piece of furniture in the family. But the chair has brought joy also to their daughter.",
+                    "extracted_emotions": {
+                        "fear": 1.175438596491228,
+                        "joy": 3.576285240464345,
+                        "sadness": 1.0925925925925921,
+                        "surprise": 2.185185185185185,
+                        "anticipation": 3.576285240464345,
+                        "trust": 4.185185185185185,
+                        "interest": 1,
+                        "anger": 1.0925925925925921,
+                        "disgust": 0.47394605917779503
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "921848",
+            "label": "921848",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165S1"
+                    ],
+                    "feelings": "Okay. So this is Eero Aarnio's Pastille chair, which I don't have like actual personal experience of, like from home, but my friend has this chair. And I have tested sitting on it, and I think it\u2019s more beautiful as an object than for sitting, but well, I think it\u2019s a very elegant, elegant object.",
+                    "extracted_emotions": {
+                        "anger": 0,
+                        "anticipation": 0,
+                        "disgust": 0,
+                        "fear": 0,
+                        "joy": 2.140845070422535,
+                        "sadness": 0,
+                        "surprise": 0,
+                        "trust": 0.14084507042253502,
+                        "interest": 5
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "958841",
+            "label": "958841",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C6"
+                    ],
+                    "feelings": "I know this from the museum. Easter colour.",
+                    "extracted_emotions": {
+                        "interest": 0.6042757999999999
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid0",
+            "label": "centroid0",
+            "group": 0,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C9"
+                    ],
+                    "feelings": "I didn't know that it\u2019s a chair. Truly beautiful shapes, could be a stress toy. I thought it could be a dish.",
+                    "extracted_emotions": {
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid1",
+            "label": "centroid1",
+            "group": 1,
+            "explicit_community": {
+                "Explicit community": "Senior citizens"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "44165",
+                    "sourceid": [
+                        "#44165C5"
+                    ],
+                    "feelings": "The Pastille was a favorite piece of furniture for our 4- and 6-year-old boys. They rocked in it, and if you turned it upside down, it became a nest in which you can hide.",
+                    "extracted_emotions": {
+                        "fear": 1,
+                        "sadness": 1,
+                        "interest": 1
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        }
+    ],
+    "similarity": [
+        {
+            "u1": "137027",
+            "u2": "227606",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "234555",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "266015",
+            "value": 0.24
+        },
+        {
+            "u1": "137027",
+            "u2": "315375",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "337348",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "344521",
+            "value": 0.49
+        },
+        {
+            "u1": "137027",
+            "u2": "446753",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "137027",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "137027",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "137027",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "137027",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "137027",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "137027",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "234555",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "266015",
+            "value": 0.24
+        },
+        {
+            "u1": "227606",
+            "u2": "315375",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "337348",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "344521",
+            "value": 0.49
+        },
+        {
+            "u1": "227606",
+            "u2": "446753",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "227606",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "227606",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "227606",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "227606",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "227606",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "227606",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "227606",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "234555",
+            "u2": "266015",
+            "value": 0.24
+        },
+        {
+            "u1": "234555",
+            "u2": "315375",
+            "value": 1
+        },
+        {
+            "u1": "234555",
+            "u2": "337348",
+            "value": 1
+        },
+        {
+            "u1": "234555",
+            "u2": "344521",
+            "value": 0.49
+        },
+        {
+            "u1": "234555",
+            "u2": "446753",
+            "value": 1
+        },
+        {
+            "u1": "234555",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "234555",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "234555",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "234555",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "234555",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "234555",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "234555",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "234555",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "234555",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "266015",
+            "u2": "315375",
+            "value": 0.24
+        },
+        {
+            "u1": "266015",
+            "u2": "337348",
+            "value": 0.24
+        },
+        {
+            "u1": "266015",
+            "u2": "344521",
+            "value": 0.75
+        },
+        {
+            "u1": "266015",
+            "u2": "446753",
+            "value": 0.24
+        },
+        {
+            "u1": "266015",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "266015",
+            "u2": "742369",
+            "value": 1
+        },
+        {
+            "u1": "266015",
+            "u2": "751188",
+            "value": 0.24
+        },
+        {
+            "u1": "266015",
+            "u2": "760671",
+            "value": 0.5
+        },
+        {
+            "u1": "266015",
+            "u2": "788016",
+            "value": 0.5
+        },
+        {
+            "u1": "266015",
+            "u2": "789838",
+            "value": 0.75
+        },
+        {
+            "u1": "266015",
+            "u2": "845666",
+            "value": 0.75
+        },
+        {
+            "u1": "266015",
+            "u2": "921848",
+            "value": 0.24
+        },
+        {
+            "u1": "266015",
+            "u2": "958841",
+            "value": 0.24
+        },
+        {
+            "u1": "315375",
+            "u2": "337348",
+            "value": 1
+        },
+        {
+            "u1": "315375",
+            "u2": "344521",
+            "value": 0.49
+        },
+        {
+            "u1": "315375",
+            "u2": "446753",
+            "value": 1
+        },
+        {
+            "u1": "315375",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "315375",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "315375",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "315375",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "315375",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "315375",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "315375",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "315375",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "315375",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "337348",
+            "u2": "344521",
+            "value": 0.49
+        },
+        {
+            "u1": "337348",
+            "u2": "446753",
+            "value": 1
+        },
+        {
+            "u1": "337348",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "337348",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "337348",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "337348",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "337348",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "337348",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "337348",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "337348",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "337348",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "344521",
+            "u2": "446753",
+            "value": 0.49
+        },
+        {
+            "u1": "344521",
+            "u2": "646909",
+            "value": 0.88
+        },
+        {
+            "u1": "344521",
+            "u2": "742369",
+            "value": 0.75
+        },
+        {
+            "u1": "344521",
+            "u2": "751188",
+            "value": 0.49
+        },
+        {
+            "u1": "344521",
+            "u2": "760671",
+            "value": 0.75
+        },
+        {
+            "u1": "344521",
+            "u2": "788016",
+            "value": 0.75
+        },
+        {
+            "u1": "344521",
+            "u2": "789838",
+            "value": 0.5
+        },
+        {
+            "u1": "344521",
+            "u2": "845666",
+            "value": 1
+        },
+        {
+            "u1": "344521",
+            "u2": "921848",
+            "value": 0.49
+        },
+        {
+            "u1": "344521",
+            "u2": "958841",
+            "value": 0.49
+        },
+        {
+            "u1": "446753",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "446753",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "446753",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "446753",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "446753",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "446753",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "446753",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "446753",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "446753",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "646909",
+            "u2": "742369",
+            "value": 0.62
+        },
+        {
+            "u1": "646909",
+            "u2": "751188",
+            "value": 0.62
+        },
+        {
+            "u1": "646909",
+            "u2": "760671",
+            "value": 0.88
+        },
+        {
+            "u1": "646909",
+            "u2": "788016",
+            "value": 0.88
+        },
+        {
+            "u1": "646909",
+            "u2": "789838",
+            "value": 0.38
+        },
+        {
+            "u1": "646909",
+            "u2": "845666",
+            "value": 0.88
+        },
+        {
+            "u1": "646909",
+            "u2": "921848",
+            "value": 0.62
+        },
+        {
+            "u1": "646909",
+            "u2": "958841",
+            "value": 0.62
+        },
+        {
+            "u1": "742369",
+            "u2": "751188",
+            "value": 0.24
+        },
+        {
+            "u1": "742369",
+            "u2": "760671",
+            "value": 0.5
+        },
+        {
+            "u1": "742369",
+            "u2": "788016",
+            "value": 0.5
+        },
+        {
+            "u1": "742369",
+            "u2": "789838",
+            "value": 0.75
+        },
+        {
+            "u1": "742369",
+            "u2": "845666",
+            "value": 0.75
+        },
+        {
+            "u1": "742369",
+            "u2": "921848",
+            "value": 0.24
+        },
+        {
+            "u1": "742369",
+            "u2": "958841",
+            "value": 0.24
+        },
+        {
+            "u1": "751188",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "751188",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "751188",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "751188",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "751188",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "751188",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "760671",
+            "u2": "788016",
+            "value": 1
+        },
+        {
+            "u1": "760671",
+            "u2": "789838",
+            "value": 0.25
+        },
+        {
+            "u1": "760671",
+            "u2": "845666",
+            "value": 0.75
+        },
+        {
+            "u1": "760671",
+            "u2": "921848",
+            "value": 0.74
+        },
+        {
+            "u1": "760671",
+            "u2": "958841",
+            "value": 0.74
+        },
+        {
+            "u1": "788016",
+            "u2": "789838",
+            "value": 0.25
+        },
+        {
+            "u1": "788016",
+            "u2": "845666",
+            "value": 0.75
+        },
+        {
+            "u1": "788016",
+            "u2": "921848",
+            "value": 0.74
+        },
+        {
+            "u1": "788016",
+            "u2": "958841",
+            "value": 0.74
+        },
+        {
+            "u1": "789838",
+            "u2": "845666",
+            "value": 0.5
+        },
+        {
+            "u1": "789838",
+            "u2": "921848",
+            "value": 0
+        },
+        {
+            "u1": "789838",
+            "u2": "958841",
+            "value": 0
+        },
+        {
+            "u1": "845666",
+            "u2": "921848",
+            "value": 0.49
+        },
+        {
+            "u1": "845666",
+            "u2": "958841",
+            "value": 0.49
+        },
+        {
+            "u1": "921848",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "227606",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "234555",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "266015",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid0",
+            "u2": "315375",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "337348",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "344521",
+            "value": 0.49
+        },
+        {
+            "u1": "centroid0",
+            "u2": "446753",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "centroid0",
+            "u2": "742369",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid0",
+            "u2": "751188",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "760671",
+            "value": 0.74
+        },
+        {
+            "u1": "centroid0",
+            "u2": "788016",
+            "value": 0.74
+        },
+        {
+            "u1": "centroid0",
+            "u2": "789838",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "845666",
+            "value": 0.49
+        },
+        {
+            "u1": "centroid0",
+            "u2": "921848",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "958841",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "137027",
+            "value": 1
+        },
+        {
+            "u1": "137027",
+            "u2": "centroid1",
+            "value": 0.24
+        },
+        {
+            "u1": "227606",
+            "u2": "centroid1",
+            "value": 0.24
+        },
+        {
+            "u1": "234555",
+            "u2": "centroid1",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "315375",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "337348",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "344521",
+            "value": 0.75
+        },
+        {
+            "u1": "centroid1",
+            "u2": "446753",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "646909",
+            "value": 0.62
+        },
+        {
+            "u1": "centroid1",
+            "u2": "742369",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "751188",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "760671",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid1",
+            "u2": "788016",
+            "value": 0.5
+        },
+        {
+            "u1": "centroid1",
+            "u2": "789838",
+            "value": 0.75
+        },
+        {
+            "u1": "centroid1",
+            "u2": "845666",
+            "value": 0.75
+        },
+        {
+            "u1": "centroid1",
+            "u2": "921848",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "958841",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid1",
+            "value": 0.24
+        },
+        {
+            "u1": "centroid1",
+            "u2": "266015",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid1",
+            "value": 0.24
+        }
+    ],
+    "artworks": [
+        {
+            "_id": "634f18fed4227a56290cb6c5",
+            "tittle": "Pastille",
+            "Object": "CHAIR",
+            "Special name": "armchair",
+            "id": "44165",
+            "author": "Aarnio, Eero",
+            "Production date": "1968",
+            "Collection": "*",
+            "Manufacturer": "Asko Oy",
+            "Dimension in cm": "92 x 92 x 53",
+            "Weight in kg": "10",
+            "Materials": [
+                "fiberglass"
+            ],
+            "Colour": [
+                "yellow"
+            ],
+            "_datasetid": "0daa0287-d7f4-4f03-a068-95f43afcc347",
+            "_timestamp": 1666128126,
+            "_timestamp_year": 2022,
+            "_timestamp_month": 10,
+            "_timestamp_day": 18,
+            "_timestamp_hour": 22,
+            "_timestamp_minute": 22,
+            "_timestamp_second": 6,
+            "_updated": {
+                "$numberDouble": "NaN"
+            },
+            "year": 1968,
+            "ColourRGB": [
+                [
+                    "255",
+                    "255",
+                    "0"
+                ]
+            ],
+            "image": "https://designmuseum.api.digimuseum.co/wp-content/uploads/2017/10/wsi-imageoptim-pastilli-rt-p-2000x1395.jpg",
+            "Object group": "furniture"
+        }
+    ],
+    "fileId": ""
+}

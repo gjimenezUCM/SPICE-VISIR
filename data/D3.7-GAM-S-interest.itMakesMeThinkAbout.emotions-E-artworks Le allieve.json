@@ -1,0 +1,297 @@
+{
+    "_id": {
+        "$oid": "642380c8d5b1945410230bd6"
+    },
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve",
+    "perspectiveId": "642380c17b898162273683a6",
+    "communities": [
+        {
+            "id": "642380c17b898162273683a6-0",
+            "perspectiveId": "642380c17b898162273683a6",
+            "community-type": "implicit",
+            "name": "Community 0",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid0"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (id):",
+                        "data": {
+                            " [35459]": []
+                        },
+                        "accordionMode": true
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "implicit_attributes",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "data": {
+                            "joy": 75,
+                            "serenity": 25
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "BTKF72et",
+                "KQTGApjD",
+                "cmq6JZxJ",
+                "x2AUnHqw",
+                "centroid0"
+            ],
+            "medoid": "BTKF72et",
+            "centroid": {
+                "id": "centroid0",
+                "label": "centroid0",
+                "group": 0,
+                "explicit_community": {
+                    "demographics.RelationshipWithArt": "Art interests me little",
+                    "demographics.ContentInLIS": "I'm not interested in sign language content"
+                },
+                "implicit_community": {},
+                "community_interactions": [
+                    {
+                        "artwork_id": "35459",
+                        "sourceid": "fake90e6d701748f08514b01",
+                        "feelings": "quiet, a quiet summer afternoon, windless quiet",
+                        "extracted_emotions": {
+                            "joy": 0.81,
+                            "serenity": 0.796984675
+                        }
+                    }
+                ],
+                "no_community_interactions": []
+            }
+        }
+    ],
+    "numberOfCommunities": 1,
+    "users": [
+        {
+            "id": "BTKF72et",
+            "label": "BTKF72et",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "Art interests me little",
+                "demographics.ContentInLIS": "I'm not interested in sign language content"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "35459",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "quiet, a quiet summer afternoon, windless quiet",
+                    "extracted_emotions": {
+                        "joy": 0.81,
+                        "serenity": 0.796984675
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "KQTGApjD",
+            "label": "KQTGApjD",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "Art interests me little",
+                "demographics.ContentInLIS": "I'm not interested in sign language content"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "35459",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "allegro, nonni, estate",
+                    "extracted_emotions": {
+                        "joy": 1.9905802000000001
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "cmq6JZxJ",
+            "label": "cmq6JZxJ",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "Art interests me little",
+                "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "35459",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "",
+                    "extracted_emotions": {
+                        "joy": 0.8300000000000001
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "x2AUnHqw",
+            "label": "x2AUnHqw",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "I have a strong interest in art",
+                "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "35459",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "serenit\u00e0 ",
+                    "extracted_emotions": {
+                        "joy": 1.8313890000000002,
+                        "serenity": 1.9839064
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid0",
+            "label": "centroid0",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "Art interests me little",
+                "demographics.ContentInLIS": "I'm not interested in sign language content"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "35459",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "quiet, a quiet summer afternoon, windless quiet",
+                    "extracted_emotions": {
+                        "joy": 0.81,
+                        "serenity": 0.796984675
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        }
+    ],
+    "similarity": [
+        {
+            "u1": "BTKF72et",
+            "u2": "KQTGApjD",
+            "value": 1
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "cmq6JZxJ",
+            "value": 1
+        },
+        {
+            "u1": "BTKF72et",
+            "u2": "x2AUnHqw",
+            "value": 0.99
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "cmq6JZxJ",
+            "value": 1
+        },
+        {
+            "u1": "KQTGApjD",
+            "u2": "x2AUnHqw",
+            "value": 0.99
+        },
+        {
+            "u1": "cmq6JZxJ",
+            "u2": "x2AUnHqw",
+            "value": 0.99
+        },
+        {
+            "u1": "centroid0",
+            "u2": "KQTGApjD",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "cmq6JZxJ",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "x2AUnHqw",
+            "value": 0.99
+        },
+        {
+            "u1": "centroid0",
+            "u2": "BTKF72et",
+            "value": 1
+        }
+    ],
+    "artworks": [
+        {
+            "@id": 35459,
+            "DateOfLastModify": "2019-01-15 10:52",
+            "tittle": "Le allieve",
+            "Inventary": "P/1964",
+            "Collection": "Ottocento - secondo piano",
+            "Sumbject": "",
+            "author": "Lorenzo Delleani",
+            "year": 1885,
+            "Material_ and_echnique": "Olio su tavola",
+            "Dimension": "cm 37x25",
+            "Definizione": "",
+            "Acquisizione": "Legato di Ettore De Fonaris, Torino, 1978",
+            "image": "https://www.gamtorino.it/media/opere/Delleani%20allieve.JPG",
+            "description": "Ritorna in questa tavoletta il soggetto delle allieve che dipingono en plein air, gi\u00e0 trattato nell'opera del 13.9.1881 (Inv. P/1955), ancora una volta immerso nell'atmosfera luminosa di settembre. Qui il gruppo delle cinque figure, con le sue macchie di colore rosso e bianco e un'occupazione frammentata dello spazio, fa da giusto contrappunto ai toni verdi del declivio e alla sobriet\u00e0 di linee del paesaggio a cui i tre spogli alberi sulla destra danno essenziale profondit\u00e0.\n\nAntonella Casassa",
+            "degari_extracted_emotions": [
+                "Optimism"
+            ],
+            "Artwork_start_date": 1885,
+            "Artwork_end_date": "",
+            "Artist_birth_date": 1840,
+            "Artist_death_date": 1908,
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Plein Air",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on wood",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 25,
+            "Size_width": 37,
+            "Size_depth": "",
+            "Materials": [
+                "wood"
+            ],
+            "Iconclass_subjects_curators": "25HH113 (high) hill - HH - ideal landscapes; 25H151 deciduous forest; 48C5112 working situations ~ painter; 48C5 painting, drawing and the graphic arts; 31D13 adolescent, young woman, maiden; 49B24 teacher and pupil;",
+            "iconclassIDString": "25HH113(high);25H151;48C5112;48C5;31D13;49B24",
+            "iconclassArrayIDs": [
+                "25HH113",
+                "25H151",
+                "48C5112",
+                "48C5",
+                "31D13",
+                "49B24"
+            ],
+            "ApproxYear": 1885,
+            "Decade": 1880,
+            "id": "35459"
+        }
+    ],
+    "fileId": ""
+}
