@@ -34,6 +34,36 @@
                             "disgust": 4.166666666666666
                         }
                     },
+                    "visible": true,
+                    "unavailable": true
+                },
+                {
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
+                        "data": [
+                            {
+                                "key": "landscapes [25H]",
+                                "artworks": "2",
+                                "label": "landscapes [25H] - Artworks: 2. This identifier is the common parent of the following labels: low hill country (35323) [25H114]; plain - HH - ideal landscapes (39347) [25HH16]",
+                                "data": [
+                                    "39182",
+                                    "35330"
+                                ]
+                            },
+                            {
+                                "key": "human [24H]",
+                                "artworks": "4",
+                                "label": "human [24H] This is just a dummy value",
+                                "data": [
+                                    "39182",
+                                    "35330",
+                                    "35412"
+                                ]
+                            }
+                        ]
+                    },
                     "visible": true
                 },
                 {
@@ -47,20 +77,20 @@
                                 "label": "adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po)"
                             },
                             {
-                                "key": "31D1",
-                                "label": "the ages of man. Obtained from the artwork's iconclass IDs: 31D13 adolescent, young woman, maiden (La primavera, Le allieve); 31D14 adult man (L'edera, La Sirena (Sirena) (Abisso verde), Sponde del Po); 31D15 adult woman (L'edera, Maternit\u00e0); 31D12 youth, young man, adolescent (Pugilatore)"
+                                "key": "41A3311",
+                                "label": "open window (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
                             },
                             {
-                                "key": "25HH16",
-                                "label": "plain - HH - ideal landscapes (Dans mon pays, Sponde del Po)"
+                                "key": "25H114",
+                                "label": "low hill country (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
                             },
                             {
-                                "key": "33C233",
-                                "label": "(lovers) embracing each other (L'edera, La Sirena (Sirena) (Abisso verde))"
+                                "key": "47I421",
+                                "label": "vineyard (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
                             },
                             {
-                                "key": "31AA4561",
-                                "label": "merman - AA - mermaid, siren (La Sirena (Sirena) (Abisso verde))"
+                                "key": "31A51111",
+                                "label": "reflection (in a mirror) (Le tre finestre (La pianura della torre), Daphne (Daphne a Pavarolo))"
                             }
                         ]
                     },
