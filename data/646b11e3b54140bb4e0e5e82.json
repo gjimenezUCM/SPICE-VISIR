@@ -1,0 +1,560 @@
+{
+  "name": "JOCCH_sameEmotionsMatroseFritzMuller",
+  "perspectiveId": "646b11e3b54140bb4e0e5e82",
+  "communities": [
+    {
+      "id": "646b11e3b54140bb4e0e5e82-0",
+      "perspectiveId": "646b11e3b54140bb4e0e5e82",
+      "community-type": "implicit",
+      "name": "Community 0",
+      "explanations": [
+        {
+          "explanation_type": "medoid",
+          "explanation_data": {
+            "id": "centroid0"
+          },
+          "visible": true
+        },
+        {
+          "explanation_type": "implicit_attributes_list",
+          "explanation_key": "id",
+          "explanation_data": {
+            "label": "Community representative properties of the implicit attribute (id):",
+            "data": [
+              {
+                "key": " [35229]",
+                "label": " [35229]",
+                "data": []
+              }
+            ],
+            "accordionMode": true
+          },
+          "visible": false,
+          "unavailable": false
+        },
+        {
+          "explanation_type": "implicit_attributes_map",
+          "explanation_key": "interest.itMakesMeThinkAbout.emotions",
+          "explanation_data": {
+            "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+            "data": {
+              "joy": 100
+            }
+          },
+          "visible": true,
+          "unavailable": false
+        },
+        {
+          "explanation_type": "explicit_attributes",
+          "explanation_data": {},
+          "visible": true
+        }
+      ],
+      "users": [
+        "LW3Klzvx",
+        "WYCImqGm",
+        "e4aM9WL7",
+        "centroid0"
+      ],
+      "medoid": "LW3Klzvx",
+      "centroid": {
+        "id": "centroid0",
+        "label": "centroid0",
+        "group": 0,
+        "explicit_community": {
+          "demographics.RelationshipWithArt": "I have a strong interest in art",
+          "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+        },
+        "implicit_community": {},
+        "community_interactions": [
+          {
+            "artwork_id": "35229",
+            "sourceid": "fake90e6d701748f08514b01",
+            "feelings": "",
+            "extracted_emotions": {
+              "joy": 0.8300000000000001
+            }
+          }
+        ],
+        "no_community_interactions": []
+      }
+    },
+    {
+      "id": "646b11e3b54140bb4e0e5e82-1",
+      "perspectiveId": "646b11e3b54140bb4e0e5e82",
+      "community-type": "implicit",
+      "name": "Community 1",
+      "explanations": [
+        {
+          "explanation_type": "medoid",
+          "explanation_data": {
+            "id": "centroid1"
+          },
+          "visible": true
+        },
+        {
+          "explanation_type": "implicit_attributes_list",
+          "explanation_key": "id",
+          "explanation_data": {
+            "label": "Community representative properties of the implicit attribute (id):",
+            "data": [
+              {
+                "key": " [35229]",
+                "label": " [35229]",
+                "data": []
+              }
+            ],
+            "accordionMode": true
+          },
+          "visible": false,
+          "unavailable": false
+        },
+        {
+          "explanation_type": "implicit_attributes_map",
+          "explanation_key": "interest.itMakesMeThinkAbout.emotions",
+          "explanation_data": {
+            "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+            "data": {
+              "anger": 100
+            }
+          },
+          "visible": true,
+          "unavailable": false
+        },
+        {
+          "explanation_type": "explicit_attributes",
+          "explanation_data": {},
+          "visible": true
+        }
+      ],
+      "users": [
+        "BNtsz8zb",
+        "cBjFhvjx",
+        "centroid1"
+      ],
+      "medoid": "BNtsz8zb",
+      "centroid": {
+        "id": "centroid1",
+        "label": "centroid1",
+        "group": 1,
+        "explicit_community": {
+          "demographics.RelationshipWithArt": "I have a strong interest in art",
+          "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+        },
+        "implicit_community": {},
+        "community_interactions": [
+          {
+            "artwork_id": "35229",
+            "sourceid": "fake90e6d701748f08514b01",
+            "feelings": "different views of life",
+            "extracted_emotions": {
+              "anger": 0.8
+            }
+          }
+        ],
+        "no_community_interactions": []
+      }
+    },
+    {
+      "id": "646b11e3b54140bb4e0e5e82-2 (Users without community)",
+      "perspectiveId": "646b11e3b54140bb4e0e5e82",
+      "community-type": "inexistent",
+      "name": "Community 2 (Users without community)",
+      "explanations": [
+        {
+          "explanation_type": "medoid",
+          "explanation_data": {
+            "id": "onDqgFnI"
+          },
+          "visible": false
+        }
+      ],
+      "users": [
+        "onDqgFnI"
+      ]
+    }
+  ],
+  "numberOfCommunities": 2,
+  "users": [
+    {
+      "id": "BNtsz8zb",
+      "label": "BNtsz8zb",
+      "group": 1,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "different views of life",
+          "extracted_emotions": {
+            "anger": 0.8
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    },
+    {
+      "id": "LW3Klzvx",
+      "label": "LW3Klzvx",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I'm not interested in sign language content"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "",
+          "extracted_emotions": {
+            "joy": 0.8300000000000001
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    },
+    {
+      "id": "WYCImqGm",
+      "label": "WYCImqGm",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "Art interests me little",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "il Mondo che mi circonda fatto di alti e bassi ",
+          "extracted_emotions": {
+            "joy": 0.8300000000000001
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    },
+    {
+      "id": "cBjFhvjx",
+      "label": "cBjFhvjx",
+      "group": 1,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "LSD ",
+          "extracted_emotions": {
+            "anger": 0.8
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    },
+    {
+      "id": "e4aM9WL7",
+      "label": "e4aM9WL7",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "My work is about art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "al mare\n\n",
+          "extracted_emotions": {
+            "joy": 2.4666995
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    },
+    {
+      "id": "onDqgFnI",
+      "label": "onDqgFnI",
+      "group": 2,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I'm not interested in sign language content"
+      },
+      "implicit_community": {},
+      "community_interactions": [],
+      "no_community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "",
+          "extracted_emotions": {
+            "fear": 0.92
+          }
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "centroid0",
+      "label": "centroid0",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "",
+          "extracted_emotions": {
+            "joy": 0.8300000000000001
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    },
+    {
+      "id": "centroid1",
+      "label": "centroid1",
+      "group": 1,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [
+        {
+          "artwork_id": "35229",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "different views of life",
+          "extracted_emotions": {
+            "anger": 0.8
+          }
+        }
+      ],
+      "no_community_interactions": [],
+      "interactions": []
+    }
+  ],
+  "similarity": [
+    {
+      "u1": "BNtsz8zb",
+      "u2": "LW3Klzvx",
+      "value": 0
+    },
+    {
+      "u1": "BNtsz8zb",
+      "u2": "WYCImqGm",
+      "value": 0
+    },
+    {
+      "u1": "BNtsz8zb",
+      "u2": "cBjFhvjx",
+      "value": 1
+    },
+    {
+      "u1": "BNtsz8zb",
+      "u2": "e4aM9WL7",
+      "value": 0
+    },
+    {
+      "u1": "BNtsz8zb",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "LW3Klzvx",
+      "u2": "WYCImqGm",
+      "value": 1
+    },
+    {
+      "u1": "LW3Klzvx",
+      "u2": "cBjFhvjx",
+      "value": 0
+    },
+    {
+      "u1": "LW3Klzvx",
+      "u2": "e4aM9WL7",
+      "value": 1
+    },
+    {
+      "u1": "LW3Klzvx",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "WYCImqGm",
+      "u2": "cBjFhvjx",
+      "value": 0
+    },
+    {
+      "u1": "WYCImqGm",
+      "u2": "e4aM9WL7",
+      "value": 1
+    },
+    {
+      "u1": "WYCImqGm",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "cBjFhvjx",
+      "u2": "e4aM9WL7",
+      "value": 0
+    },
+    {
+      "u1": "cBjFhvjx",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "e4aM9WL7",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "BNtsz8zb",
+      "u2": "centroid0",
+      "value": 0
+    },
+    {
+      "u1": "centroid0",
+      "u2": "WYCImqGm",
+      "value": 1
+    },
+    {
+      "u1": "centroid0",
+      "u2": "cBjFhvjx",
+      "value": 0
+    },
+    {
+      "u1": "centroid0",
+      "u2": "e4aM9WL7",
+      "value": 1
+    },
+    {
+      "u1": "centroid0",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "centroid0",
+      "u2": "LW3Klzvx",
+      "value": 1
+    },
+    {
+      "u1": "centroid1",
+      "u2": "LW3Klzvx",
+      "value": 0
+    },
+    {
+      "u1": "centroid1",
+      "u2": "WYCImqGm",
+      "value": 0
+    },
+    {
+      "u1": "centroid1",
+      "u2": "cBjFhvjx",
+      "value": 1
+    },
+    {
+      "u1": "centroid1",
+      "u2": "e4aM9WL7",
+      "value": 0
+    },
+    {
+      "u1": "centroid1",
+      "u2": "onDqgFnI",
+      "value": 0
+    },
+    {
+      "u1": "centroid1",
+      "u2": "centroid0",
+      "value": 0
+    },
+    {
+      "u1": "centroid1",
+      "u2": "BNtsz8zb",
+      "value": 1
+    },
+    {
+      "u1": "centroid0",
+      "u2": "centroid1",
+      "value": 0
+    }
+  ],
+  "artworks": [
+    {
+      "@id": 35229,
+      "DateOfLastModify": "2019-01-15 11:48",
+      "tittle": "(Der) Matrose Fritz Múller aus Pieschen",
+      "Inventary": "P/1730",
+      "Collection": "Novecento - primo piano",
+      "Sumbject": "",
+      "author": "Otto Dix",
+      "year": "1919",
+      "Material_ and_echnique": "Tecnica mista, tempera e velatura ad olio su carta intelata con cornice originale dell'autore",
+      "Dimension": "128x127,8",
+      "Definizione": "",
+      "Acquisizione": "Acquisto presso la Galleria Klihm, Monaco, 1967",
+      "image": "https://www.gamtorino.it/media/opere/DIX%20P1730.jpg",
+      "description": "Questa importante opera appartiene al periodo giovanile di Dix, ed è di pochi mesi precedente alla vera svolta del suo stile, già incline verso il nuovo orientamento realista che si verificherà dopo il 1920. Il senso compositivo del dipinto risente della singolare intersezione di dadaismo, cubismo e futurismo. Significative analogie tematiche e formali con quest'opera si hanno in lavori come: Autoritratto a guisa di bersaglio, 1915 (Otto Dix Stiftung, Schaffhausen) e, soprattutto Súdlicher Matrose, 1923 (ibid.) che si differenzia nella figura del marinaio solo per l'aggiunta della pipa in bocca, ed Hafenszene (Scena al porto), 1922 (coll. privata), vicino non solo nella interpretazione iconografica, ma anche per i chiari e brillanti cromatismi dalle tonalità dominanti azzurre e verdi.\n\nGiorgio Auneddu",
+      "degari_extracted_emotions": [
+        "Curiosity",
+        "Joy"
+      ],
+      "Artwork_start_date": 1919,
+      "Artwork_end_date": "",
+      "Artist_birth_date": 1891,
+      "Artist_death_date": 1969,
+      "Gender": "male",
+      "Artist_country": "Germany",
+      "Artist_secondary_country": "",
+      "Artwork_Artistic_Movement": "Avant garde",
+      "Secondary_Artwork_Artistic_Movement": "",
+      "Technique": "mixed",
+      "Artwork_type": "painting",
+      "Size_unity": "cm",
+      "Size_height": "127,8",
+      "Size_width": 128,
+      "Size_depth": "",
+      "Materials": [
+        "paper"
+      ],
+      "Iconclass_subjects_curators": "48B3 portrait, self-portrait of artist; 25HH2322(...) sea (with NAME) - HH - ideal landscapes; 49I1 exploration, expedition, voyage of discovery; 25M1 Egyptian pyramids (Wonder of the World); 46C21 ships (in general); 12R51 priest ~ American Indian religions; 25FF422 dragon (large fabulous serpent, sometimes with wings and legs); 25A1420 'Oriente' (Ripa)",
+      "iconclassIDString": "48B3;25HH2322;49I1;25M1;46C21;12R51;25FF422;25A1420",
+      "iconclassArrayIDs": [
+        "48B3",
+        "25HH2322",
+        "49I1",
+        "25M1",
+        "46C21",
+        "12R51",
+        "25FF422",
+        "25A1420"
+      ],
+      "ApproxYear": 1919,
+      "Decade": 1910,
+      "id": "35229"
+    }
+  ],
+  "fileId": "",
+  "id": "646b125441ee441c273a25c1"
+}

@@ -1,70 +1,90 @@
 [
   {
-    "id": "D3.7-DMH-S-interest.emotions-E-artworks Pastille",
+    "id": "6424d80c50c3dc7060f3e807",
     "name": "D3.7-DMH-S-interest.emotions-E-artworks Pastille"
   },
   {
-    "id": "D3.7-DMH-S-interest.emotions-S-artworks  (Materials)",
+    "id": "6424e8b950c3dc7060f3f0ad",
     "name": "D3.7-DMH-S-interest.emotions-S-artworks  (Materials)"
   },
   {
-    "id": "D3.7-DMH-S-interest.emotions-S-artworks  (Object group)",
+    "id": "6424d90050c3dc7060f3e88f",
     "name": "D3.7-DMH-S-interest.emotions-S-artworks  (Object group)"
   },
   {
-    "id": "D3.7-DMH-S-interest.sentiment-E-artworks Fiskars scissors",
+    "id": "6424f03e50c3dc7060f3f495",
     "name": "D3.7-DMH-S-interest.sentiment-E-artworks Fiskars scissors"
   },
   {
-    "id": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)",
-    "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
-  },
-  {
-    "id": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)",
+    "id": "642387d67b89816227368763",
     "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)",
+    "id": "642378c07b89816227367e64",
+    "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
+  },
+  {
+    "id": "64238d977b89816227368a63",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Daphne (Daphne a Pavarolo)",
+    "id": "64237f8c7b898162273682bb",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Daphne (Daphne a Pavarolo)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks La pittrice",
+    "id": "642380817b89816227368374",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks La pittrice"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve",
+    "id": "642380c17b898162273683a6",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)",
-    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
-  },
-  {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)",
+    "id": "64239d7d7b898162273692ac",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)"
   },
   {
-    "id": "D3.7-HECHT-S-emotion.Galillee_Rebellion-S-artworks  (Beliefs.beliefR)",
+    "id": "6423787e7b89816227367e3b",
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
+  },
+  {
+    "id": "64250702d288da8cd203b5a7",
     "name": "D3.7-HECHT-S-emotion.Galillee_Rebellion-S-artworks  (Beliefs.beliefR)"
   },
   {
-    "id": "D3.7-HECHT-S-sentiment.Joseph_Flavius-S-artworks  (Beliefs.beliefJ)",
+    "id": "64290c7157bac881797c6ccb",
     "name": "D3.7-HECHT-S-sentiment.Joseph_Flavius-S-artworks  (Beliefs.beliefJ)"
   },
   {
-    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.consumption)",
+    "id": "640f59549a7150601080fb03",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.consumption)"
   },
   {
-    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.food)",
+    "id": "640f593c9a7150601080fae8",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.food)"
   },
   {
-    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)",
+    "id": "640f591f9a7150601080fac1",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)"
+  },
+  {
+    "id": "646b11fcb54140bb4e0e5e95",
+    "name": "_JOCCH_sameEmotionsContadiniAlSole"
+  },
+  {
+    "id": "646b1237b54140bb4e0e5ebe",
+    "name": "_JOCCH_sameEmotionsDansMonPays"
+  },
+  {
+    "id": "646b121eb54140bb4e0e5eac",
+    "name": "_JOCCH_sameEmotionsLeTreFinistre"
+  },
+  {
+    "id": "646b11e3b54140bb4e0e5e82",
+    "name": "_JOCCH_sameEmotionsMatroseFritzMuller"
+  },
+  {
+    "id": "646b124cb54140bb4e0e5ecf",
+    "name": "_JOCCH_sameEmotionsSimArtworksIconclass"
   }
 ]

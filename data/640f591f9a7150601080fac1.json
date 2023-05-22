@@ -1,0 +1,2817 @@
+{
+    "_id": {
+        "$oid": "640f59237d00c82a13a78f83"
+    },
+    "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)",
+    "perspectiveId": "640f591f9a7150601080fac1",
+    "communities": [
+        {
+            "id": "640f591f9a7150601080fac1-0",
+            "perspectiveId": "640f591f9a7150601080fac1",
+            "community-type": "implicit",
+            "name": "Community 0",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid0"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.water_electricity",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (demographics.water_electricity):",
+                        "data": {
+                            "very worried": 100
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+                "4140ff41-4163-45d4-af24-b8fe672e41be",
+                "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+                "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+                "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+                "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+                "centroid0"
+            ],
+            "medoid": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "centroid": {
+                "id": "centroid0",
+                "label": "centroid0",
+                "group": 0,
+                "explicit_community": {
+                    "demographics.school": "IES Menedez Pelayo (Getafe)",
+                    "demographics.grade": "3\u00ba ESO"
+                },
+                "implicit_community": {
+                    "demographics.water_electricity": "very worried"
+                },
+                "community_interactions": [],
+                "no_community_interactions": []
+            }
+        },
+        {
+            "id": "640f591f9a7150601080fac1-1",
+            "perspectiveId": "640f591f9a7150601080fac1",
+            "community-type": "implicit",
+            "name": "Community 1",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid1"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.water_electricity",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (demographics.water_electricity):",
+                        "data": {
+                            "worried": 100
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+                "842e00b9-7fdb-4e09-b438-164d19256ce3",
+                "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+                "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+                "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+                "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+                "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+                "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+                "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+                "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+                "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+                "centroid1"
+            ],
+            "medoid": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "centroid": {
+                "id": "centroid1",
+                "label": "centroid1",
+                "group": 1,
+                "explicit_community": {
+                    "demographics.school": "IES Menedez Pelayo (Getafe)",
+                    "demographics.grade": "3\u00ba ESO"
+                },
+                "implicit_community": {
+                    "demographics.water_electricity": "worried"
+                },
+                "community_interactions": [],
+                "no_community_interactions": []
+            }
+        },
+        {
+            "id": "640f591f9a7150601080fac1-2",
+            "perspectiveId": "640f591f9a7150601080fac1",
+            "community-type": "implicit",
+            "name": "Community 2",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid2"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.water_electricity",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (demographics.water_electricity):",
+                        "data": {
+                            "neutral": 100
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "bcf4511b-8291-4072-a819-69953432b47a",
+                "08f77e17-055c-49b5-b5f3-b43ad361022c",
+                "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+                "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+                "bcf4511b-8291-4072-a819-69953432b47a_2",
+                "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+                "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+                "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+                "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+                "centroid2"
+            ],
+            "medoid": "bcf4511b-8291-4072-a819-69953432b47a",
+            "centroid": {
+                "id": "centroid2",
+                "label": "centroid2",
+                "group": 2,
+                "explicit_community": {
+                    "demographics.school": "IES Menedez Pelayo (Getafe)",
+                    "demographics.grade": "3\u00ba ESO"
+                },
+                "implicit_community": {
+                    "demographics.water_electricity": "neutral"
+                },
+                "community_interactions": [],
+                "no_community_interactions": []
+            }
+        },
+        {
+            "id": "640f591f9a7150601080fac1-3 (Users without community)",
+            "perspectiveId": "640f591f9a7150601080fac1",
+            "community-type": "inexistent",
+            "name": "Community 3 (Users without community)",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "62c99e15-c777-4d68-9f4e-a1372ec29f56"
+                    },
+                    "visible": false
+                }
+            ],
+            "users": [
+                "62c99e15-c777-4d68-9f4e-a1372ec29f56"
+            ]
+        }
+    ],
+    "numberOfCommunities": 3,
+    "users": [
+        {
+            "id": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "label": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "bcf4511b-8291-4072-a819-69953432b47a",
+            "label": "bcf4511b-8291-4072-a819-69953432b47a",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "label": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "label": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "label": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "label": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "label": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "label": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "group": 3,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very unworried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "label": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "label": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "label": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "label": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "label": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "label": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "label": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "label": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "label": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "label": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "label": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "label": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "label": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "label": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "label": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "label": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "label": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "label": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "label": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid0",
+            "label": "centroid0",
+            "group": 0,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "very worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid1",
+            "label": "centroid1",
+            "group": 1,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "worried"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid2",
+            "label": "centroid2",
+            "group": 2,
+            "explicit_community": {
+                "demographics.school": "IES Menedez Pelayo (Getafe)",
+                "demographics.grade": "3\u00ba ESO"
+            },
+            "implicit_community": {
+                "demographics.water_electricity": "neutral"
+            },
+            "community_interactions": [],
+            "no_community_interactions": []
+        }
+    ],
+    "similarity": [
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 1
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 1
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 1
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 1
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 1
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 1
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 1
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 1
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 1
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 1
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 1
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 1
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 1
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 1
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 1
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 1
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 1
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "bcf4511b-8291-4072-a819-69953432b47a",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "value": 1
+        },
+        {
+            "u1": "aaf627ba-03a3-4682-93a3-a1f44022dbdc",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "b3a54afe-b01e-478f-923c-8d4b228fc2bf",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "08f77e17-055c-49b5-b5f3-b43ad361022c_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "b35b93d7-9d96-42b9-ba8f-2e24f28469de_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "98b9aa7c-ee91-40ec-af65-15e9608ff645_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "aaf627ba-03a3-4682-93a3-a1f44022dbdc_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "842e00b9-7fdb-4e09-b438-164d19256ce3_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "e18c026a-e064-4fb7-b0c3-336acf12eb7d_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "af3400f7-f102-40ad-9731-5c9751fcb5f4_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "7f42aa5c-e03c-4044-b334-ecd5535ac37a_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "62c99e15-c777-4d68-9f4e-a1372ec29f56_2",
+            "value": 1
+        },
+        {
+            "u1": "centroid2",
+            "u2": "071d2f43-84fb-4aa5-afec-7580c0b0d43c_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "4da675f4-80c0-4cee-b95f-287f75bc7cc3_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "4140ff41-4163-45d4-af24-b8fe672e41be_2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "centroid0",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid2",
+            "u2": "bcf4511b-8291-4072-a819-69953432b47a",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid1",
+            "value": 0
+        },
+        {
+            "u1": "centroid0",
+            "u2": "centroid2",
+            "value": 0
+        },
+        {
+            "u1": "centroid1",
+            "u2": "centroid2",
+            "value": 0
+        }
+    ],
+    "artworks": [],
+    "fileId": ""
+}

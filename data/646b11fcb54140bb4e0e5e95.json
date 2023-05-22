@@ -1,0 +1,142 @@
+{
+  "name": "JOCCH_sameEmotionsContadiniAlSole",
+  "perspectiveId": "646b11fcb54140bb4e0e5e95",
+  "communities": [
+    {
+      "id": "646b11fcb54140bb4e0e5e95-0 (Users without community)",
+      "perspectiveId": "646b11fcb54140bb4e0e5e95",
+      "community-type": "inexistent",
+      "name": "Community 0 (Users without community)",
+      "explanations": [
+        {
+          "explanation_type": "medoid",
+          "explanation_data": {
+            "id": "JgevtrSb"
+          },
+          "visible": false
+        }
+      ],
+      "users": [
+        "JgevtrSb",
+        "lkkZ1lUv"
+      ]
+    }
+  ],
+  "numberOfCommunities": 0,
+  "users": [
+    {
+      "id": "JgevtrSb",
+      "label": "JgevtrSb",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have no interest in art",
+        "demographics.ContentInLIS": "I'm not interested in sign language content"
+      },
+      "implicit_community": {},
+      "community_interactions": [],
+      "no_community_interactions": [
+        {
+          "artwork_id": "35227",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "i miei nonni che fanno un bel picnic in riva al mare",
+          "extracted_emotions": {
+            "joy": 1,
+            "interest": 1
+          }
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "lkkZ1lUv",
+      "label": "lkkZ1lUv",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "My work is about art",
+        "demographics.ContentInLIS": "I'm not interested in sign language content"
+      },
+      "implicit_community": {},
+      "community_interactions": [],
+      "no_community_interactions": [
+        {
+          "artwork_id": "35227",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "la tranquillità di una pausa pranzo durante un giorno di lavoro",
+          "extracted_emotions": {
+            "anticipation": 1,
+            "surprise": 1,
+            "trust": 1,
+            "joy": 1,
+            "serenity": 1.9848156000000001
+          }
+        }
+      ],
+      "interactions": []
+    }
+  ],
+  "similarity": [
+    {
+      "u1": "JgevtrSb",
+      "u2": "lkkZ1lUv",
+      "value": 0
+    }
+  ],
+  "artworks": [
+    {
+      "@id": 35227,
+      "DateOfLastModify": "2020-12-11 17:05",
+      "tittle": "Contadini al sole",
+      "Inventary": "P/965",
+      "Collection": "Opera non esposta",
+      "Sumbject": "",
+      "author": "Felice Carena",
+      "year": "1919",
+      "Material_ and_echnique": "Olio su tela",
+      "Dimension": "cm 182,3 x 152,7",
+      "Definizione": "",
+      "Acquisizione": "Acquisto presso la Società Promotrice delle Belle Arti, Torino, 1919",
+      "image": "https://www.gamtorino.it/media/opere/_Felice%20Carena,%20%20Contadini%20al%20sole,%201919.jpg",
+      "description": "La conoscenza della pittura post-impressionista, per visione diretta delle opere e attraverso i racconti dell'amico e critico d'arte Emilio Cecchi, imprime una svolta fondamentale al percorso figurativo di Carena, che progressivamente indaga i diversi sviluppi dell'impressionismo, pur mantenendo caratteristiche formali e cromatiche del tutto originali. Il dipinto segna il ritorno dell'artista alla pittura dopo la tragica interruzione della guerra ed è documento della sua infatuazione per Gauguin, il cui mondo esotico viene calato nella realtà agreste e primitiva di Anticoli Corrado, piccolo centro del Lazio divenuto, negli anni del conflitto, una vera e propria comunità di artisti.\n\nLaura D'Agostino",
+      "degari_extracted_emotions": [
+        "Despair",
+        "Disapproval",
+        "Envy",
+        "Pessimism",
+        "Remorse",
+        "Sentimentality"
+      ],
+      "Artwork_start_date": 1919,
+      "Artwork_end_date": "",
+      "Artist_birth_date": 1879,
+      "Artist_death_date": 1966,
+      "Gender": "male",
+      "Artist_country": "Italy",
+      "Artist_secondary_country": "",
+      "Artwork_Artistic_Movement": "Realism",
+      "Secondary_Artwork_Artistic_Movement": "Symbolism",
+      "Technique": "oil painting",
+      "Artwork_type": "painting",
+      "Size_unity": "cm",
+      "Size_height": "182,3",
+      "Size_width": "152,7",
+      "Size_depth": "",
+      "Materials": [
+        "canvas"
+      ],
+      "Iconclass_subjects_curators": "31A2351 sitting on the ground; 31AA2351 sitting on the ground - AA - female human figure; 31D14(+4) adult man (+ three-quarter view); 43B12 picnic, alfresco, 'déjeuner sur l'herbe'; 25G3(PINE) trees: pine;",
+      "iconclassIDString": "31A2351;31AA2351;31D14(+4);43B12;25G3(PINE)",
+      "iconclassArrayIDs": [
+        "31A2351",
+        "31AA2351",
+        "31D14(+4)",
+        "43B12",
+        "25G3(PINE)"
+      ],
+      "ApproxYear": 1919,
+      "Decade": 1910,
+      "id": "35227"
+    }
+  ],
+  "fileId": "",
+  "id": "646b125541ee441c273a25d1"
+}

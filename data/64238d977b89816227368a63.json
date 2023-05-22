@@ -1,0 +1,216 @@
+{
+    "_id": {
+        "$oid": "64238d9f91d92fc667230bcf"
+    },
+    "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)",
+    "perspectiveId": "64238d977b89816227368a63",
+    "communities": [
+        {
+            "id": "64238d977b89816227368a63-0",
+            "perspectiveId": "64238d977b89816227368a63",
+            "community-type": "implicit",
+            "name": "Community 0",
+            "explanations": [
+                {
+                    "explanation_type": "medoid",
+                    "explanation_data": {
+                        "id": "centroid0"
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "id",
+                    "explanation_data": {
+                        "label": "Community representative properties of the implicit attribute (id):",
+                        "data": [
+                            {
+                                "key": " [39648]",
+                                "artworks": "0",
+                                "label": " [39648]",
+                                "data": []
+                            }
+                        ]
+                    },
+                    "visible": false
+                },
+                {
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
+                    "explanation_data": {
+                        "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
+                        "data": {
+                            "joy": 100
+                        }
+                    },
+                    "visible": true
+                },
+                {
+                    "explanation_type": "explicit_attributes",
+                    "explanation_data": {},
+                    "visible": true
+                }
+            ],
+            "users": [
+                "Wsip5y7A",
+                "cBjFhvjx",
+                "centroid0"
+            ],
+            "medoid": "Wsip5y7A",
+            "centroid": {
+                "id": "centroid0",
+                "label": "centroid0",
+                "group": 0,
+                "explicit_community": {
+                    "demographics.RelationshipWithArt": "I have a strong interest in art",
+                    "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+                },
+                "implicit_community": {},
+                "community_interactions": [
+                    {
+                        "artwork_id": "39648",
+                        "sourceid": "fake90e6d701748f08514b01",
+                        "feelings": "casa",
+                        "extracted_emotions": {
+                            "joy": 0.81
+                        }
+                    }
+                ],
+                "no_community_interactions": []
+            }
+        }
+    ],
+    "numberOfCommunities": 1,
+    "users": [
+        {
+            "id": "Wsip5y7A",
+            "label": "Wsip5y7A",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "I have a strong interest in art",
+                "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "39648",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "casa",
+                    "extracted_emotions": {
+                        "joy": 0.81
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "cBjFhvjx",
+            "label": "cBjFhvjx",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "I have a strong interest in art",
+                "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "39648",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "Casa",
+                    "extracted_emotions": {
+                        "joy": 0.8300000000000001
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        },
+        {
+            "id": "centroid0",
+            "label": "centroid0",
+            "group": 0,
+            "explicit_community": {
+                "demographics.RelationshipWithArt": "I have a strong interest in art",
+                "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+            },
+            "implicit_community": {},
+            "community_interactions": [
+                {
+                    "artwork_id": "39648",
+                    "sourceid": "fake90e6d701748f08514b01",
+                    "feelings": "casa",
+                    "extracted_emotions": {
+                        "joy": 0.81
+                    }
+                }
+            ],
+            "no_community_interactions": []
+        }
+    ],
+    "similarity": [
+        {
+            "u1": "Wsip5y7A",
+            "u2": "cBjFhvjx",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "cBjFhvjx",
+            "value": 1
+        },
+        {
+            "u1": "centroid0",
+            "u2": "Wsip5y7A",
+            "value": 1
+        }
+    ],
+    "artworks": [
+        {
+            "@id": 39648,
+            "DateOfLastModify": "2020-11-30 17:07",
+            "tittle": "Anticoli sole a picco (Paesaggio di Anticoli)",
+            "Inventary": "P/1114",
+            "Collection": "Opera non esposta",
+            "Sumbject": "",
+            "author": "Gigi Chessa",
+            "year": 1921,
+            "Material_ and_echnique": "Olio su cartone",
+            "Dimension": "40 x 44 cm",
+            "Definizione": "",
+            "Acquisizione": "Acquisto presso la Societ\u00e0 Promotrice delle Belle Arti, Torino, 1935",
+            "image": "https://www.gamtorino.it/it/media/opere/P_1114%20Chessa+Paesaggio%20di%20Anticoli_0.jpg",
+            "description": "Pur non sottraendosi all'autorit\u00e0 di Casorati, Chessa recepisce la pittura di Carena, con cui soggiorna, fra il 1919 ed il 1921, ad Anticoli Corrado. Il ritiro di Anticoli, ricco di informazioni e rapporti di lavoro, di riflessioni sul post - impressionismo e Cezanne in particolare, \u00e8 importante e fondamentale per la formazione del giovane Chessa. Da tali meditazioni nascono opere come questa, dove la solida struttura formale del gruppo di case, e del paesaggio, \u00e8 addolcita dalla incidenza della luce che cade dall'alto. \n\n \n\n \n\nAnna Gelli",
+            "degari_extracted_emotions": [
+                "Anxiety"
+            ],
+            "Artwork_start_date": 1921,
+            "Artwork_end_date": "",
+            "Artist_birth_date": 1898,
+            "Artist_death_date": "",
+            "Gender": "male",
+            "Artist_country": "Italy",
+            "Artist_secondary_country": "",
+            "Artwork_Artistic_Movement": "Post-impressionism",
+            "Secondary_Artwork_Artistic_Movement": "",
+            "Technique": "oil on cardboard",
+            "Artwork_type": "painting",
+            "Size_unity": "cm",
+            "Size_height": 40,
+            "Size_width": 44,
+            "Size_depth": "",
+            "Materials": [
+                "paper"
+            ],
+            "Iconclass_subjects_curators": "25H151 deciduous forest; 25I2 village; 25H114 low hill country",
+            "iconclassIDString": "25H151;25I2;25H114",
+            "iconclassArrayIDs": [
+                "25H151",
+                "25I2",
+                "25H114"
+            ],
+            "ApproxYear": 1921,
+            "Decade": 1920,
+            "id": "39648"
+        }
+    ],
+    "fileId": ""
+}
