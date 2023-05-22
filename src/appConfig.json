@@ -1,9 +1,9 @@
 {
-	"API_URI": "https://spice.fdi.ucm.es/hecht/",
+	"API_URI": "https://spice.fdi.ucm.es/gam/",
 	"API_USER": "user",
 	"API_PASS": "pass",
 	"USE_API_BY_DEFAULT": false,
 	"LANG": "en",
-	"MAX_GET_REQUEST_TIMEOUT": 2000,
+	"MAX_GET_REQUEST_TIMEOUT": 20000,
 	"NODE_RELOCATION_INCREMENT": 1.25
 }

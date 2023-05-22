@@ -66,5 +66,25 @@
   {
     "id": "640f591f9a7150601080fac1",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)"
+  },
+  {
+    "id": "646b11fcb54140bb4e0e5e95",
+    "name": "_JOCCH_sameEmotionsContadiniAlSole"
+  },
+  {
+    "id": "646b1237b54140bb4e0e5ebe",
+    "name": "_JOCCH_sameEmotionsDansMonPays"
+  },
+  {
+    "id": "646b121eb54140bb4e0e5eac",
+    "name": "_JOCCH_sameEmotionsLeTreFinistre"
+  },
+  {
+    "id": "646b11e3b54140bb4e0e5e82",
+    "name": "_JOCCH_sameEmotionsMatroseFritzMuller"
+  },
+  {
+    "id": "646b124cb54140bb4e0e5ecf",
+    "name": "_JOCCH_sameEmotionsSimArtworksIconclass"
   }
 ]

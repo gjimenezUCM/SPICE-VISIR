@@ -1,0 +1,169 @@
+{
+  "name": "JOCCH_sameEmotionsLeTreFinistre",
+  "perspectiveId": "646b121eb54140bb4e0e5eac",
+  "communities": [
+    {
+      "id": "646b121eb54140bb4e0e5eac-0 (Users without community)",
+      "perspectiveId": "646b121eb54140bb4e0e5eac",
+      "community-type": "inexistent",
+      "name": "Community 0 (Users without community)",
+      "explanations": [
+        {
+          "explanation_type": "medoid",
+          "explanation_data": {
+            "id": "HoNIcWZY"
+          },
+          "visible": false
+        }
+      ],
+      "users": [
+        "HoNIcWZY",
+        "LW3Klzvx",
+        "yjlouq5U"
+      ]
+    }
+  ],
+  "numberOfCommunities": 0,
+  "users": [
+    {
+      "id": "HoNIcWZY",
+      "label": "HoNIcWZY",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [],
+      "no_community_interactions": [
+        {
+          "artwork_id": "35330",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "Prospettive",
+          "extracted_emotions": {
+            "anticipation": 1
+          }
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "LW3Klzvx",
+      "label": "LW3Klzvx",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I'm not interested in sign language content"
+      },
+      "implicit_community": {},
+      "community_interactions": [],
+      "no_community_interactions": [
+        {
+          "artwork_id": "35330",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "due amici che erano a parlare guardando il panorama ma hanno deciso di uscire e correre nel prato ",
+          "extracted_emotions": {
+            "trust": 1
+          }
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "yjlouq5U",
+      "label": "yjlouq5U",
+      "group": 0,
+      "explicit_community": {
+        "demographics.RelationshipWithArt": "I have a strong interest in art",
+        "demographics.ContentInLIS": "I would like to see content in Sign Language (LIS)"
+      },
+      "implicit_community": {},
+      "community_interactions": [],
+      "no_community_interactions": [
+        {
+          "artwork_id": "35330",
+          "sourceid": "fake90e6d701748f08514b01",
+          "feelings": "una cosa rilassante",
+          "extracted_emotions": {
+            "joy": 0.81,
+            "interest": 1
+          }
+        }
+      ],
+      "interactions": []
+    }
+  ],
+  "similarity": [
+    {
+      "u1": "HoNIcWZY",
+      "u2": "LW3Klzvx",
+      "value": 0
+    },
+    {
+      "u1": "HoNIcWZY",
+      "u2": "yjlouq5U",
+      "value": 0
+    },
+    {
+      "u1": "LW3Klzvx",
+      "u2": "yjlouq5U",
+      "value": 0
+    }
+  ],
+  "artworks": [
+    {
+      "@id": 35330,
+      "DateOfLastModify": "2018-12-13 11:41",
+      "tittle": "Le tre finestre (La pianura della torre)",
+      "Inventary": "P/ 1640",
+      "Collection": "Novecento - primo piano",
+      "Sumbject": "",
+      "author": "Jessie Boswell",
+      "year": "1924",
+      "Material_ and_echnique": "Olio su tela applicata su cartone",
+      "Dimension": "cm 99 x 68,5",
+      "Definizione": "",
+      "Acquisizione": "Acquisto presso la Società Promotrice di Belle Arti, Torino, 1962",
+      "image": "https://www.gamtorino.it/it/media/opere/MALINCONIA-%20BOSWELL%20Le%20tre%20finestre.jpg",
+      "description": "La ricerca di composizione dello spazio, l'atmosfera di sospensione quasi metafisica, il colore essenziale steso con pennellate uniformi, evidenziano l'iniziale influenza di Felice Casorati, che Jessie Boswell interpreta in maniera personale e poetica. Abbandonerà presto la suggestione del maestro, avvicinandosi al linguaggio dei pittori francesi.\n\nAnna Gelli",
+      "degari_extracted_emotions": [
+        "Curiosity"
+      ],
+      "Artwork_start_date": 1924,
+      "Artwork_end_date": "",
+      "Artist_birth_date": 1881,
+      "Artist_death_date": 1956,
+      "Gender": "female",
+      "Artist_country": "United Kingdom",
+      "Artist_secondary_country": "Italy",
+      "Artwork_Artistic_Movement": "Magic realism",
+      "Secondary_Artwork_Artistic_Movement": "",
+      "Technique": "oil on canvas applied on cardboard",
+      "Artwork_type": "painting",
+      "Size_unity": "cm",
+      "Size_height": "68,5",
+      "Size_width": 99,
+      "Size_depth": "",
+      "Materials": [
+        "canvas",
+        "paper"
+      ],
+      "Iconclass_subjects_curators": "41A3311 open window; 25H114 low hill country; 47I421 vineyard; 41A421 curtains; 31A51111 reflection (in a mirror); 41A721 chair; 49L641 paper (writing material)",
+      "iconclassIDString": "41A3311;25H114;47I421;41A421;31A51111;41A721;49L641",
+      "iconclassArrayIDs": [
+        "41A3311",
+        "25H114",
+        "47I421",
+        "41A421",
+        "31A51111",
+        "41A721",
+        "49L641"
+      ],
+      "ApproxYear": 1924,
+      "Decade": 1920,
+      "id": "35330"
+    }
+  ],
+  "fileId": "",
+  "id": "646b125641ee441c273a25e2"
+}
