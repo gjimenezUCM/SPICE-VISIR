@@ -56,7 +56,6 @@ ______________________
     1. If a perspective is highlighted in red, it means its the current active perspective in this side of the app.
     2. If a perspective inside a dropdown is greyed out, it means its active in the other dropdown and you cant edit it from this dropdown.
 
-
 3. Now that the perspective is active, if you click a node of any network, all networks will select that node, will show the node's info in the nearby dataTables and will zoom in to that node and its connected nodes. A tooltip will be shown nearby the node to represent similar info.
 
 4. If you click a bounding box and not a node, two diferent things will happen depending on which network was clicked:
